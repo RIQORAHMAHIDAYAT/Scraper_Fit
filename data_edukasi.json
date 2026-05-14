@@ -1,16 +1,16 @@
 [
   {
-    "id": "dddd3d06af92",
+    "id": "6438fbe18e77",
     "sumber": "BBC Sport",
-    "judul": "BBC Sport",
+    "judul": "Gaelic Games",
     "ringkasan": "",
     "tips": [],
-    "kategori": "kardio",
+    "kategori": "kekuatan",
     "gambar": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-    "link_direct": "https://www.bbc.com/sport",
+    "link_direct": "https://www.bbc.com/sport/northern-ireland/gaelic-games",
     "link_sumber": [
-      "https://www.bbc.com/sport"
+      "https://www.bbc.com/sport/northern-ireland/gaelic-games"
     ],
-    "updated_at": "2026-05-13 23:56:37"
+    "updated_at": "2026-05-14 23:31:34"
   }
 ]
