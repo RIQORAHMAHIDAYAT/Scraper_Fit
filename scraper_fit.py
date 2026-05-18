@@ -437,11 +437,11 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
         rate_controller=lambda ctx: Quick429RateController(ctx)
     )
     
-    IG_USERNAME = os.environ.get("IG_USERNAME", "")
+    IG_USERNAME = os.environ.get("IG_USERNAME") or "postur_fit"
     IG_SESSION_FILE_BASE64 = os.environ.get("IG_SESSION_FILE_BASE64", "")
     
     loaded_session = False
-    if IG_USERNAME and IG_SESSION_FILE_BASE64:
+    if IG_SESSION_FILE_BASE64:
         try:
             import base64
             if os.name == 'nt':
@@ -597,11 +597,12 @@ async def main():
     print("\n" + "="*55)
     print("      POSTUREFIT SCRAPER DIAGNOSTIC DASHBOARD")
     print("="*55)
+    ig_username_resolved = os.environ.get("IG_USERNAME") or "postur_fit"
     ig_status = "[MISSING - Instagram disabled]"
     if IG_SESSION_ID:
         ig_status = "[FOUND - Using Session ID]"
-    if os.environ.get("IG_USERNAME") and os.environ.get("IG_SESSION_FILE_BASE64"):
-        ig_status = "[FOUND - Using Session File (Highly Secure)]"
+    if os.environ.get("IG_SESSION_FILE_BASE64"):
+        ig_status = f"[FOUND - Using Session File for @{ig_username_resolved} (Highly Secure)]"
         
     print(f"MongoDB URI:      {'[FOUND]' if MONGO_URI else '[MISSING - Database sync disabled]'}")
     print(f"Gemini API Key:   {'[FOUND]' if GEMINI_API_KEY else '[MISSING - AI Summaries disabled]'}")
