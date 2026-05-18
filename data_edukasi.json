@@ -1,16 +1,282 @@
 [
   {
-    "id": "6438fbe18e77",
-    "sumber": "BBC Sport",
-    "judul": "Gaelic Games",
+    "id": "0666cff688a4",
+    "sumber": "newsdata.io",
+    "judul": "This slow ancient practice lowers blood pressure without pills, gyms, or fast walking",
     "ringkasan": "",
     "tips": [],
-    "kategori": "kekuatan",
-    "gambar": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-    "link_direct": "https://www.bbc.com/sport/northern-ireland/gaelic-games",
+    "kategori": "umum",
+    "gambar": "https://cff2.earth.com/uploads/2026/05/16180812/baduanjin-exercise-lowers-blood-pressure.jpg",
+    "link_direct": "https://www.earth.com/news/slow-ancient-practice-baduanjin-lowers-blood-pressure-without-pills-gyms-or-fast-walking/",
     "link_sumber": [
-      "https://www.bbc.com/sport/northern-ireland/gaelic-games"
+      "https://www.earth.com/news/slow-ancient-practice-baduanjin-lowers-blood-pressure-without-pills-gyms-or-fast-walking/"
     ],
-    "updated_at": "2026-05-14 23:31:34"
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "fe6e55f03408",
+    "sumber": "newsdata.io",
+    "judul": "Colorado's AI Anti-Discrimination Law Is Dead Before It Ever Took Effect: Replaced With Notice-Only Framework",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://d.techtimes.com/en/full/464972/colorado-governor-jared-polis-speaks-during-community-gathering.jpg",
+    "link_direct": "https://www.techtimes.com/articles/316756/20260517/colorados-ai-anti-discrimination-law-dead-before-it-ever-took-effect-replaced-notice-only.htm",
+    "link_sumber": [
+      "https://www.techtimes.com/articles/316756/20260517/colorados-ai-anti-discrimination-law-dead-before-it-ever-took-effect-replaced-notice-only.htm"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "6e0889531225",
+    "sumber": "newsdata.io",
+    "judul": "Doctor And Cancer Researcher From Ridgewood Dies",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://patch.com/img/cdn20/shutterstock/23738927/20260515/023242/styles/patch_image/public/shutterstock-78971881310-copy___15141523924.jpg",
+    "link_direct": "https://patch.com/new-jersey/ridgewood/doctor-cancer-researcher-ridgewood-dies",
+    "link_sumber": [
+      "https://patch.com/new-jersey/ridgewood/doctor-cancer-researcher-ridgewood-dies"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "15a84efdf5ae",
+    "sumber": "newsdata.io",
+    "judul": "Coronavirus Recovery: Feeling Weak After Recovering from Covid-19? Here is what you should do",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://business2business.co.in/uploads/2021/04/5c039bce2e2098687617784c49733e03.jpg",
+    "link_direct": "https://www.business2business.co.in/article/2876/coronavirus-recovery-feeling-weak-after-recovering-from-covid-19-here-is-what-you-should-do",
+    "link_sumber": [
+      "https://www.business2business.co.in/article/2876/coronavirus-recovery-feeling-weak-after-recovering-from-covid-19-here-is-what-you-should-do"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "aedae2ca2ffa",
+    "sumber": "newsdata.io",
+    "judul": "Leeds 1 Brighton 0: Calvert-Lewin pounces on horror pass to bag 95th-minute winner as Whites survive Seagulls storm",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2F2026-leeds-uniteds-dominic-calvert-1081625523.jpg?quality%3D80%26strip%3Dall",
+    "link_direct": "https://www.thesun.co.uk/sport/39135375/leeds-brighton-calvert-lewin-goal-england-world-cup/",
+    "link_sumber": [
+      "https://www.thesun.co.uk/sport/39135375/leeds-brighton-calvert-lewin-goal-england-world-cup/"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "0995994be311",
+    "sumber": "newsdata.io",
+    "judul": "Chhattisgarh crosses 60% in census house listing",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.thestatesman.com/wp-content/uploads/2026/04/Census-2027-1.webp",
+    "link_direct": "https://www.thestatesman.com/india/chhattisgarh-crosses-60-in-census-house-listing-1503594991.html",
+    "link_sumber": [
+      "https://www.thestatesman.com/india/chhattisgarh-crosses-60-in-census-house-listing-1503594991.html"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "5e8da72c03ae",
+    "sumber": "newsdata.io",
+    "judul": "Luka Doncic’s Injury Recovery Becomes Lakers’ Top Priority After Playoff Collapse And Gruelling NBA Season | NBA",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "pemulihan",
+    "gambar": "https://new7tv.com/wp-content/uploads/2026/05/9rsb9iik_luka-doncic-afp_625x300_12_May_26.jpg",
+    "link_direct": "https://new7tv.com/sports/luka-doncics-injury-recovery-becomes-lakers-top-priority-after-playoff-collapse-and-gruelling-nba-season-nba/.html",
+    "link_sumber": [
+      "https://new7tv.com/sports/luka-doncics-injury-recovery-becomes-lakers-top-priority-after-playoff-collapse-and-gruelling-nba-season-nba/.html"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "53d99416227b",
+    "sumber": "newsdata.io",
+    "judul": "Babus, mantris & buzz: Has the Congress high command Dumped Ex LoP Adhir Ranjan Chowdhury in Bengal?",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://media.assettype.com/freepressjournal/2023-07/0fab49ef-1925-45d3-b084-4d31ca3bae0d/Parliament.jpg",
+    "link_direct": "https://www.freepressjournal.in/corporate-gallery/babus-mantris-buzz-has-the-congress-high-command-dumped-ex-lop-adhir-ranjan-chowdhury-in-bengal",
+    "link_sumber": [
+      "https://www.freepressjournal.in/corporate-gallery/babus-mantris-buzz-has-the-congress-high-command-dumped-ex-lop-adhir-ranjan-chowdhury-in-bengal"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "e26b41c834f5",
+    "sumber": "newsdata.io",
+    "judul": "The Mind Game",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.toiimg.com/imagenext/toiblogs/thumb/blogs/wp-content/uploads/2018/06/Kevin-R-Stone.jpg?resizemode=4&width=1280&height=720",
+    "link_direct": "https://timesofindia.indiatimes.com/blogs/siliconvalley/the-mind-game/",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/blogs/siliconvalley/the-mind-game/"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "03a2346b5dfc",
+    "sumber": "newsdata.io",
+    "judul": "Massive Libyan military exercises ‘a message for our friends and our foes,’ says senior general",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/91f82e503bfaa98bf13364e44ee49e6e559ecbc6-e1779034203243.jpg",
+    "link_direct": "https://nationalpost.com/news/world/libyan-military-exercises-message-friend-foes",
+    "link_sumber": [
+      "https://nationalpost.com/news/world/libyan-military-exercises-message-friend-foes"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "104666c5caf4",
+    "sumber": "gnews.io",
+    "judul": "Massive Libyan military exercises send message to friends and foes",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/91f82e503bfaa98bf13364e44ee49e6e559ecbc6-e1779034203243.jpg",
+    "link_direct": "https://nationalpost.com/news/world/libyan-military-exercises-message-friend-foes",
+    "link_sumber": [
+      "https://nationalpost.com/news/world/libyan-military-exercises-message-friend-foes"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "ed41b56cf65f",
+    "sumber": "gnews.io",
+    "judul": "Pre-SIR exercise in T: Alarm raised over functioning of BLOs",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.toiimg.com/thumb/msid-131157842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/city/hyderabad/pre-sir-exercise-in-t-alarm-raised-over-functioning-of-blos/articleshow/131157843.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/city/hyderabad/pre-sir-exercise-in-t-alarm-raised-over-functioning-of-blos/articleshow/131157843.cms"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "beb2ecc90f1d",
+    "sumber": "gnews.io",
+    "judul": "Salman Khan pens note on being alone and lonely with a shirtless pic, but all fans can talk about is his fitness at 60",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/05/17/550x309/salman_khan_1779033348312_1779033349037_98757dfc-f850-4a3f-80a6-bae44b45e6fc.jpg",
+    "link_direct": "https://www.hindustantimes.com/entertainment/bollywood/salman-khan-pens-note-on-being-alone-and-lonely-with-a-shirtless-pic-but-all-fans-can-talk-about-is-his-fitness-at-60-101779032930879.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/entertainment/bollywood/salman-khan-pens-note-on-being-alone-and-lonely-with-a-shirtless-pic-but-all-fans-can-talk-about-is-his-fitness-at-60-101779032930879.html"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "777874abdebd",
+    "sumber": "gnews.io",
+    "judul": "Duterte's new lawyers pitch old health issue",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/18/1060484.jpg",
+    "link_direct": "https://www.manilatimes.net/2026/05/18/news/national/dutertes-new-lawyers-pitch-old-health-issue/2345744",
+    "link_sumber": [
+      "https://www.manilatimes.net/2026/05/18/news/national/dutertes-new-lawyers-pitch-old-health-issue/2345744"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "cb0c134a53e6",
+    "sumber": "gnews.io",
+    "judul": "'Lonely When Nobody Wants You': Salman Khan Goes Shirtless, Drops Cryptic Note On Loneliness While Flaunting 6-Pack Abs",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://media.assettype.com/freepressjournal/2026-05-17/p0432cm2/salman-khan.jpg",
+    "link_direct": "https://www.freepressjournal.in/entertainment/lonely-when-nobody-wants-you-salman-khan-goes-shirtless-drops-cryptic-note-on-loneliness-while-flaunting-6-pack-abs",
+    "link_sumber": [
+      "https://www.freepressjournal.in/entertainment/lonely-when-nobody-wants-you-salman-khan-goes-shirtless-drops-cryptic-note-on-loneliness-while-flaunting-6-pack-abs"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "5bb49b6dafba",
+    "sumber": "gnews.io",
+    "judul": "JP Nagar residents take over streets for music, dance, and fitness at Bengaluru Happy Streets",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "fleksibilitas",
+    "gambar": "https://static.toiimg.com/thumb/msid-131157199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/city/bengaluru/jp-nagar-residents-take-over-streets-for-music-dance-and-fitness-at-bengaluru-happy-streets/articleshow/131157211.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/city/bengaluru/jp-nagar-residents-take-over-streets-for-music-dance-and-fitness-at-bengaluru-happy-streets/articleshow/131157211.cms"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "1fb79f85e894",
+    "sumber": "gnews.io",
+    "judul": "Joao Fonseca Sparks Fitness Concerns After Pulling Out of Pre-French Open Event",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1076690314.jpg-scaled.jpeg",
+    "link_direct": "https://www.essentiallysports.com/tennis-news-joao-fonseca-sparks-fitness-concerns-after-pulling-out-of-pre-french-open-event/",
+    "link_sumber": [
+      "https://www.essentiallysports.com/tennis-news-joao-fonseca-sparks-fitness-concerns-after-pulling-out-of-pre-french-open-event/"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "2d19c90000d7",
+    "sumber": "gnews.io",
+    "judul": "Chiranjeevi surprises fans with intense workout video, announces Mega158's opening ceremony date",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.toiimg.com/thumb/msid-131156770,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-surprises-fans-with-intense-workout-video-announces-mega158s-opening-ceremony-date/articleshow/131156640.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-surprises-fans-with-intense-workout-video-announces-mega158s-opening-ceremony-date/articleshow/131156640.cms"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "65c2484fcda3",
+    "sumber": "gnews.io",
+    "judul": "Jannik Sinner injury concern deepens after Daniil Medvedev battle ahead of Casper Ruud Italian Open final",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.toiimg.com/thumb/msid-131156076,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/sports/international-sports/jannik-sinner-injury-concern-deepens-after-daniil-medvedev-battle-ahead-of-casper-ruud-italian-open-final/articleshow/131156105.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/sports/international-sports/jannik-sinner-injury-concern-deepens-after-daniil-medvedev-battle-ahead-of-casper-ruud-italian-open-final/articleshow/131156105.cms"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
+  },
+  {
+    "id": "94203df61980",
+    "sumber": "gnews.io",
+    "judul": "'Fit Lag Raha Hoon Na?': CSK Star MS Dhoni Shows Off His Fitness During Fun Conversation With NSG Commandos | VIDEO",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://media.assettype.com/freepressjournal/2026-05-17/hctw7kyj/MS-Dhoni.jpg",
+    "link_direct": "https://www.freepressjournal.in/sports/fit-lag-raha-hoon-na-csk-star-ms-dhoni-shows-off-his-fitness-during-fun-conversation-with-nsg-commandos-video",
+    "link_sumber": [
+      "https://www.freepressjournal.in/sports/fit-lag-raha-hoon-na-csk-star-ms-dhoni-shows-off-his-fitness-during-fun-conversation-with-nsg-commandos-video"
+    ],
+    "updated_at": "2026-05-18 04:29:23"
   }
 ]
