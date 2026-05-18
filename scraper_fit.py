@@ -8,6 +8,7 @@ import json
 import feedparser
 import requests
 import instaloader
+from instaloader import ConnectionException
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 import cloudscraper
@@ -30,13 +31,15 @@ NEWSDATA_API_KEY = os.environ.get("NEWSDATA_API_KEY")
 GNEWS_API_KEY = os.environ.get("GNEWS_API_KEY")
 FREENEWS_API_KEY = os.environ.get("FREENEWS_API_KEY")
 
-try:
-    if GEMINI_API_KEY:
+gemini_client = None
+if GEMINI_API_KEY:
+    try:
         gemini_client = genai.Client(api_key=GEMINI_API_KEY)
-    else:
-        gemini_client = None
-except Exception:
-    gemini_client = None
+        print("[INFO] Google Gemini Client berhasil diinisialisasi.")
+    except Exception as e:
+        print(f"[ERROR] Gagal menginisialisasi Google Gemini Client: {e}")
+else:
+    print("[WARNING] GEMINI_API_KEY tidak ditemukan di environment. AI Summarization (ringkasan, tips, dan judul bersih) akan dilewati.")
 
 KATEGORI_KEYWORDS = [
     'fitness', 'posture', 'workout', 'stretching', 'exercise', 
@@ -126,10 +129,12 @@ Format output:
 Data:
 {json.dumps(payload_llm, ensure_ascii=False)}"""
 
+    model_name = "gemini-2.0-flash"
     for attempt in range(3):
         try:
+            print(f"[LLM] Mengirim batch ke {model_name}...")
             res = gemini_client.models.generate_content(
-                model="gemini-2.0-flash",
+                model=model_name,
                 contents=prompt,
                 config={"response_mime_type": "application/json"},
             )
@@ -148,7 +153,12 @@ Data:
             return data_batch
 
         except Exception as e:
-            print(f"[LLM] Error attempt {attempt + 1}: {e}")
+            print(f"[LLM] Error attempt {attempt + 1} dengan {model_name}: {e}")
+            if "RESOURCE_EXHAUSTED" in str(e) or "quota" in str(e).lower():
+                if model_name == "gemini-2.0-flash":
+                    print("[LLM] Quota gemini-2.0-flash habis. Mencoba fallback ke gemini-1.5-flash...")
+                    model_name = "gemini-1.5-flash"
+                    continue
             time.sleep(15)
 
     print("[LLM] Semua retry gagal, mengembalikan data mentah.")
@@ -301,7 +311,12 @@ def fetch_news_api(id_sudah_ada: set) -> list[dict]:
                             "link_direct": art['link'], "link_sumber": [art['link']]
                         })
                         id_sudah_ada.add(uid)
-        except Exception as e: print(f"[NewsData] Error: {e}")
+            else:
+                print(f"[NewsData] API returned status code {res.status_code}: {res.text}")
+        except Exception as e:
+            print(f"[NewsData] Error: {e}")
+    else:
+        print("[WARNING] NEWSDATA_API_KEY tidak ditemukan di environment. NewsData.io scraping dilewati.")
 
     # 2. GNews API
     if GNEWS_API_KEY:
@@ -320,7 +335,12 @@ def fetch_news_api(id_sudah_ada: set) -> list[dict]:
                             "link_direct": art['url'], "link_sumber": [art['url']]
                         })
                         id_sudah_ada.add(uid)
-        except Exception as e: print(f"[GNews] Error: {e}")
+            else:
+                print(f"[GNews] API returned status code {res.status_code}: {res.text}")
+        except Exception as e:
+            print(f"[GNews] Error: {e}")
+    else:
+        print("[WARNING] GNEWS_API_KEY tidak ditemukan di environment. GNews API scraping dilewati.")
 
     return hasil
 
@@ -367,14 +387,26 @@ def scrape_generic(url: str, source_name: str, id_sudah_ada: set, selector="arti
         
         for link, title_text in links[:8]:
             try:
-                if buat_id(title_text or link, source_name) in id_sudah_ada: continue
                 art_res = scraper.get(link, headers=HEADERS, timeout=10)
                 art_soup = BeautifulSoup(art_res.text, 'html.parser')
                 content = art_soup.find(selector) or art_soup.find('main') or art_soup.find('body')
                 text = content.get_text(separator=' ', strip=True) if content else ""
                 if not is_konten_fitness(text): continue
                 
-                judul = art_soup.find('h1').text.strip() if art_soup.find('h1') else title_text
+                # Ambil judul dari h1, og:title, atau title tag sebelum fallback ke title_text
+                judul_el = art_soup.find('h1')
+                og_title = art_soup.find('meta', property='og:title') or art_soup.find('meta', name='twitter:title')
+                html_title = art_soup.find('title')
+                
+                if judul_el and judul_el.text.strip():
+                    judul = judul_el.text.strip()
+                elif og_title and og_title.get('content'):
+                    judul = og_title['content'].strip()
+                elif html_title and html_title.text.strip():
+                    judul = html_title.text.strip()
+                else:
+                    judul = title_text if title_text else "Tips Olahraga"
+                
                 uid = buat_id(judul, source_name)
                 if uid in id_sudah_ada: continue
                 
@@ -393,9 +425,17 @@ def scrape_generic(url: str, source_name: str, id_sudah_ada: set, selector="arti
     return hasil
 
 
+class Quick429RateController(instaloader.RateController):
+    def handle_429(self, query_type):
+        print(f"[IG] Terdeteksi 429 Too Many Requests dari Instagram. Menghentikan scraping Instagram agar tidak hang/menunggu 30 menit.")
+        raise ConnectionException("429 Too Many Requests detected - Quick Exit enabled")
+
 def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
     print("[IG] Scraping with Instaloader...")
-    L = instaloader.Instaloader(user_agent=HEADERS['User-Agent'])
+    L = instaloader.Instaloader(
+        user_agent=HEADERS['User-Agent'],
+        rate_controller=lambda ctx: Quick429RateController(ctx)
+    )
     
     if IG_SESSION_ID:
         try:
@@ -403,7 +443,9 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
             L.context._session.cookies.set("sessionid", IG_SESSION_ID, domain=".instagram.com")
             print("[IG] Session ID applied.")
         except Exception as e:
-            print(f"[IG] Failed to apply session: {e}")
+            print(f"[IG] Failed to apply session cookie: {e}")
+    else:
+        print("[WARNING] IG_SESSION_ID tidak ditemukan di environment. Instagram memblokir request tanpa login. Instagram scraping kemungkinan besar akan gagal.")
 
     hasil = []
     for akun in IG_AKUN_FITNESS:
@@ -442,6 +484,7 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
                 time.sleep(random.randint(2, 5))
         except Exception as e:
             print(f"[IG] Error @{akun}: {e}")
+            print(f"[IG] Tips: Jika terjadi 'Login required', pastikan IG_SESSION_ID di .env/GitHub Secrets valid dan akun target tidak di-private.")
             
     print(f"[IG] Selesai: {len(hasil)} data")
     return hasil
@@ -527,6 +570,16 @@ def dedup_hasil(hasil_baru: list, data_di_db: list, threshold: float = 0.6) -> l
 
 
 async def main():
+    print("\n" + "="*55)
+    print("      POSTUREFIT SCRAPER DIAGNOSTIC DASHBOARD")
+    print("="*55)
+    print(f"MongoDB URI:      {'[FOUND]' if MONGO_URI else '[MISSING - Database sync disabled]'}")
+    print(f"Gemini API Key:   {'[FOUND]' if GEMINI_API_KEY else '[MISSING - AI Summaries disabled]'}")
+    print(f"NewsData API Key: {'[FOUND]' if NEWSDATA_API_KEY else '[MISSING - NewsData.io disabled]'}")
+    print(f"GNews API Key:    {'[FOUND]' if GNEWS_API_KEY else '[MISSING - GNews.io disabled]'}")
+    print(f"IG Session ID:    {'[FOUND]' if IG_SESSION_ID else '[MISSING - Instagram disabled]'}")
+    print("="*55 + "\n")
+
     print("[INFO] Menghubungkan ke MongoDB...")
     client = None
     id_sudah_ada = set()
@@ -538,7 +591,7 @@ async def main():
             collection = client[DB_NAME][COLLECTION_NAME]
             data_di_db = list(collection.find({}, {"id": 1, "link_direct": 1, "judul": 1, "_id": 0}))
             id_sudah_ada = {d["id"] for d in data_di_db if "id" in d}
-            print(f"[INFO] {len(id_sudah_ada)} data dari MongoDB.")
+            print(f"[INFO] Koneksi MongoDB berhasil. {len(id_sudah_ada)} data dari MongoDB.")
         except Exception as e:
             print(f"[ERROR] MongoDB: {e}")
 
