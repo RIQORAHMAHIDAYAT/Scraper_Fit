@@ -129,39 +129,39 @@ Format output:
 Data:
 {json.dumps(payload_llm, ensure_ascii=False)}"""
 
-    model_name = "gemini-2.0-flash"
-    for attempt in range(3):
-        try:
-            print(f"[LLM] Mengirim batch ke {model_name}...")
-            res = gemini_client.models.generate_content(
-                model=model_name,
-                contents=prompt,
-                config={"response_mime_type": "application/json"},
-            )
-            hasil_llm: list[dict] = json.loads(res.text)
-            llm_map = {str(item["id"]): item for item in hasil_llm}
+    model_options = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-2.5-flash"]
+    for model_name in model_options:
+        for attempt in range(2):
+            try:
+                print(f"[LLM] Mengirim batch ke {model_name} (Percobaan {attempt + 1})...")
+                res = gemini_client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config={"response_mime_type": "application/json"},
+                )
+                hasil_llm: list[dict] = json.loads(res.text)
+                llm_map = {str(item["id"]): item for item in hasil_llm}
 
-            for item in data_batch:
-                llm = llm_map.get(str(item["id"]), {})
-                item["judul"] = llm.get("judul") or item["judul"]
-                item["ringkasan"] = llm.get("ringkasan", "")
-                item["tips"] = llm.get("tips", [])
-                if "IG" in item["sumber"]:
-                    item["link_sumber"] = list(dict.fromkeys(llm.get("link_sumber", [])))
+                for item in data_batch:
+                    llm = llm_map.get(str(item["id"]), {})
+                    item["judul"] = llm.get("judul") or item["judul"]
+                    item["ringkasan"] = llm.get("ringkasan", "")
+                    item["tips"] = llm.get("tips", [])
+                    if "IG" in item["sumber"]:
+                        item["link_sumber"] = list(dict.fromkeys(llm.get("link_sumber", [])))
 
-            time.sleep(3)
-            return data_batch
+                print(f"[LLM] Sukses memproses batch dengan {model_name}!")
+                time.sleep(3)
+                return data_batch
 
-        except Exception as e:
-            print(f"[LLM] Error attempt {attempt + 1} dengan {model_name}: {e}")
-            if "RESOURCE_EXHAUSTED" in str(e) or "quota" in str(e).lower():
-                if model_name == "gemini-2.0-flash":
-                    print("[LLM] Quota gemini-2.0-flash habis. Mencoba fallback ke gemini-1.5-flash...")
-                    model_name = "gemini-1.5-flash"
-                    continue
-            time.sleep(15)
+            except Exception as e:
+                print(f"[LLM] Error dengan {model_name} (Percobaan {attempt + 1}): {e}")
+                if "RESOURCE_EXHAUSTED" in str(e) or "quota" in str(e).lower() or "NOT_FOUND" in str(e) or "not found" in str(e).lower():
+                    print(f"[LLM] {model_name} bermasalah (Quota/Not Found). Beralih ke model fallback berikutnya...")
+                    break
+                time.sleep(5)
 
-    print("[LLM] Semua retry gagal, mengembalikan data mentah.")
+    print("[LLM] Semua model fallback gagal, mengembalikan data mentah.")
     return data_batch
 
 
