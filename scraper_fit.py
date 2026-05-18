@@ -425,9 +425,21 @@ def scrape_generic(url: str, source_name: str, id_sudah_ada: set, selector="arti
     return hasil
 
 
+def ambil_free_proxies() -> list[str]:
+    try:
+        url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=5000&country=all&ssl=all&anonymity=all"
+        response = requests.get(url, timeout=10)
+        if response.status_code == 200:
+            proxies = [p.strip() for p in response.text.split("\n") if p.strip()]
+            print(f"[PROXY] Berhasil mengambil {len(proxies)} free proxies untuk bypass geoblock.")
+            return proxies
+    except Exception as e:
+        print(f"[PROXY] Gagal mengambil free proxies: {e}")
+    return []
+
 class Quick429RateController(instaloader.RateController):
     def handle_429(self, query_type):
-        print(f"[IG] Terdeteksi 429 Too Many Requests dari Instagram. Menghentikan scraping Instagram agar tidak hang/menunggu 30 menit.")
+        print(f"[IG] Terdeteksi 429 Too Many Requests dari Instagram.")
         raise ConnectionException("429 Too Many Requests detected - Quick Exit enabled")
 
 def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
@@ -461,7 +473,6 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
             
     if not loaded_session and IG_SESSION_ID:
         try:
-            # Simple hack to use session ID without a file
             L.context._session.cookies.set("sessionid", IG_SESSION_ID, domain=".instagram.com")
             print("[IG] Session ID applied.")
             loaded_session = True
@@ -471,11 +482,46 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
     if not loaded_session:
         print("[WARNING] Tidak ada session ID atau session file valid. Instagram scraping kemungkinan besar akan gagal.")
 
+    # Ambil pool free proxies untuk bypass geoblock di server awan
+    pool_proxies = ambil_free_proxies()
+    
     hasil = []
     for akun in IG_AKUN_FITNESS:
         try:
             print(f"[IG] Fetching @{akun}...")
-            profile = instaloader.Profile.from_username(L.context, akun)
+            
+            # Sistem rotasi proxy cerdas jika terkena 429 geoblock
+            profile = None
+            try:
+                # Coba langsung dulu
+                profile = instaloader.Profile.from_username(L.context, akun)
+            except Exception as e:
+                err_str = str(e)
+                if "429" not in err_str and "Too Many Requests" not in err_str and "ConnectionException" not in err_str:
+                    raise e
+                if not pool_proxies:
+                    raise Exception("Geoblock 429 terdeteksi dan tidak ada pool proxy tersedia.")
+                
+                print(f"[IG] Koneksi langsung terblokir 429. Mencoba bypass dengan rotasi free proxy...")
+                random.shuffle(pool_proxies)
+                
+                for idx, proxy in enumerate(pool_proxies[:15]):
+                    try:
+                        L.context._session.proxies = {
+                            "http": f"http://{proxy}",
+                            "https": f"http://{proxy}"
+                        }
+                        print(f"[IG] [{idx+1}/15] Mencoba dengan proxy: {proxy}...")
+                        profile = instaloader.Profile.from_username(L.context, akun)
+                        print(f"[IG] SUKSES bypass geoblock Instagram dengan proxy: {proxy}!")
+                        break
+                    except Exception as pe:
+                        print(f"[IG] Proxy {proxy} gagal: {pe}")
+                        continue
+                
+                if not profile:
+                    raise Exception("Seluruh free proxy gagal melakukan bypass geoblock Instagram.")
+
             posts = profile.get_posts()
             
             count = 0
@@ -508,7 +554,7 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
                 time.sleep(random.randint(2, 5))
         except Exception as e:
             print(f"[IG] Error @{akun}: {e}")
-            print(f"[IG] Tips: Jika terjadi 'Login required', pastikan IG_SESSION_ID di .env/GitHub Secrets valid dan akun target tidak di-private.")
+            print(f"[IG] Tips: Jika terjadi 'Login required', pastikan session file / cookie di GitHub Secrets valid.")
             
     print(f"[IG] Selesai: {len(hasil)} data")
     return hasil
