@@ -437,15 +437,39 @@ def scrape_instagram_instaloader(id_sudah_ada: set) -> list[dict]:
         rate_controller=lambda ctx: Quick429RateController(ctx)
     )
     
-    if IG_SESSION_ID:
+    IG_USERNAME = os.environ.get("IG_USERNAME", "")
+    IG_SESSION_FILE_BASE64 = os.environ.get("IG_SESSION_FILE_BASE64", "")
+    
+    loaded_session = False
+    if IG_USERNAME and IG_SESSION_FILE_BASE64:
+        try:
+            import base64
+            if os.name == 'nt':
+                localappdata = os.environ.get("LOCALAPPDATA") or os.path.expandvars(r"%USERPROFILE%\AppData\Local")
+                session_file_path = os.path.join(localappdata, "Instaloader", f"session-{IG_USERNAME}")
+            else:
+                session_file_path = os.path.expanduser(f"~/.config/instaloader/session-{IG_USERNAME}")
+                
+            os.makedirs(os.path.dirname(session_file_path), exist_ok=True)
+            with open(session_file_path, "wb") as f:
+                f.write(base64.b64decode(IG_SESSION_FILE_BASE64))
+            L.load_session_from_file(IG_USERNAME)
+            print(f"[IG] Berhasil memuat session file Instaloader untuk @{IG_USERNAME} dari Base64.")
+            loaded_session = True
+        except Exception as e:
+            print(f"[IG] Gagal memuat session file dari Base64: {e}")
+            
+    if not loaded_session and IG_SESSION_ID:
         try:
             # Simple hack to use session ID without a file
             L.context._session.cookies.set("sessionid", IG_SESSION_ID, domain=".instagram.com")
             print("[IG] Session ID applied.")
+            loaded_session = True
         except Exception as e:
             print(f"[IG] Failed to apply session cookie: {e}")
-    else:
-        print("[WARNING] IG_SESSION_ID tidak ditemukan di environment. Instagram memblokir request tanpa login. Instagram scraping kemungkinan besar akan gagal.")
+            
+    if not loaded_session:
+        print("[WARNING] Tidak ada session ID atau session file valid. Instagram scraping kemungkinan besar akan gagal.")
 
     hasil = []
     for akun in IG_AKUN_FITNESS:
@@ -573,11 +597,17 @@ async def main():
     print("\n" + "="*55)
     print("      POSTUREFIT SCRAPER DIAGNOSTIC DASHBOARD")
     print("="*55)
+    ig_status = "[MISSING - Instagram disabled]"
+    if IG_SESSION_ID:
+        ig_status = "[FOUND - Using Session ID]"
+    if os.environ.get("IG_USERNAME") and os.environ.get("IG_SESSION_FILE_BASE64"):
+        ig_status = "[FOUND - Using Session File (Highly Secure)]"
+        
     print(f"MongoDB URI:      {'[FOUND]' if MONGO_URI else '[MISSING - Database sync disabled]'}")
     print(f"Gemini API Key:   {'[FOUND]' if GEMINI_API_KEY else '[MISSING - AI Summaries disabled]'}")
     print(f"NewsData API Key: {'[FOUND]' if NEWSDATA_API_KEY else '[MISSING - NewsData.io disabled]'}")
     print(f"GNews API Key:    {'[FOUND]' if GNEWS_API_KEY else '[MISSING - GNews.io disabled]'}")
-    print(f"IG Session ID:    {'[FOUND]' if IG_SESSION_ID else '[MISSING - Instagram disabled]'}")
+    print(f"IG Auth Status:   {ig_status}")
     print("="*55 + "\n")
 
     print("[INFO] Menghubungkan ke MongoDB...")

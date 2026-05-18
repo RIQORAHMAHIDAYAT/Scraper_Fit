@@ -28,6 +28,8 @@ jobs:
       - name: Run Scraper Fit
         env:
           IG_SESSION_ID: ${{ secrets.IG_SESSION_ID }}
+          IG_USERNAME: ${{ secrets.IG_USERNAME }}
+          IG_SESSION_FILE_BASE64: ${{ secrets.IG_SESSION_FILE_BASE64 }}
           MONGO_URI: ${{ secrets.MONGO_URI }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
