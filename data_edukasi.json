@@ -1,117 +1,55 @@
 [
   {
-    "id": "8d9b8d097865",
+    "id": "499bd0d60197",
     "sumber": "gnews.io",
-    "judul": "Fit India Rayakan Hari Sepeda Sedunia dengan Acara 'Sundays on Cycle'",
-    "ringkasan": "Fit India merayakan Hari Sepeda Sedunia 2026 dengan berbagai acara di seluruh negeri. Acara tersebut meliputi pawai sepeda skala besar, kegiatan kebugaran, dan event komunitas. Ini adalah upaya untuk mendorong gaya hidup aktif di kalangan masyarakat.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816562_202606.jpg",
-    "link_direct": "https://www.lokmattimes.com/other-sports/fit-india-celebrates-world-bicycle-day-2026-with-nationwide-sundays-on-cycle-events-1/",
-    "link_sumber": [
-      "https://www.lokmattimes.com/other-sports/fit-india-celebrates-world-bicycle-day-2026-with-nationwide-sundays-on-cycle-events-1/"
-    ],
-    "updated_at": "2026-06-07 18:01:15"
-  },
-  {
-    "id": "fda2e2126dc4",
-    "sumber": "gnews.io",
-    "judul": "Festival Olahraga Komunitas",
-    "ringkasan": "Sebuah festival komunitas telah diselenggarakan, menampilkan berbagai kegiatan olahraga yang menarik. Para peserta dapat mencoba pickleball, frisbee golf, dan tyre flips. Acara ini mendorong partisipasi aktif dalam kebugaran.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cassette.sphdigital.com.sg/image/straitstimes/de27e51f0a43b1c12fcc035011f1c56fb63a58f97950b8315af07433e74d6761",
-    "link_direct": "https://www.straitstimes.com/singapore/community/over-6000-people-from-north-west-district-join-fitness-festival-to-keep-active",
-    "link_sumber": [
-      "https://www.straitstimes.com/singapore/community/over-6000-people-from-north-west-district-join-fitness-festival-to-keep-active"
-    ],
-    "updated_at": "2026-06-07 18:01:15"
-  },
-  {
-    "id": "4e8aecf8c9f3",
-    "sumber": "gnews.io",
-    "judul": "Makanan Terbaik Sebelum Olahraga: Apa yang Harus Dimakan Sebelum ke Gym?",
-    "ringkasan": "Artikel ini membahas tentang makanan terbaik yang sebaiknya dikonsumsi sebelum Anda memulai sesi olahraga. Pilihan makanan pra-latihan yang tepat dapat meningkatkan energi dan performa Anda di gym. Dengan nutrisi yang pas, tubuh Anda akan lebih siap untuk beraktivitas fisik.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://img.republicworld.com/all_images/2026/06/pre-workout-snacks-1780808153184-1280x720.webp",
-    "link_direct": "https://www.republicworld.com/lifestyle/fitness/best-pre-workout-foods-what-to-eat-before-you-hit-the-gym-2026-06-07-127235",
-    "link_sumber": [
-      "https://www.republicworld.com/lifestyle/fitness/best-pre-workout-foods-what-to-eat-before-you-hit-the-gym-2026-06-07-127235"
-    ],
-    "updated_at": "2026-06-07 18:01:15"
-  },
-  {
-    "id": "e37f1a38182e",
-    "sumber": "gnews.io",
-    "judul": "Latihan Pilates untuk Kekuatan Inti dan Stabilitas Bahu",
-    "ringkasan": "Konten ini memperkenalkan latihan Pilates sederhana yang efektif. Latihan ini dirancang untuk membangun kekuatan inti yang dalam dan meningkatkan stabilitas bahu. Mengintegrasikan gerakan ini dapat membantu postur dan mengurangi risiko cedera.",
-    "tips": [],
-    "kategori": "kekuatan",
-    "gambar": "https://cdn.mos.cms.futurecdn.net/XFAW8EcDfecmBstbbZWpNE-2560-80.jpg",
-    "link_direct": "https://www.tomsguide.com/wellness/workouts/forget-sit-ups-and-crunches-i-use-this-simple-pilates-exercise-to-build-deep-core-strength-and-shoulder-stability",
-    "link_sumber": [
-      "https://www.tomsguide.com/wellness/workouts/forget-sit-ups-and-crunches-i-use-this-simple-pilates-exercise-to-build-deep-core-strength-and-shoulder-stability"
-    ],
-    "updated_at": "2026-06-07 18:01:15"
-  },
-  {
-    "id": "877fb1192f6d",
-    "sumber": "gnews.io",
-    "judul": "Berita Olahraga: Persiapan Final Piala, Tes Kebugaran Baru, dan Kondisi Pemain",
-    "ringkasan": "Berita ini mencakup beberapa poin penting dalam dunia olahraga dan kebugaran. McKenna dilaporkan sangat bersemangat untuk final piala yang akan datang. Ada juga ulasan positif mengenai tes kebugaran baru yang diterapkan. Namun, Stenberg mengalami penurunan performa akibat sakit.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1780793634/prd/hs3gqdh8zkytml6eu60r.jpg",
-    "link_direct": "https://www.nhl.com/news/topic/nhl-draft/10-things-learned-from-2026-nhl-scouting-combine",
-    "link_sumber": [
-      "https://www.nhl.com/news/topic/nhl-draft/10-things-learned-from-2026-nhl-scouting-combine"
-    ],
-    "updated_at": "2026-06-07 18:01:15"
-  },
-  {
-    "id": "6ba4ab80cec1",
-    "sumber": "gnews.io",
-    "judul": "Bahaya Latihan Oversplit Ekstrem: Peringatan dari Ahli Fisioterapi",
-    "ringkasan": "Seorang aktris Bollywood membagikan video oversplit ekstrem yang menjadi viral, menunjukkan kelenturan yang mengesankan. Namun, seorang ahli fisioterapi memperingatkan tentang risiko cedera serius yang terkait dengan splits yang ditinggikan. Penting untuk mengutamakan keamanan dan menghindari teknik yang berbahaya dalam latihan kelenturan.",
+    "judul": "Pentingnya Hidrasi dan Makanan Berkalori Tinggi untuk Bertahan Hidup di Kondisi Ekstrem",
+    "ringkasan": "Kisah bertahan hidup Dawa Sherpa menyoroti pentingnya hidrasi dan makanan berkalori tinggi di kondisi ekstrem seperti Gunung Everest. Di ketinggian, tubuh cepat kehilangan panas dan dehidrasi, membutuhkan lebih banyak energi. Para ahli menyarankan untuk memprioritaskan sumber air aman dan makanan kaya energi seperti cokelat dan energy bar dalam situasi bertahan hidup.",
     "tips": [
-      "Prioritaskan keamanan saat melakukan latihan kelenturan.",
-      "Hindari posisi atau teknik latihan yang dapat meningkatkan risiko cedera serius."
+      "Prioritaskan sumber air aman dan makanan kaya energi seperti cokelat, energy bar, kacang-kacangan, buah kering, selai kacang, dan trail mix dalam situasi bertahan hidup.",
+      "Faktor kritis untuk bertahan hidup di suhu ekstrem meliputi kebugaran fisik, aklimatisasi, ketahanan mental, perlindungan dari elemen, serta pencegahan hipotermia dan radang dingin."
     ],
-    "kategori": "umum",
-    "gambar": "https://images.indianexpress.com/2026/05/Alaya-F-oversplit.jpg",
-    "link_direct": "https://indianexpress.com/article/lifestyle/fitness/alaya-f-risks-death-by-oversplit-in-latest-fitness-video-expert-risk-10713652/",
+    "kategori": "kardio",
+    "gambar": "https://images.indianexpress.com/2026/06/everest-wikimedia-commons_1600.jpg",
+    "link_direct": "https://indianexpress.com/shorts/lifestyle/food-wine/everest-guide-ice-chocolates-what-eat-extreme-cold-sugar-carbohydrates-expert-10729224/",
     "link_sumber": [
-      "https://indianexpress.com/article/lifestyle/fitness/alaya-f-risks-death-by-oversplit-in-latest-fitness-video-expert-risk-10713652/"
+      "https://indianexpress.com/shorts/lifestyle/food-wine/everest-guide-ice-chocolates-what-eat-extreme-cold-sugar-carbohydrates-expert-10729224/"
     ],
-    "updated_at": "2026-06-07 18:01:15"
+    "updated_at": "2026-06-08 19:16:35"
   },
   {
-    "id": "d960c7977925",
+    "id": "1492b931d36c",
     "sumber": "gnews.io",
-    "judul": "Amaravati Runners: Komunitas Olahraga dengan Misi Sosial",
-    "ringkasan": "Komunitas lari Amaravati Runners tidak hanya berfokus pada olahraga, tetapi juga menjadi sarana untuk menyebarkan misi sosial. Selama bertahun-tahun, mereka telah mengadakan beberapa acara yang berpusat pada berbagai tujuan sosial. Ini menunjukkan bagaimana olahraga dapat berkolaborasi dengan isu-isu kemanusiaan.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cf-images.assettype.com/newindianexpress%2F2026-06-07%2Ffhiyfvv7%2Fvijbrightside50606chn40.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "link_direct": "https://www.newindianexpress.com/good-news/2026/Jun/07/amaravati-runners-inspire-vijayawada-residents-to-embrace-fitness-friendship-and-active-ageing",
-    "link_sumber": [
-      "https://www.newindianexpress.com/good-news/2026/Jun/07/amaravati-runners-inspire-vijayawada-residents-to-embrace-fitness-friendship-and-active-ageing"
+    "judul": "Rahasia Kebugaran dan Kesehatan di Usia 50-an: Rutinitas Gym Malaika Arora",
+    "ringkasan": "Rutinitas gym terbaru Malaika Arora menginspirasi penggemar dengan fokusnya pada kekuatan, daya tahan, dan konsistensi. Pelatihan ini mengungkapkan wawasan penting tentang cara tetap bugar dan sehat di usia 50-an. Konsistensi dalam latihan kekuatan dan daya tahan sangat kunci untuk menjaga kebugaran di usia paruh baya.",
+    "tips": [
+      "Fokus pada latihan kekuatan untuk menjaga massa otot dan vitalitas.",
+      "Sertakan latihan daya tahan untuk meningkatkan stamina dan kesehatan jantung.",
+      "Pertahankan konsistensi dalam rutinitas latihan Anda untuk hasil jangka panjang, terutama di usia 50-an."
     ],
-    "updated_at": "2026-06-07 18:01:15"
+    "kategori": "kekuatan",
+    "gambar": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/06/malaika-arora-s-workout-video-is-winning-the-internet-1780899274.jpg",
+    "link_direct": "https://www.indiatvnews.com/lifestyle/news/malaika-arora-latest-gym-workout-strength-training-fitness-over-50-2026-06-08-1044024",
+    "link_sumber": [
+      "https://www.indiatvnews.com/lifestyle/news/malaika-arora-latest-gym-workout-strength-training-fitness-over-50-2026-06-08-1044024"
+    ],
+    "updated_at": "2026-06-08 19:16:35"
   },
   {
-    "id": "e024da55fc26",
+    "id": "41adbfb4f847",
     "sumber": "gnews.io",
-    "judul": "Kisah Inspiratif Uniyal: Bangkit Setelah Cedera ACL Serius",
-    "ringkasan": "Uniyal menjadi sosok inspiratif karena perjalanannya yang luar biasa dalam mengatasi cedera parah. Ia telah menjalani tiga operasi ACL dan menderita kerusakan serius pada meniskus dan tulang rawan. Kisahnya menunjukkan ketahanan dan semangat untuk kembali berfungsi meskipun mengalami hambatan fisik yang signifikan.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cf-images.assettype.com/newindianexpress%2F2026-06-07%2Fzkhwrip8%2F671810058178661554986688015380428145197400952n.jpg?rect=0%2C0%2C1440%2C756&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "link_direct": "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/07/exercise-should-be-regular-treks-expeditions-a-reward-says-climber",
-    "link_sumber": [
-      "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/07/exercise-should-be-regular-treks-expeditions-a-reward-says-climber"
+    "judul": "Manfaat Latihan Kekuatan untuk Mencegah Kehilangan Otot dan Meningkatkan Kesehatan Tulang Setelah Usia 30",
+    "ringkasan": "Latihan kekuatan dapat membantu mencegah kehilangan massa otot dan meningkatkan kesehatan tulang setelah Anda mencapai usia 30 tahun. Seorang ahli menyarankan rencana kebugaran khusus untuk tujuan ini. Memasukkan strength training ke dalam rutinitas Anda sangat penting untuk menjaga kekuatan dan kepadatan tulang seiring bertambahnya usia.",
+    "tips": [
+      "Lakukan latihan kekuatan secara teratur untuk mencegah kehilangan massa otot yang terjadi seiring usia.",
+      "Sertakan latihan beban untuk merangsang pertumbuhan tulang dan meningkatkan kepadatan tulang Anda.",
+      "Ikuti rencana kebugaran yang dirancang oleh ahli untuk memastikan Anda mendapatkan manfaat maksimal dan berlatih dengan aman."
     ],
-    "updated_at": "2026-06-07 18:01:15"
+    "kategori": "kekuatan",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/06/02/550x309/_57fae204-a74a-11e7-b77f-2f05ee6d8166_1780386835408_e778af75-575e-4252-9d30-9d74f4c669ce.jpg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/over-30-and-getting-weaker-orthopedic-surgeon-suggests-3-step-plan-to-regain-muscle-without-injury-101780384545648.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/lifestyle/health/over-30-and-getting-weaker-orthopedic-surgeon-suggests-3-step-plan-to-regain-muscle-without-injury-101780384545648.html"
+    ],
+    "updated_at": "2026-06-08 19:16:35"
   }
 ]
