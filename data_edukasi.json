@@ -1,268 +1,140 @@
 [
   {
-    "id": "4c921108c94c",
+    "id": "cb8fb02af3e3",
     "sumber": "newsdata.io",
-    "judul": "Struggling to get kids to sleep on time? Research flags ‘bedtime’ as a crucial factor for children’s mental health in teenage",
+    "judul": "Endo’s World Cup Heartbreak Ends a Remarkable Japan Journey",
     "ringkasan": "",
     "tips": [],
-    "kategori": "pemulihan",
-    "gambar": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131652229/131652229.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/etimes/wellness/struggling-to-get-kids-to-sleep-on-time-research-flags-bedtime-as-a-crucial-factor-for-childrens-mental-health-in-teenage/articleshow/131650062.cms",
+    "kategori": "umum",
+    "gambar": "https://s.yimg.com/ny/api/res/1.2/Ub57egRgbbbjci2tTfDVMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/anfield_index_166/ddacba3cb6ef1b7418bbb66e0c62bfe6",
+    "link_direct": "https://sports.yahoo.com/articles/liverpool-star-set-retire-international-065500866.html",
     "link_sumber": [
-      "https://timesofindia.indiatimes.com/etimes/wellness/struggling-to-get-kids-to-sleep-on-time-research-flags-bedtime-as-a-crucial-factor-for-childrens-mental-health-in-teenage/articleshow/131650062.cms"
+      "https://sports.yahoo.com/articles/liverpool-star-set-retire-international-065500866.html"
     ],
-    "updated_at": "2026-06-11 19:32:13"
+    "updated_at": "2026-06-12 19:00:04"
   },
   {
-    "id": "dca743f2203f",
+    "id": "5b3c9dc13019",
     "sumber": "newsdata.io",
-    "judul": "Reva Kaurase Reacts to Viral ₹370 Biryani Row, Raises Concerns Over Influencer Responsibility",
-    "ringkasan": "",
+    "judul": "Pentingnya Protokol Keamanan dalam Pelatihan Olahraga",
+    "ringkasan": "Artikel ini membahas perlunya protokol keamanan yang lebih ketat dalam sesi pelatihan olahraga, terutama untuk latihan air atau aqua training. Pelatih Yeng Guiao menekankan bahwa aqua training harus dilakukan di lingkungan yang terkontrol seperti kolam renang, bukan di laut terbuka, dan selalu diawasi dengan baik. Hal ini penting untuk mencegah cedera dan insiden tragis.",
+    "tips": [
+      "Latihan air atau aqua training harus dilakukan di lingkungan yang terkontrol, seperti kolam renang, dan tidak pernah di laut terbuka.",
+      "Pastikan semua sesi latihan air diawasi dengan ketat untuk menjamin keselamatan atlet.",
+      "Terapkan protokol keselamatan yang lebih ketat untuk semua kamp pelatihan dan sesi latihan di luar kota, terutama untuk tingkat perguruan tinggi.",
+      "Manfaatkan aqua training sebagai latihan berdampak rendah untuk mencegah cedera sambil melatih otot-otot."
+    ],
+    "kategori": "kekuatan",
+    "gambar": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/12/108513.webp",
+    "link_direct": "https://mb.com.ph/article/10922164/sports/collegiate/guiao-safety-protocols-should-be-in-place-for-training-camps",
+    "link_sumber": [
+      "https://mb.com.ph/article/10922164/sports/collegiate/guiao-safety-protocols-should-be-in-place-for-training-camps"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "ac9325bc6ed2",
+    "sumber": "gnews.io",
+    "judul": "Peningkatan Kebugaran Tim Spanyol Jelang Piala Dunia 2026",
+    "ringkasan": "Artikel ini melaporkan bahwa tim sepak bola Spanyol mendapatkan peningkatan kebugaran yang signifikan. Lamine Yamal dan Nico Williams telah kembali berlatih penuh menjelang persiapan Piala Dunia 2026.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/GettyImages-2280197427-scaled.jpg",
+    "link_direct": "https://www.foxnews.com/sports/lamine-yamal-nico-williams-return-to-full-training-with-spain-in-major-boost-ahead-of-world-cup-opener-vs-cabo-verde",
+    "link_sumber": [
+      "https://www.foxnews.com/sports/lamine-yamal-nico-williams-return-to-full-training-with-spain-in-major-boost-ahead-of-world-cup-opener-vs-cabo-verde"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "cf86b12c3f18",
+    "sumber": "gnews.io",
+    "judul": "Deskripsi Diri Bintang Michigan Setelah Latihan Warriors",
+    "ringkasan": "Artikel ini membahas deskripsi menarik dari seorang bintang Michigan setelah sesi latihan bersama Warriors. Ini memberikan gambaran tentang pengalaman dan performa atlet tersebut.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_67,w_3347,h_1882/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/inside_the_warriors/01ktx49gswg49b4th068.jpg",
+    "link_direct": "https://www.si.com/nba/warriors/onsi/yaxel-lendeborg-says-why-he-s-like-warriors-star-without-knowing-it-01ktwry350fn",
+    "link_sumber": [
+      "https://www.si.com/nba/warriors/onsi/yaxel-lendeborg-says-why-he-s-like-warriors-star-without-knowing-it-01ktwry350fn"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "b7b2eafeaa21",
+    "sumber": "gnews.io",
+    "judul": "Kebiasaan Sederhana untuk Panjang Umur dan Kebugaran: Perspektif Biohacking Tradisional",
+    "ringkasan": "Aktor Kunal Kapoor menyebut kakeknya sebagai “biohacker asli” berkat kebiasaan sederhana yang mendukung umur panjang hingga 94 tahun. Ahli gizi Garima Goyal menjelaskan bahwa praktik seperti berjalan kaki setiap hari, makan porsi kecil, makan malam lebih awal, dan puasa rutin adalah kebiasaan yang didukung sains untuk meningkatkan kesehatan kardiovaskular, kontrol gula darah, mobilitas, dan kesejahteraan mental. Ini menunjukkan bahwa banyak “biohacks” modern sebenarnya adalah praktik gaya hidup tradisional yang terbukti efektif.",
+    "tips": [
+      "Jalan kaki satu jam setiap hari untuk meningkatkan kesehatan kardiovaskular dan mobilitas.",
+      "Makan dalam porsi kecil untuk membantu pencernaan dan rasa kenyang.",
+      "Kunyah makanan secara perlahan untuk pencernaan yang lebih baik.",
+      "Selesaikan makan malam sebelum matahari terbenam untuk mendukung kesehatan metabolisme.",
+      "Lakukan puasa sesekali (misal: setiap Minggu) untuk meningkatkan sensitivitas insulin."
+    ],
+    "kategori": "nutrisi",
+    "gambar": "https://images.indianexpress.com/2026/06/kunal-kapoor_1600_insta.jpg",
+    "link_direct": "https://indianexpress.com/shorts/lifestyle/fitness/original-biohacker-actor-kunal-kapoor-biohacking-walking-meals-granddad-longevity-hacks-expert-10732586/",
+    "link_sumber": [
+      "https://indianexpress.com/shorts/lifestyle/fitness/original-biohacker-actor-kunal-kapoor-biohacking-walking-meals-granddad-longevity-hacks-expert-10732586/",
+      "https://indianexpress.com/article/lifestyle/fitness/original-biohacker-actor-kunal-kapoor-biohacking-walking-meals-granddad-longevity-hacks-expert-10732586/"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "1d0a2512020c",
+    "sumber": "gnews.io",
+    "judul": "Mencoba Latihan Seluruh Tubuh Terinspirasi Pemain Piala Dunia",
+    "ringkasan": "Artikel ini menjelaskan pengalaman mencoba latihan seluruh tubuh yang terinspirasi dari jenis gerakan yang digunakan pemain Piala Dunia. Latihan ini dirancang untuk membantu menjadi bugar dan kuat seperti atlet profesional.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://cdn.mos.cms.futurecdn.net/Kjqq5T3YvoprVGrqr2cJvW-2560-80.jpg",
+    "link_direct": "https://www.tomsguide.com/wellness/workouts/i-swapped-my-usual-gym-routine-for-this-5-move-world-cup-inspired-workout-and-i-really-felt-the-burn",
+    "link_sumber": [
+      "https://www.tomsguide.com/wellness/workouts/i-swapped-my-usual-gym-routine-for-this-5-move-world-cup-inspired-workout-and-i-really-felt-the-burn"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "bcf46606ed93",
+    "sumber": "gnews.io",
+    "judul": "7 Latihan Aman untuk Ibu Hamil: Meningkatkan Kebugaran dan Mengurangi Ketidaknyamanan",
+    "ringkasan": "Artikel ini menyajikan 7 latihan yang aman dilakukan selama kehamilan. Latihan-latihan ini dirancang untuk membantu meningkatkan kebugaran, mengurangi ketidaknyamanan, meningkatkan energi, dan mendukung perjalanan kehamilan yang lebih sehat dan aktif.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://st1.thehealthsite.com/wp-content/uploads/2026/06/Exercises-during-pregnancy.jpg",
+    "link_direct": "https://www.thehealthsite.com/webstories/pregnancy/7-safe-exercises-during-pregnancy-to-stay-healthy-and-active-1328681/",
+    "link_sumber": [
+      "https://www.thehealthsite.com/webstories/pregnancy/7-safe-exercises-during-pregnancy-to-stay-healthy-and-active-1328681/"
+    ],
+    "updated_at": "2026-06-12 19:00:04"
+  },
+  {
+    "id": "f07e8c7cf87d",
+    "sumber": "gnews.io",
+    "judul": "Manfaat Peregangan Sebelum dan Sesudah Olahraga",
+    "ringkasan": "Spesialis ortopedi menjelaskan dasar ilmiah di balik peregangan sebelum dan sesudah berolahraga. Ini mencakup perannya dalam pencegahan cedera dan pemulihan otot.",
     "tips": [],
     "kategori": "kekuatan",
-    "gambar": "https://img-cdn.publive.online/fit-in/1280x960/bollyy/media/media_files/2026/06/11/pranit-more-2026-06-11-12-56-17.gif",
-    "link_direct": "https://bollyy.com/entertainment/reva-kaurase-reacts-to-viral-370-biryani-row-raises-concerns-over-influencer-responsibility-12024782",
+    "gambar": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/11/thumb/fitandfill/1200X628/1781173522-0889.jpg",
+    "link_direct": "https://www.business-standard.com/health/fact-check-friday-should-you-stretch-before-or-after-a-workout-126061100717_1.html",
     "link_sumber": [
-      "https://bollyy.com/entertainment/reva-kaurase-reacts-to-viral-370-biryani-row-raises-concerns-over-influencer-responsibility-12024782"
+      "https://www.business-standard.com/health/fact-check-friday-should-you-stretch-before-or-after-a-workout-126061100717_1.html"
     ],
-    "updated_at": "2026-06-11 19:32:13"
+    "updated_at": "2026-06-12 19:00:04"
   },
   {
-    "id": "1b5f26f6b3d4",
-    "sumber": "newsdata.io",
-    "judul": "Indian Army Agniveer CEE Result 2026 Expected Soon – Result Date, Cutoff, Scorecard",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://images.kollegeapply.in/news-subdomain/thumbnail/1781162797995-indian-army-agniveer-syllabus-2026-cee-result-question-paper-analysis-20326-logo-1781162798183.webp",
-    "link_direct": "https://news.kollegeapply.com/news/indian-army-agniveer-syllabus-2026-cee-result-question-paper-analysis",
-    "link_sumber": [
-      "https://news.kollegeapply.com/news/indian-army-agniveer-syllabus-2026-cee-result-question-paper-analysis"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "a65f1624174c",
-    "sumber": "newsdata.io",
-    "judul": "Best Performance Marketing Platforms for Mobile Apps",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://techbullion.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-122526.png",
-    "link_direct": "https://techbullion.com/best-performance-marketing-platforms-for-mobile-apps/",
-    "link_sumber": [
-      "https://techbullion.com/best-performance-marketing-platforms-for-mobile-apps/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "8eec99973ee6",
-    "sumber": "newsdata.io",
-    "judul": "Business News | Novatr Launches Bim Professional Program V.2026",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://st1.latestly.com/wp-content/uploads/2026/06/ANI-20260611065958.jpg",
-    "link_direct": "https://www.latestly.com/agency-news/business-news-novatr-launches-bim-professional-program-v-2026-7468589.html",
-    "link_sumber": [
-      "https://www.latestly.com/agency-news/business-news-novatr-launches-bim-professional-program-v-2026-7468589.html"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "544bcf5ced84",
-    "sumber": "newsdata.io",
-    "judul": "IN MY VIEW | Nelson Mandela Bay: A rubbish budget for a dirty city",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.theherald.co.za/resizer/v2/YLECFLCQNND2JP3Q4RB6B7E54E.jpg?auth=719ae2297913946c1e2b46968644a50efb9dd96f794aeced0aa59d4245e31b85&smart=true&height=350",
-    "link_direct": "https://www.theherald.co.za/opinion/columnists/2026-06-11-in-my-view-nelson-mandela-bay-a-rubbish-budget-for-a-dirty-city/",
-    "link_sumber": [
-      "https://www.theherald.co.za/opinion/columnists/2026-06-11-in-my-view-nelson-mandela-bay-a-rubbish-budget-for-a-dirty-city/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "590013e34b37",
-    "sumber": "newsdata.io",
-    "judul": "Savour Every Moment of Summer at Hilton Maldives Amingiri Resort & Spa",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://eatnstays.com/wp-content/uploads/2026/06/MLEAI_Amingiri-Spa-Hammam_Sound-healing-on-the-Skye-Deck.jpg",
-    "link_direct": "https://eatnstays.com/savour-every-moment-of-summer-at-hilton-maldives-amingiri-resort-spa/",
-    "link_sumber": [
-      "https://eatnstays.com/savour-every-moment-of-summer-at-hilton-maldives-amingiri-resort-spa/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "241da8d65ed8",
-    "sumber": "newsdata.io",
-    "judul": "CRAIG HOPE'S ENGLAND VERDICT: Jude Bellingham oozes quality, Anthony Gordon seizes his chance... but Thomas Tuchel is left with more questions than answers ahead of World Cup opener",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://i.dailymail.com/1s/2026/06/11/08/109273889-0-image-a-11_1781162581203.jpg",
-    "link_direct": "https://www.dailymail.com/sport/football/article-15886043/CRAIG-HOPE-ENGLAND-Costa-Rica.html",
-    "link_sumber": [
-      "https://www.dailymail.com/sport/football/article-15886043/CRAIG-HOPE-ENGLAND-Costa-Rica.html"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "bec1c83f5a23",
-    "sumber": "newsdata.io",
-    "judul": "Cyprus, Greece conduct naval cooperation exercise off south coast",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cyprus-mail.com/wp-content/uploads/2026/06/chief-of-staff.jpg",
-    "link_direct": "https://cyprus-mail.com/2026/06/11/cyprus-greece-conduct-naval-cooperation-exercise-off-south-coast",
-    "link_sumber": [
-      "https://cyprus-mail.com/2026/06/11/cyprus-greece-conduct-naval-cooperation-exercise-off-south-coast"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "1e6a5d48ed7c",
-    "sumber": "newsdata.io",
-    "judul": "‘I stopped trying to mute it’ Caleb Shomo opens up about coming out",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://qnews.com.au/wp-content/uploads/2026/06/Dean-website-images-28-1200x738.png",
-    "link_direct": "https://qnews.com.au/i-stopped-trying-to-mute-it-caleb-shomo-opens-up-about-coming-out/",
-    "link_sumber": [
-      "https://qnews.com.au/i-stopped-trying-to-mute-it-caleb-shomo-opens-up-about-coming-out/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "3ffa8f66467c",
+    "id": "3f381f7af2d8",
     "sumber": "gnews.io",
-    "judul": "‘Rs 14,000 Rent, Rs 3,500 Groceries’: Remote Employee In Manali Reveals Monthly Expenses",
-    "ringkasan": "",
+    "judul": "Apa yang Terjadi pada Otot Saat Berhenti Berolahraga?",
+    "ringkasan": "Berhenti berolahraga tidak hanya memengaruhi tingkat kebugaran Anda. Hal ini juga memicu serangkaian perubahan fisiologis di seluruh tubuh, terutama pada otot Anda.",
     "tips": [],
-    "kategori": "umum",
-    "gambar": "https://images.news18.com/ibnlive/uploads/2026/06/Untitled-design-2026-06-11T124210.888-2026-06-cf2a545a3c70cbfa90547e41a5b0c56c-1200x675.png",
-    "link_direct": "https://www.news18.com/viral/rs-14000-rent-rs-3500-groceries-remote-employee-in-manali-reveals-monthly-expenses-ws-l-10142877.html",
+    "kategori": "kekuatan",
+    "gambar": "https://images.firstpost.com/uploads/2026/06/Untitled-design-2026-06-12T102953.048-2026-06-5f8681f751740672cef9c20ee757b333.jpg?im=FitAndFill=(1200,675)",
+    "link_direct": "https://www.firstpost.com/lifestyle/what-happens-to-your-body-when-you-stop-working-out-might-surprise-you-14021627.html",
     "link_sumber": [
-      "https://www.news18.com/viral/rs-14000-rent-rs-3500-groceries-remote-employee-in-manali-reveals-monthly-expenses-ws-l-10142877.html"
+      "https://www.firstpost.com/lifestyle/what-happens-to-your-body-when-you-stop-working-out-might-surprise-you-14021627.html"
     ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "ec1d0d142839",
-    "sumber": "gnews.io",
-    "judul": "Gym owner shot dead during training session in Haryana’s Hansi",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/06/11/550x309/A-CCTV-grab-of-the-unidentified-assailant-firing-a_1781162436140.jpg",
-    "link_direct": "https://www.hindustantimes.com/cities/chandigarh-news/gym-owner-shot-dead-during-training-session-in-haryana-s-hansi-101781162438950.html",
-    "link_sumber": [
-      "https://www.hindustantimes.com/cities/chandigarh-news/gym-owner-shot-dead-during-training-session-in-haryana-s-hansi-101781162438950.html"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "df025e3b41e5",
-    "sumber": "gnews.io",
-    "judul": "Fitness Influencer Loses 26 Kg, Shares 'Desi' Diet Hack She Followed For 2 Years",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://c.ndtvimg.com/2026-06/3o9bldc8_weight-loss-_625x300_11_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-    "link_direct": "https://www.ndtv.com/lifestyle/fitness-influencer-loses-26-kg-shares-desi-diet-hack-she-followed-for-2-years-11621291",
-    "link_sumber": [
-      "https://www.ndtv.com/lifestyle/fitness-influencer-loses-26-kg-shares-desi-diet-hack-she-followed-for-2-years-11621291"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "7cce9ca6bc53",
-    "sumber": "gnews.io",
-    "judul": "Taiwan Stands Firm Against Chinese Maritime Jurisdiction Claims",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/23_05_2025_11_24_10_0218211.png&width=920&format=jpeg",
-    "link_direct": "https://www.devdiscourse.com/article/law-order/3933533-taiwan-stands-firm-against-chinese-maritime-jurisdiction-claims",
-    "link_sumber": [
-      "https://www.devdiscourse.com/article/law-order/3933533-taiwan-stands-firm-against-chinese-maritime-jurisdiction-claims"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "c83ea7fa4d6c",
-    "sumber": "gnews.io",
-    "judul": "Ashwin backs Kohli, Rohit for 2027 ODI World Cup, says experience will be key in South Africa",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/sports3_1733466450539_1733466458210.jpg",
-    "link_direct": "https://www.livemint.com/sports/ashwin-backs-kohli-rohit-for-2027-odi-world-cup-says-experience-will-be-key-in-south-africa-11781161602955.html",
-    "link_sumber": [
-      "https://www.livemint.com/sports/ashwin-backs-kohli-rohit-for-2027-odi-world-cup-says-experience-will-be-key-in-south-africa-11781161602955.html"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "f371176a231a",
-    "sumber": "gnews.io",
-    "judul": "'I now have a leaderboard': Bengaluru techie uses fitness tracker to rank stressful coworkers",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/06/techie-uses-fitness-tracker-to-rank-stressful-coworker-1781161438.jpg",
-    "link_direct": "https://www.indiatvnews.com/trending/news/bengaluru-techie-uses-fitness-tracker-to-rank-stressful-coworkers-2026-06-11-1044449",
-    "link_sumber": [
-      "https://www.indiatvnews.com/trending/news/bengaluru-techie-uses-fitness-tracker-to-rank-stressful-coworkers-2026-06-11-1044449"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "1c79c5515a31",
-    "sumber": "gnews.io",
-    "judul": "6:30am Wake-Up, 10pm Sleep and a No-Call Workout Rule",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://images.indianexpress.com/2026/02/shilpa-shetty_1600_insta.jpg",
-    "link_direct": "https://indianexpress.com/article/lifestyle/health/shilpa-shetty-kundra-sleep-wake-up-morning-routine-eats-simple-food-workouts-expert-10553034/",
-    "link_sumber": [
-      "https://indianexpress.com/article/lifestyle/health/shilpa-shetty-kundra-sleep-wake-up-morning-routine-eats-simple-food-workouts-expert-10553034/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "0498dd4782ba",
-    "sumber": "gnews.io",
-    "judul": "Scale Aircraft Turnaround Trial Ahead of Commercial Ops – Outlook Business",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://media.assettype.com/outlookbusiness/import/uploadimage/library/16_9/16_9_5/IMAGE_1657199266.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "link_direct": "https://www.outlookbusiness.com/news/noida-airport-conducts-full-scale-aircraft-turnaround-trial-ahead-of-commercial-ops",
-    "link_sumber": [
-      "https://www.outlookbusiness.com/news/noida-airport-conducts-full-scale-aircraft-turnaround-trial-ahead-of-commercial-ops"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
-  },
-  {
-    "id": "8b3a8d71eac4",
-    "sumber": "gnews.io",
-    "judul": "FIFA World Cup 2026: What's behind Cristiano Ronaldo's sculpted abs at 41? His fitness regimen explained",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://st1.thehealthsite.com/wp-content/uploads/2026/06/Tyler-Mane-1.jpg",
-    "link_direct": "https://www.thehealthsite.com/fitness/fifa-world-cup-whats-behind-cristiano-ronaldos-sculpted-abs-at-41-his-fitness-regimen-explained-1328631/",
-    "link_sumber": [
-      "https://www.thehealthsite.com/fitness/fifa-world-cup-whats-behind-cristiano-ronaldos-sculpted-abs-at-41-his-fitness-regimen-explained-1328631/"
-    ],
-    "updated_at": "2026-06-11 19:32:13"
+    "updated_at": "2026-06-12 19:00:04"
   }
 ]
