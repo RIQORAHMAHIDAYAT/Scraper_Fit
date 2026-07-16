@@ -1,157 +1,119 @@
 [
   {
-    "id": "01f8cd1d7c43",
+    "id": "cc7706af056c",
     "sumber": "newsdata.io",
-    "judul": "FIFA WC 2026: Atlanta Police tighten security ahead of England vs Argentina semi-final",
+    "judul": "Tes Kebugaran Cobus Reinach Melawan Wales",
+    "ringkasan": "Cobus Reinach akan menghadapi tes kebugaran yang sesungguhnya saat ia memulai pertandingan melawan Wales di Durban. Ini menyusul kepulangannya dari cedera dengan penampilan singkat melawan Inggris. Pertandingan ini akan menjadi penentu kondisinya.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://media.citizen.co.za/wp-content/uploads/2026/07/Cobus-Reinach-1.jpg",
+    "link_direct": "https://www.citizen.co.za/sport/rugby/adaptable-cobus-reinach-ready-springboks-wales/",
+    "link_sumber": [
+      "https://www.citizen.co.za/sport/rugby/adaptable-cobus-reinach-ready-springboks-wales/"
+    ],
+    "updated_at": "2026-07-16 18:01:46"
+  },
+  {
+    "id": "9579dc4412f8",
+    "sumber": "newsdata.io",
+    "judul": "Manfaat Latihan Kardio Ringan: Lompat Tali",
+    "ringkasan": "Latihan kardio ringan seperti lompat tali sangat berguna pada hari-hari sibuk atau saat energi rendah. Latihan ini memiliki manfaat yang melampaui penurunan lemak. Kylie membagikan berbagai keuntungan dari olahraga ini.",
+    "tips": [],
+    "kategori": "kardio",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/07/16/1600x900/logo/jumprope_1784178286645_1784178286870_92652754-1e93-4864-928f-2228a92c2ca4.jpeg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/light-cardio-for-busy-days-health-coach-shares-benefits-of-doing-jump-rope-for-10-minutes-every-day-for-60-days-101784177861383.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/lifestyle/health/light-cardio-for-busy-days-health-coach-shares-benefits-of-doing-jump-rope-for-10-minutes-every-day-for-60-days-101784177861383.html"
+    ],
+    "updated_at": "2026-07-16 18:01:46"
+  },
+  {
+    "id": "d39ffcd5ee32",
+    "sumber": "newsdata.io",
+    "judul": "Dampak Kemenangan Tes Bersejarah India di Lord's",
+    "ringkasan": "Niranjana Nagarajan memuji kemenangan bersejarah India di Lord's Test sebagai momen penting. Ia mendesak perluasan jadwal pertandingan Test untuk wanita. Kemenangan ini juga menyoroti dampaknya pada kriket domestik.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+    "link_direct": "https://www.newkerala.com/news/a/lords-win-proves-its-time-expand-womens-test-111.htm",
+    "link_sumber": [
+      "https://www.newkerala.com/news/a/lords-win-proves-its-time-expand-womens-test-111.htm"
+    ],
+    "updated_at": "2026-07-16 18:01:46"
+  },
+  {
+    "id": "2da67369fbce",
+    "sumber": "newsdata.io",
+    "judul": "Arsenal defender William Saliba out for 4-5 months after suffering a back injury with France",
     "ringkasan": "",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://images.news9live.com/wp-content/uploads/2026/07/ENG-vs-ARG.jpg",
-    "link_direct": "https://www.news9live.com/sports/football/fifa-wc-2026-atlanta-police-tighten-security-ahead-of-england-vs-argentina-semi-final-2989406",
+    "gambar": "https://s.yimg.com/ny/api/res/1.2/D1pQYoOQZTnRfmKVyvKErw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MjA7aD0xMDE0O2NmPXdlYnA-/https://media.zenfs.com/en/football_today_articles_719/f442fe4cc8fdad51c55c67eb3a2cf975",
+    "link_direct": "https://sports.yahoo.com/articles/arsenal-defender-william-saliba-4-055500618.html",
     "link_sumber": [
-      "https://www.news9live.com/sports/football/fifa-wc-2026-atlanta-police-tighten-security-ahead-of-england-vs-argentina-semi-final-2989406"
+      "https://sports.yahoo.com/articles/arsenal-defender-william-saliba-4-055500618.html"
     ],
-    "updated_at": "2026-07-15 18:03:32"
+    "updated_at": "2026-07-16 18:01:46"
   },
   {
-    "id": "ae01cd75391f",
-    "sumber": "newsdata.io",
-    "judul": "Study shows blood test can help identify people at high risk for Alzheimer's disease",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://i.abcnewsfe.com/a/7a727fe8-0bfb-4d66-bbf1-8541b4dff34e/wirestory_97a5f04cfba0aaea65fa45c56b00105e_16x9.jpg?w=1600",
-    "link_direct": "https://abcnews.com/Health/wireStory/study-shows-blood-test-identify-healthy-people-high-134771474",
-    "link_sumber": [
-      "https://abcnews.com/Health/wireStory/study-shows-blood-test-identify-healthy-people-high-134771474"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "70053a52e728",
-    "sumber": "newsdata.io",
-    "judul": "India Nears Rollout Of Unified Theatre Commands For China And Pakistan Fronts",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": null,
-    "link_direct": "https://www.indiandefensenews.in/2026/07/india-nears-rollout-of-unified-theatre.html",
-    "link_sumber": [
-      "https://www.indiandefensenews.in/2026/07/india-nears-rollout-of-unified-theatre.html"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "d1642e195854",
-    "sumber": "newsdata.io",
-    "judul": "Heading To Badlapur? You'll Need To Take A Different Route For The Next 45 Days",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://images.news18.com/ibnlive/uploads/2026/07/Badlapur-Traffic-Alert-1-2026-07-be8ee2a5f9bf41100f41a97c577dfbcb-1200x800.png",
-    "link_direct": "https://www.news18.com/photogallery/cities/mumbai-news/heading-to-badlapur-youll-need-to-take-a-different-route-for-the-next-45-days-ws-l-10212449.html",
-    "link_sumber": [
-      "https://www.news18.com/photogallery/cities/mumbai-news/heading-to-badlapur-youll-need-to-take-a-different-route-for-the-next-45-days-ws-l-10212449.html"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "d011e1d29077",
-    "sumber": "newsdata.io",
-    "judul": "Nickel-sized hail predicted with thunderstorms in Hamilton County Wednesday — wind gusts up to 50 mph",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.syracuse.com/resizer/v2/U6FF25YV2RFX5CER3MTFRJWBG4.png?auth=20409e926855708858c7172dd9d6e57c4367a4daea542b7b096850ed11c44dc3&smart=true&height=1200",
-    "link_direct": "https://www.syracuse.com/weather-alerts/2026/07/nickel-sized-hail-predicted-with-thunderstorms-in-hamilton-county-wednesday-wind-gusts-up-to-50-mph.html",
-    "link_sumber": [
-      "https://www.syracuse.com/weather-alerts/2026/07/nickel-sized-hail-predicted-with-thunderstorms-in-hamilton-county-wednesday-wind-gusts-up-to-50-mph.html"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "a23f04d8106b",
-    "sumber": "newsdata.io",
-    "judul": "CSMRS team tests Polavaram dam materials quality",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cf-images.assettype.com/newindianexpress/2026-07-15/7gokc45a/polavaram21407chn40.jpg",
-    "link_direct": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/15/csmrs-team-tests-polavaram-dam-materials-quality",
-    "link_sumber": [
-      "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/15/csmrs-team-tests-polavaram-dam-materials-quality"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "8851ac66b814",
-    "sumber": "newsdata.io",
-    "judul": "Joe Wicks urges parents to be positive role models by working out with children",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.london-now.co.uk/resources/images/21184745/",
-    "link_direct": "https://www.london-now.co.uk/news/national/26280833.joe-wicks-urges-parents-positive-role-models-working-children/",
-    "link_sumber": [
-      "https://www.london-now.co.uk/news/national/26280833.joe-wicks-urges-parents-positive-role-models-working-children/",
-      "https://www.standard.co.uk/news/politics/joe-wicks-james-murray-north-london-youtube-department-of-health-and-social-care-b1290006.html"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "a2d41c3edd98",
+    "id": "f75376366ca8",
     "sumber": "gnews.io",
-    "judul": "TN begins drafting ‘Vetri Tamizhagam’ vision document as blueprint for Vijay’s governance",
-    "ringkasan": "",
+    "judul": "Hubungan Antara Jumlah Langkah Harian dan Tingkat Stres Kerja",
+    "ringkasan": "Sebuah studi baru menunjukkan bahwa jumlah langkah harian yang lebih tinggi berhubungan dengan tingkat stres yang lebih rendah pada pekerja. Stres yang berkurang dari berjalan kaki juga dikaitkan dengan peningkatan kinerja kerja. Menariknya, olahraga berat tidak menunjukkan manfaat langsung yang sama dalam mengurangi stres untuk kinerja kerja.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260713456f_202607.jpg",
-    "link_direct": "https://www.lokmattimes.com/national/tn-begins-drafting-vetri-tamizhagam-vision-document-as-blueprint-for-vijays-governance/",
+    "gambar": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Walk-Walking-Fitness-Exercise-Man-Treadmill.jpg",
+    "link_direct": "https://www.naturalnews.com/2026-07-16-daily-steps-found-to-reduce-workplace-stress.html",
     "link_sumber": [
-      "https://www.lokmattimes.com/national/tn-begins-drafting-vetri-tamizhagam-vision-document-as-blueprint-for-vijays-governance/"
+      "https://www.naturalnews.com/2026-07-16-daily-steps-found-to-reduce-workplace-stress.html"
     ],
-    "updated_at": "2026-07-15 18:03:32"
+    "updated_at": "2026-07-16 18:01:46"
   },
   {
-    "id": "46b266412eeb",
+    "id": "5f6947f661fa",
     "sumber": "gnews.io",
-    "judul": "Sun Pharma gets SAHPRA approval for generic semaglutide injection in South Africa for type 2 diabetes",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://img.etimg.com/thumb/msid-132407513,width-1200,height-630,imgsize-95656,overlay-economictimes/articleshow.jpg",
-    "link_direct": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-south-africa-for-type-2-diabetes/articleshow/132407292.cms",
-    "link_sumber": [
-      "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-south-africa-for-type-2-diabetes/articleshow/132407292.cms"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "942e9470b295",
-    "sumber": "gnews.io",
-    "judul": "Mengatasi Kelengkungan Tulang Belakang dengan Peregangan dan Olahraga Harian",
-    "ringkasan": "Kisah ini menceritakan pengalaman seseorang yang menolak operasi untuk kelengkungan tulang belakang. Melalui peregangan dan olahraga harian, ia berhasil mengubah hubungannya dengan tubuhnya. Hal ini menunjukkan potensi aktivitas fisik dalam mengatasi masalah postur tubuh.",
-    "tips": [],
-    "kategori": "fleksibilitas",
-    "gambar": "https://i.guim.co.uk/img/media/e8546079fcb1d0e900103825f300a5f4f37ed4c9/0_835_3024_2419/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=544e275e5d24eb3c59b3bcb3f42dbfbf",
-    "link_direct": "https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light",
-    "link_sumber": [
-      "https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light"
-    ],
-    "updated_at": "2026-07-15 18:03:32"
-  },
-  {
-    "id": "6580a82ed901",
-    "sumber": "gnews.io",
-    "judul": "Cara Mengurangi Penuaan hingga Tiga Tahun",
-    "ringkasan": "Konten ini menyoroti bagaimana seseorang berpotensi mengurangi efek penuaan. Disebutkan bahwa penuaan bisa dikurangi hingga tiga tahun. Hal ini biasanya dicapai melalui kombinasi olahraga teratur, nutrisi seimbang, dan gaya hidup sehat.",
+    "judul": "Kesulitan Berolahraga di Cuaca Lembap",
+    "ringkasan": "Seseorang mengakui pentingnya olahraga meski tidak menyukainya. Ia mengalami kesulitan untuk tetap aktif dan berlari jauh atau cepat saat cuaca lembap. Ini mengangkat pertanyaan tentang dampak cuaca pada kinerja fisik.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11060035.ece/ALTERNATES/s1200/0_GettyImages-2218632851.jpg",
-    "link_direct": "https://www.cornwalllive.com/whats-on/whats-on-news/going-cinema-theatre-museums-concerts-11060034",
+    "gambar": "https://thumb.spokesman.com/jZ5M_AqPTztMzE6xphrAo7ZCxQg=/1200x630/smart/media.spokesman.com/photos/2026/06/29/5eea9cacabbf2.image.jpg",
+    "link_direct": "https://www.spokesman.com/stories/2026/jul/16/ask-the-doctors-the-higher-the-humidity-the-harder/",
     "link_sumber": [
-      "https://www.cornwalllive.com/whats-on/whats-on-news/going-cinema-theatre-museums-concerts-11060034"
+      "https://www.spokesman.com/stories/2026/jul/16/ask-the-doctors-the-higher-the-humidity-the-harder/"
     ],
-    "updated_at": "2026-07-15 18:03:32"
+    "updated_at": "2026-07-16 18:01:46"
+  },
+  {
+    "id": "64d0375d93bb",
+    "sumber": "gnews.io",
+    "judul": "Pentingnya Skrining Testosteron untuk Kesehatan dan Kebugaran",
+    "ringkasan": "Skrining testosteron tahunan akan diterapkan untuk pasukan berusia 30 tahun ke atas di AS. Langkah ini bertujuan untuk meningkatkan kesehatan, daya tahan, dan kesiapan tempur mereka. Ini menunjukkan pentingnya pemantauan hormon untuk kebugaran fisik.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://images.moneycontrol.com/static-mcnews/2026/05/20260505122352_hegseth.png",
+    "link_direct": "https://www.moneycontrol.com/world/not-just-fitness-but-hormones-too-hegseth-orders-testosterone-screening-for-troops-over-30-article-13975336.html",
+    "link_sumber": [
+      "https://www.moneycontrol.com/world/not-just-fitness-but-hormones-too-hegseth-orders-testosterone-screening-for-troops-over-30-article-13975336.html"
+    ],
+    "updated_at": "2026-07-16 18:01:46"
+  },
+  {
+    "id": "5262554c6915",
+    "sumber": "gnews.io",
+    "judul": "Membangun Kebiasaan Kebugaran Berkelanjutan dan Manfaat 10.000 Langkah",
+    "ringkasan": "Ankur Warikoo telah mempertahankan kebiasaan 10.000 langkah setiap hari selama lebih dari tujuh tahun, menekankan pentingnya membangun kebiasaan yang sesuai gaya hidup. Para ahli setuju bahwa konsistensi lebih penting daripada waktu olahraga, dan target 10.000 langkah adalah panduan yang baik. Menggabungkan jalan kaki dengan latihan kekuatan, fleksibilitas, dan pemulihan akan memberikan manfaat jangka panjang untuk kesehatan sendi, otot, dan tulang.",
+    "tips": [
+      "Bangun kebiasaan kebugaran yang sesuai dengan gaya hidup Anda, bukan meniru orang lain.",
+      "Konsistensi berolahraga lebih penting daripada waktu pelaksanaannya.",
+      "Target 10.000 langkah adalah panduan yang berguna, bukan aturan baku.",
+      "Kombinasikan jalan kaki dengan latihan kekuatan, fleksibilitas, dan pemulihan yang cukup untuk manfaat kesehatan jangka panjang."
+    ],
+    "kategori": "kekuatan",
+    "gambar": "https://images.indianexpress.com/2026/06/ankur-warikoo_1600_ai.jpg",
+    "link_direct": "https://indianexpress.com/article/lifestyle/fitness/ankur-warikoo-completes-10k-steps-burns-2k-calories-before-9-am-daily-10759876/",
+    "link_sumber": [
+      "https://indianexpress.com/article/lifestyle/fitness/ankur-warikoo-completes-10k-steps-burns-2k-calories-before-9-am-daily-10759876/"
+    ],
+    "updated_at": "2026-07-16 18:01:46"
   }
 ]
