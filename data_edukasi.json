@@ -1,165 +1,135 @@
 [
   {
-    "id": "17a27ce45d82",
+    "id": "bcd4f631302b",
     "sumber": "newsdata.io",
-    "judul": "Manfaat Kapa Haka untuk Kesehatan Jantung",
-    "ringkasan": "Penelitian baru akan menyelidiki manfaat kapa haka terhadap kesehatan jantung, sebuah area yang masih sedikit diteliti. Hal ini menyoroti potensi aktivitas budaya dalam mendukung kebugaran kardiovaskular.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.1news.co.nz/resizer/v2/6UPLKQJNKRCAFGBKSM77AC2VTU.jpg?auth=62e63e632b71acf412061eeccbcf8043104b7c349a74dfba487b86633f8beb2c&smart=true&width=1200&height=749",
-    "link_direct": "https://www.1news.co.nz/2026/08/05/grant-to-research-benefits-of-kapa-haka-on-heart-health/",
-    "link_sumber": [
-      "https://www.1news.co.nz/2026/08/05/grant-to-research-benefits-of-kapa-haka-on-heart-health/"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "438be6e62b17",
-    "sumber": "newsdata.io",
-    "judul": "Transformasi Kesehatan Alami: Mengatasi Kebiasaan Makan dan Berat Badan",
-    "ringkasan": "Emma Skeates menemukan cara alami untuk mengatasi 'food noise' dan mengubah kesehatannya setelah ditolak untuk suntikan penurun berat badan. Kisahnya menekankan pentingnya pendekatan holistik dalam manajemen berat badan dan gaya hidup sehat.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://i2-prod.mirror.co.uk/news/health/article37509565.ece/ALTERNATES/s615/1_Image-85.jpg",
-    "link_direct": "https://www.mirror.co.uk/news/health/i-stroke-risk-after-cholesterol-37508233",
-    "link_sumber": [
-      "https://www.mirror.co.uk/news/health/i-stroke-risk-after-cholesterol-37508233"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "44b8c0f79d26",
-    "sumber": "newsdata.io",
-    "judul": "Diskusi Kesehatan: Empat Pilar Utama (Tidur, Hidrasi, Gerakan, dan Nutrisi)",
-    "ringkasan": "Pembahasan seputar kesehatan seringkali disederhanakan menjadi resep untuk tidur, hidrasi, gerakan, dan nutrisi. Meskipun penting, fokus ini menunjukkan pendekatan yang terkadang reduksionis terhadap kompleksitas kesehatan secara keseluruhan.",
-    "tips": [],
-    "kategori": "pemulihan",
-    "gambar": "https://www.asianage.com/h-upload/2026/08/05/2072682-new.webp",
-    "link_direct": "https://www.asianage.com/360-degree/the-herbarium-within-a-garden-of-grief-growth-and-grace-1976732",
-    "link_sumber": [
-      "https://www.asianage.com/360-degree/the-herbarium-within-a-garden-of-grief-growth-and-grace-1976732"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "3e13a2e007fd",
-    "sumber": "newsdata.io",
-    "judul": "Pendaftaran Sekolah Balet Mill: Pendidikan Tari Profesional",
-    "ringkasan": "Sekolah Balet Mill, institusi pelatihan resmi Roxey Ballet, telah membuka pendaftaran untuk tahun akademik 2026–2027. Sekolah ini menyediakan pendidikan tari profesional bagi siswa dari berbagai usia, didirikan oleh Artistic Directors Mark dan Melissa Roxey.",
-    "tips": [],
-    "kategori": "kardio",
-    "gambar": null,
-    "link_direct": "https://www.towntopics.com/2026/08/05/mill-ballet-school-holds-registration/",
-    "link_sumber": [
-      "https://www.towntopics.com/2026/08/05/mill-ballet-school-holds-registration/"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "86dac4d8a12b",
-    "sumber": "newsdata.io",
-    "judul": "Peralatan Olahraga Terbaik dari John Lewis: Pelatih Lari hingga Perlengkapan Gym Esensial",
-    "ringkasan": "Temukan koleksi terbaik pakaian olahraga dan perlengkapan gym di John Lewis, termasuk pelatih lari, set Pilates, dan pelacak kebugaran. Tersedia kebutuhan esensial untuk setiap jenis olahraga dengan harga mulai dari £22.",
-    "tips": [],
-    "kategori": "kardio",
-    "gambar": "https://i.dailymail.com/1s/2026/08/04/16/110433225-0-image-m-8_1785857092757.jpg",
-    "link_direct": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-16027901/best-john-lewis-gym-wear-fitness-essentials.html",
-    "link_sumber": [
-      "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-16027901/best-john-lewis-gym-wear-fitness-essentials.html"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "2e85867de3bc",
-    "sumber": "gnews.io",
-    "judul": "Disha Patani Ungkap Hubungan Pribadi dengan Kebugaran",
-    "ringkasan": "Aktris Bollywood Disha Patani berbagi pandangannya tentang kebugaran, menekankan kebahagiaan daripada penampilan. Ia juga memberikan wawasan tentang gaya hidupnya yang sederhana di luar layar, jauh dari gemerlap industri film.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://static.toiimg.com/thumb/msid-132893816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-explains-why-fitness-brings-her-joy-beyond-aesthetics/articleshow/132893060.cms",
-    "link_sumber": [
-      "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-explains-why-fitness-brings-her-joy-beyond-aesthetics/articleshow/132893060.cms"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "213c49c921b8",
-    "sumber": "gnews.io",
-    "judul": "Kebugaran Konsisten Sonu Sood dan Tips Fitness Berkelanjutan",
-    "ringkasan": "Pelatih kebugaran Yogesh Bhateja memuji Sonu Sood atas disiplin dan konsistensinya dalam menjaga bentuk tubuh. Dietisien Garima Goyal menjelaskan bahwa latihan standing cable chest fly menguatkan otot-otot utama dan meningkatkan kontrol otot. Kebugaran yang bertahan lama didapatkan dari latihan kekuatan konsisten, nutrisi seimbang, protein cukup, pemulihan, dan kebiasaan harian yang berkelanjutan.",
+    "judul": "Kapten India Shubman Gill Cedera Jari dan Absen Laga Pemanasan",
+    "ringkasan": "Kapten tim kriket India, Shubman Gill, mengalami cedera jari manis kanan yang membuatnya absen dalam pertandingan pemanasan. Ia diistirahatkan sebagai tindakan pencegahan untuk menghindari cedera lebih lanjut. KL Rahul memimpin tim sebagai pengganti.",
     "tips": [
-      "Lakukan latihan kekuatan secara konsisten.",
-      "Jaga nutrisi seimbang dan asupan protein yang cukup.",
-      "Pastikan pemulihan yang tepat setelah berolahraga.",
-      "Bangun kebiasaan harian yang berkelanjutan untuk kebugaran jangka panjang."
+      "Istirahatkan cedera sebagai tindakan pencegahan untuk pemulihan optimal."
     ],
+    "kategori": "umum",
+    "gambar": "https://www.newsx.com/wp-content/uploads/2025/07/kl-rahul-oval-century.jpg",
+    "link_direct": "https://www.newsx.com/sports/ind-vs-sri-lanka-xi-warm-up-why-is-shubman-gill-not-playing-kl-rahul-leads-india-as-bcci-issues-injury-update-257711/",
+    "link_sumber": [
+      "https://www.newsx.com/sports/ind-vs-sri-lanka-xi-warm-up-why-is-shubman-gill-not-playing-kl-rahul-leads-india-as-bcci-issues-injury-update-257711/"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "71632438f2bb",
+    "sumber": "newsdata.io",
+    "judul": "Shubman Gill Cedera Jari Kanan saat Latihan, Absen Pemanasan",
+    "ringkasan": "Pemain kriket India, Shubman Gill, mengalami cedera jari manis kanan saat sesi latihan. Cedera ini membuatnya absen pada hari pertama pertandingan pemanasan. Absensi ini bersamaan dengan absennya Bumrah, menimbulkan kekhawatiran menjelang Tes Galle.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+    "link_direct": "https://www.newkerala.com/news/a/indian-skipper-gill-suffers-finger-injury-ahead-first-969.htm",
+    "link_sumber": [
+      "https://www.newkerala.com/news/a/indian-skipper-gill-suffers-finger-injury-ahead-first-969.htm"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "7599d142278b",
+    "sumber": "newsdata.io",
+    "judul": "Penggemar Muda Olahraga GAA Antusias Saksikan Sesi Latihan",
+    "ringkasan": "Para penggemar muda dari klub GAA lokal di Galway mendapatkan kesempatan istimewa untuk menyaksikan pahlawan mereka berlatih. Sesi latihan ini berlangsung di Athenry dan membangkitkan semangat menjelang pertandingan penting. Ada antusiasme besar menanti kemenangan tim 'Tribeswomen' pada hari Minggu.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.rte.ie/images/0024cf37-800.jpg",
+    "link_direct": "https://www.rte.ie/news/ireland/2026/0807/1586843-galway-camogie-ireland/",
+    "link_sumber": [
+      "https://www.rte.ie/news/ireland/2026/0807/1586843-galway-camogie-ireland/"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "6b5a9ad5482a",
+    "sumber": "gnews.io",
+    "judul": "Manfaat dan Variasi Latihan Jalan Kaki untuk Kebugaran",
+    "ringkasan": "Jalan kaki merupakan latihan holistik yang sangat efektif untuk melindungi jantung, membangun kekuatan tubuh bagian bawah, mengelola berat badan, dan meningkatkan suasana hati. Para peneliti menyarankan untuk tidak hanya berjalan lebih banyak, tetapi juga dengan cara yang bervariasi untuk menantang tubuh dan menjaga minat. Mengubah kecepatan, rute, dan intensitas dapat mengubah jalan kaki sederhana menjadi latihan seluruh tubuh yang lebih efektif.",
+    "tips": [
+      "Berjalanlah dengan cara yang berbeda untuk menantang tubuh dan menjaga minat Anda.",
+      "Variasikan rutinitas jalan kaki Anda dengan menambahkan tanjakan, mengubah kecepatan, atau menggunakan rompi beban.",
+      "Ubah kecepatan, rute, dan intensitas jalan kaki Anda untuk mengubahnya menjadi latihan seluruh tubuh.",
+      "Terdapat setidaknya delapan jenis jalan kaki yang akan membuat setiap langkah Anda lebih berarti."
+    ],
+    "kategori": "kekuatan",
+    "gambar": "https://static.toiimg.com/thumb/msid-133022972,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/etimes/wellness/8-powerful-walking-styles-that-do-more-than-just-help-you-lose-weight/photostory/133022967.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/etimes/wellness/8-powerful-walking-styles-that-do-more-than-just-help-you-lose-weight/photostory/133022967.cms"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "c4ed1444616b",
+    "sumber": "gnews.io",
+    "judul": "Mengurangi Risiko Serangan Jantung dengan Perubahan Gaya Hidup",
+    "ringkasan": "Dr. Sudhir Kumar merekomendasikan perubahan gaya hidup untuk mengurangi risiko serangan jantung. Rekomendasi ini menekankan pentingnya olahraga, pola makan sehat, dan delapan kebiasaan tambahan lainnya.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/08/07/1600x900/logo/heart-disease-in-women_1769413384100_1769413389037_1786079393012_70e07e27-f236-4250-80ea-54aa41adf4f0.jpg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/can-lifestyle-habits-reduce-your-future-heart-attack-risk-neurologist-dr-sudhir-kumar-shares-10-that-you-should-follow-101786072412789.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/lifestyle/health/can-lifestyle-habits-reduce-your-future-heart-attack-risk-neurologist-dr-sudhir-kumar-shares-10-that-you-should-follow-101786072412789.html"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "4105bd568e0b",
+    "sumber": "gnews.io",
+    "judul": "Uji Keseimbangan Anda dengan Latihan Mudah Ini",
+    "ringkasan": "Seorang pelatih pribadi membagikan latihan sederhana dan cepat untuk menguji keseimbangan Anda. Latihan ini dapat dicoba dan disesuaikan berdasarkan kelompok usia.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://cdn.mos.cms.futurecdn.net/rFmDncitwtNguzdZG8npiK-1920-80.jpg",
+    "link_direct": "https://www.tomsguide.com/wellness/workouts/this-simple-bodyweight-exercise-reveals-whether-your-balance-is-above-average-for-your-age",
+    "link_sumber": [
+      "https://www.tomsguide.com/wellness/workouts/this-simple-bodyweight-exercise-reveals-whether-your-balance-is-above-average-for-your-age"
+    ],
+    "updated_at": "2026-08-07 17:41:06"
+  },
+  {
+    "id": "b5689620f9d5",
+    "sumber": "gnews.io",
+    "judul": "Gaya Hidup Sehat dengan Ramuan Herbal dan Olahraga",
+    "ringkasan": "Bubur herbal Ayurveda, meskipun tradisional digunakan untuk imunitas dan penyakit, adalah suplemen, bukan penyembuh tunggal. Penggunaannya memerlukan gaya hidup sehat yang konsisten, termasuk diet bergizi dan olahraga, untuk kesehatan dan kebugaran optimal.",
+    "tips": [],
     "kategori": "nutrisi",
-    "gambar": "https://images.indianexpress.com/2026/07/sonu-sood_1600_insta-new.jpg",
-    "link_direct": "https://indianexpress.com/article/lifestyle/fitness/trainer-sonu-sood-fitness-commitment-discipline-expert-10773480/",
+    "gambar": "https://img.onmanorama.com/content/dam/mm/en/archive/lifestyle/health/images/2025/7/17/karkidakam-kanji-diet.jpg",
+    "link_direct": "https://www.onmanorama.com/health/diet/2026/08/07/karkkidakam-kanji-porridge-health-benefits.html",
     "link_sumber": [
-      "https://indianexpress.com/article/lifestyle/fitness/trainer-sonu-sood-fitness-commitment-discipline-expert-10773480/"
+      "https://www.onmanorama.com/health/diet/2026/08/07/karkkidakam-kanji-porridge-health-benefits.html"
     ],
-    "updated_at": "2026-08-05 18:17:05"
+    "updated_at": "2026-08-07 17:41:06"
   },
   {
-    "id": "dc873eb5d923",
+    "id": "a0fcc87b6734",
     "sumber": "gnews.io",
-    "judul": "Carlos Alcaraz Mundur dari Cincinnati Open Akibat Cedera Pergelangan Tangan",
-    "ringkasan": "Carlos Alcaraz mengundurkan diri dari Cincinnati Open karena cedera pergelangan tangan. Hal ini menimbulkan keraguan atas kemampuannya mempertahankan gelar US Open, karena ia akan memasuki Grand Slam tanpa praktik pertandingan kompetitif.",
+    "judul": "Tips Menjaga Kebugaran Saat Bepergian",
+    "ringkasan": "Aktor Bollywood Aayush Sharma berhasil menjaga konsistensi kebugarannya meskipun memiliki jadwal perjalanan yang sangat padat. Ia telah bepergian ke lima kota dalam dua bulan, menunjukkan komitmennya terhadap fitness.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/untitled-design-2026-08-05t105259-1785907418.jpg",
-    "link_direct": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-pulls-out-of-cincinnati-open-will-defending-champion-gain-full-fitness-before-us-open-2026-08-05-1050395",
+    "gambar": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608073894835_202608.jpeg",
+    "link_direct": "https://www.lokmattimes.com/entertainment/aayush-sharma-remains-consistent-with-fitness-amid-travel-across-5-cities-in-2-months/",
     "link_sumber": [
-      "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-pulls-out-of-cincinnati-open-will-defending-champion-gain-full-fitness-before-us-open-2026-08-05-1050395",
-      "https://www.devdiscourse.com/article/sports-games/3959728-tennis-alcaraz-withdraws-from-cincinnati-event-as-doubts-grow-over-us-open-defence"
+      "https://www.lokmattimes.com/entertainment/aayush-sharma-remains-consistent-with-fitness-amid-travel-across-5-cities-in-2-months/"
     ],
-    "updated_at": "2026-08-05 18:17:05"
+    "updated_at": "2026-08-07 17:41:06"
   },
   {
-    "id": "c68f9a1c7839",
+    "id": "fd333b2588a1",
     "sumber": "gnews.io",
-    "judul": "Bahaya Olahraga Berlebihan Setelah Lama Tidak Berolahraga",
-    "ringkasan": "Meskipun olahraga teratur baik untuk kesehatan, latihan yang berlebihan, terutama setelah berbulan-bulan tidak berolahraga, bisa berakibat fatal. Spesialis penyakit dalam Dr Priyam Bordoloi menjelaskan bagaimana berolahraga berjam-jam dapat mematikan dalam kondisi tertentu.",
+    "judul": "Pentingnya Tidur untuk Kesehatan dan Kebugaran Optimal",
+    "ringkasan": "Tidur kini semakin diakui sebagai komponen penting untuk kesehatan yang setara dengan diet dan olahraga. Tren 'sleepmaxxing' menunjukkan peningkatan upaya dan perhatian terhadap rutinitas tidur dan istirahat yang lebih baik dalam budaya kebugaran.",
     "tips": [],
-    "kategori": "umum",
-    "gambar": "https://img.etimg.com/thumb/msid-132892613,width-1200,height-630,imgsize-90484,overlay-etpanache/articleshow.jpg",
-    "link_direct": "https://economictimes.indiatimes.com/magazines/panache/healthy-35-year-old-had-a-cardiac-arrest-after-3-hours-of-working-out-doctor-explains-why-this-is-not-a-rare-freak-accident/articleshow/132892613.cms",
+    "kategori": "nutrisi",
+    "gambar": "https://abc17news.b-cdn.net/abc17news.com/2026/08/cpap-sleepmaxxing.jpg",
+    "link_direct": "https://abc17news.com/news/2026/08/06/the-rise-of-sleepmaxxing-why-people-are-obsessed-with-better-sleep/",
     "link_sumber": [
-      "https://economictimes.indiatimes.com/magazines/panache/healthy-35-year-old-had-a-cardiac-arrest-after-3-hours-of-working-out-doctor-explains-why-this-is-not-a-rare-freak-accident/articleshow/132892613.cms"
+      "https://abc17news.com/news/2026/08/06/the-rise-of-sleepmaxxing-why-people-are-obsessed-with-better-sleep/"
     ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "b71e89a29833",
-    "sumber": "gnews.io",
-    "judul": "Tanggapan Manly Warringah Sea Eagles atas Gugatan Kematian Pemain Pramusim",
-    "ringkasan": "Klub Manly Warringah Sea Eagles menanggapi gugatan dari keluarga pemain yang meninggal dunia saat latihan pramusim. Klub menyatakan bahwa pemain tersebut lalai karena tidak mengungkapkan kondisinya yang kurang bugar.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://live-production.wcms.abc-cdn.net.au/7af8e9fd73a38616eb2403fd00766a31?impolicy=wcms_watermark_news&cropH=486&cropW=864&xPos=4&yPos=7&width=862&height=485&imformat=generic",
-    "link_direct": "https://www.abc.net.au/news/2026-08-05/nrl-club-claims-keith-titmuss-contributed-to-training-death/106999580",
-    "link_sumber": [
-      "https://www.abc.net.au/news/2026-08-05/nrl-club-claims-keith-titmuss-contributed-to-training-death/106999580"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
-  },
-  {
-    "id": "910729c509ca",
-    "sumber": "gnews.io",
-    "judul": "Manfaat Latihan Peregangan Duduk untuk Fleksibilitas dan Kesejahteraan",
-    "ringkasan": "Latihan peregangan duduk adalah cara sederhana namun efektif untuk meningkatkan fleksibilitas tubuh. Selain itu, latihan ini juga berkontribusi pada peningkatan kesejahteraan secara keseluruhan.",
-    "tips": [
-      "Lakukan peregangan duduk secara teratur untuk meningkatkan fleksibilitas.",
-      "Jadikan peregangan duduk bagian dari rutinitas harian Anda untuk kesejahteraan umum."
-    ],
-    "kategori": "fleksibilitas",
-    "gambar": "https://i.cdn.newsbytesapp.com/images/l86120260805092111.jpeg",
-    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/surprising-benefits-of-seated-stretching-exercises/story",
-    "link_sumber": [
-      "https://www.newsbytesapp.com/news/lifestyle/surprising-benefits-of-seated-stretching-exercises/story"
-    ],
-    "updated_at": "2026-08-05 18:17:05"
+    "updated_at": "2026-08-07 17:41:06"
   }
 ]
