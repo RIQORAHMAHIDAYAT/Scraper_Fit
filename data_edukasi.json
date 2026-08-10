@@ -1,100 +1,93 @@
 [
   {
-    "id": "cd4a645ffc5b",
+    "id": "ec0440d6b2a7",
     "sumber": "newsdata.io",
-    "judul": "Excessive screen time during summer puts children’s sleep, health at risk: Expert",
+    "judul": "Aksi Deon Fourie dalam Pertandingan Rugby",
     "ringkasan": "",
     "tips": [],
-    "kategori": "postur",
-    "gambar": "https://thepeninsulaqatar.com/get/image/20260809_1786252964-58-thumb_404.jpg?1786252964",
-    "link_direct": "https://thepeninsulaqatar.com/article/09/08/2026/excessive-screen-time-during-summer-puts-childrens-sleep-health-at-risk-expert",
+    "kategori": "umum",
+    "gambar": "https://iol-prod.appspot.com/image/50cf769da6c9aac62bbe34be9fa70113b19f47db",
+    "link_direct": "https://dailyvoice.co.za/daily-voice/news/2026-08-10-stormers-yster-deon-fourie-puts-hand-up-for-all-blacks-tests/",
     "link_sumber": [
-      "https://thepeninsulaqatar.com/article/09/08/2026/excessive-screen-time-during-summer-puts-childrens-sleep-health-at-risk-expert"
+      "https://dailyvoice.co.za/daily-voice/news/2026-08-10-stormers-yster-deon-fourie-puts-hand-up-for-all-blacks-tests/"
     ],
-    "updated_at": "2026-08-09 17:22:59"
+    "updated_at": "2026-08-10 17:44:43"
   },
   {
-    "id": "02ad25ccbdb4",
+    "id": "c81e5cd72b39",
     "sumber": "newsdata.io",
-    "judul": "Keputusan Pergantian Pemain Manchester United di Laga Pramusim",
-    "ringkasan": "Manajer Manchester United, Michael Carrick, memberikan penjelasan mengenai keputusan untuk mengganti Mason Mount. Insiden ini terjadi saat pertandingan pramusim klub yang berakhir imbang 1-1. Penggantian pemain menjadi sorotan dalam konteks strategi tim.",
+    "judul": "Model Apple Watch Terbaru untuk Kebugaran",
+    "ringkasan": "",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://k24.digital/wp-content/uploads/2026/08/Mount.png",
-    "link_direct": "https://k24.digital/sports/epl/carrick-explains-why-mount-was-taken-off-against-psg",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l142_5331786334605.jpg",
+    "link_direct": "https://www.newsbytesapp.com/news/science/apple-could-ditch-its-cheapest-watch-model/story",
     "link_sumber": [
-      "https://k24.digital/sports/epl/carrick-explains-why-mount-was-taken-off-against-psg"
+      "https://www.newsbytesapp.com/news/science/apple-could-ditch-its-cheapest-watch-model/story"
     ],
-    "updated_at": "2026-08-09 17:22:59"
+    "updated_at": "2026-08-10 17:44:43"
   },
   {
-    "id": "aac30c79b21c",
+    "id": "babd23eca1a0",
     "sumber": "gnews.io",
-    "judul": "Strategi Pencegahan Demensia dengan Gaya Hidup Sehat",
-    "ringkasan": "Mengatasi faktor risiko yang dapat dimodifikasi seperti pola makan buruk dan isolasi sosial dapat menunda atau mencegah hampir separuh kasus demensia di seluruh dunia. Intervensi gaya hidup seperti diet, olahraga, dan detoksifikasi terbukti lebih efektif dan berbiaya rendah dibandingkan obat-obatan mahal.",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Dementia-Frontotemporal-Film-Mri-Anatomy-Atrophy-Brain.jpg",
-    "link_direct": "https://www.naturalnews.com/2026-08-09-dementia-cases-prevented-lifestyle-changes-experts-reveal.html",
-    "link_sumber": [
-      "https://www.naturalnews.com/2026-08-09-dementia-cases-prevented-lifestyle-changes-experts-reveal.html"
+    "judul": "Pentingnya Kebugaran Fisik Sebelum Operasi dan Pemulihan",
+    "ringkasan": "Rakesh Roshan melanjutkan latihannya setelah perawatan kanker, menyoroti pentingnya aktivitas fisik. Pakar ortopedi Dr. Sarang Deshpande menyarankan bahwa aktivitas konsisten, nutrisi tepat, hidrasi, dan tidur berkualitas sebelum operasi dapat mempercepat pemulihan. Namun, latihan intens segera sebelum operasi tidak disarankan untuk semua orang, sehingga pasien harus mengikuti panduan dokter.",
+    "tips": [
+      "Tetap aktif secara konsisten dalam minggu-minggu menjelang operasi untuk meningkatkan kekuatan otot dan kebugaran kardiovaskular.",
+      "Pastikan nutrisi yang tepat, hidrasi yang cukup, dan tidur yang berkualitas sebagai bagian dari persiapan pra-operasi.",
+      "Ikuti panduan dokter mengenai tingkat aktivitas fisik karena kondisi kesehatan dan risiko bedah setiap pasien berbeda.",
+      "Hindari latihan intens tepat sebelum operasi kecuali diinstruksikan secara khusus oleh dokter Anda."
     ],
-    "updated_at": "2026-08-09 17:22:59"
+    "kategori": "kardio",
+    "gambar": "https://images.indianexpress.com/2026/07/sunaina-on-rakesh-roshan_600.jpg",
+    "link_direct": "https://indianexpress.com/shorts/lifestyle/fitness/sunaina-roshan-father-rakesh-roshan-workout-2-hours-cancer-surgery-expert-10810440/",
+    "link_sumber": [
+      "https://indianexpress.com/shorts/lifestyle/fitness/sunaina-roshan-father-rakesh-roshan-workout-2-hours-cancer-surgery-expert-10810440/"
+    ],
+    "updated_at": "2026-08-10 17:44:43"
   },
   {
-    "id": "ebb34749fd6b",
+    "id": "cf7ba4536299",
     "sumber": "gnews.io",
-    "judul": "Review Aplikasi Kebugaran Ray AI",
-    "ringkasan": "Artikel ini membahas pengalaman penggunaan aplikasi kebugaran Ray AI selama sebulan. Fokusnya adalah pada kinerja fitur pelatihan suara, latihan adaptif, dan penghitungan repetisi.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cdn.mos.cms.futurecdn.net/STbotcVUbNmyD5fi6ejjaL-1920-80.jpg",
-    "link_direct": "https://www.tomsguide.com/ai/im-a-former-personal-trainer-and-this-ai-fitness-app-is-surprisingly-legit",
-    "link_sumber": [
-      "https://www.tomsguide.com/ai/im-a-former-personal-trainer-and-this-ai-fitness-app-is-surprisingly-legit"
-    ],
-    "updated_at": "2026-08-09 17:22:59"
-  },
-  {
-    "id": "870e2ce94713",
-    "sumber": "gnews.io",
-    "judul": "Manfaat Latihan Beban untuk Perbaikan Otot",
-    "ringkasan": "Latihan beban secara teratur memperkuat sistem perbaikan protein otot, namun efek ini mulai memudar setelah tiga minggu tanpa latihan. Sebuah studi menunjukkan bahwa enam minggu latihan beban meningkatkan mekanisme internal otot untuk mengidentifikasi dan menghilangkan protein yang rusak.",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/resistance-training-muscle-protein-repair-system-bag3-protein-3251-original_146904892.jpg",
-    "link_direct": "https://www.naturalnews.com/2026-08-09-resistance-training-improves-muscle-repair-system-study-finds.html",
-    "link_sumber": [
-      "https://www.naturalnews.com/2026-08-09-resistance-training-improves-muscle-repair-system-study-finds.html"
-    ],
-    "updated_at": "2026-08-09 17:22:59"
-  },
-  {
-    "id": "6fa922c37424",
-    "sumber": "gnews.io",
-    "judul": "Pandangan Mahesh Babu tentang Kebugaran",
-    "ringkasan": "Aktor Mahesh Babu telah berbagi pemikirannya mengenai kebugaran, kebahagiaan, dan pertumbuhan pribadi. Konten ini membahas pandangannya terhadap aspek-aspek penting dalam hidup dan kariernya.",
+    "judul": "Imran Masood: Central Government's FCRA Bill Threatens Democracy",
+    "ringkasan": "",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://media.assettype.com/freepressjournal/2026-08-08/6ywwjmzv/Mahesh-Babu-Birthday.avif",
-    "link_direct": "https://www.freepressjournal.in/lifestyle/quote-of-the-day-by-mahesh-babu-in-fitness-there-are-no-shortcuts",
+    "gambar": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_08_2026_10_58_50_3666078.jpg&width=920&format=jpeg",
+    "link_direct": "https://www.devdiscourse.com/article/headlines/3961788-imran-masood-central-governments-fcra-bill-threatens-democracy",
     "link_sumber": [
-      "https://www.freepressjournal.in/lifestyle/quote-of-the-day-by-mahesh-babu-in-fitness-there-are-no-shortcuts"
+      "https://www.devdiscourse.com/article/headlines/3961788-imran-masood-central-governments-fcra-bill-threatens-democracy"
     ],
-    "updated_at": "2026-08-09 17:22:59"
+    "updated_at": "2026-08-10 17:44:43"
   },
   {
-    "id": "1197dd4c808c",
+    "id": "60821b99d79c",
     "sumber": "gnews.io",
-    "judul": "Rencana Diet dan Latihan Yash untuk Peran Film",
-    "ringkasan": "Aktor Yash memiliki bentuk tubuh berotot yang mengesankan untuk perannya dalam film Toxic. Dietnya kaya protein dan karbohidrat dari makanan dasar, dilengkapi dengan rutinitas latihan intensif dua kali sehari.",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://img.etimg.com/thumb/msid-133061361,width-1200,height-630,imgsize-69059,overlay-etpanache/articleshow.jpg",
-    "link_direct": "https://economictimes.indiatimes.com/magazines/panache/no-starving-no-steroids-at-40-yash-flaunts-six-pack-abs-and-a-muscular-physique-in-toxic-with-simple-protein-and-carb-sources-what-does-he-eat-in-a-day/articleshow/133061337.cms",
-    "link_sumber": [
-      "https://economictimes.indiatimes.com/magazines/panache/no-starving-no-steroids-at-40-yash-flaunts-six-pack-abs-and-a-muscular-physique-in-toxic-with-simple-protein-and-carb-sources-what-does-he-eat-in-a-day/articleshow/133061337.cms"
+    "judul": "Rekomendasi Aktivitas Fisik Intensitas Tinggi Mingguan",
+    "ringkasan": "NHS merekomendasikan untuk melakukan aktivitas fisik intensitas tinggi selama 75 menit setiap minggu. Panduan ini bertujuan untuk menjaga kebugaran dan kesehatan tubuh secara keseluruhan. Mengikuti rekomendasi ini dapat membantu meningkatkan daya tahan kardiovaskular dan kesehatan umum.",
+    "tips": [
+      "Targetkan 75 menit aktivitas fisik intensitas tinggi setiap minggu sesuai rekomendasi NHS."
     ],
-    "updated_at": "2026-08-09 17:22:59"
+    "kategori": "umum",
+    "gambar": "https://i2-prod.ok.co.uk/incoming/article37531584.ece/ALTERNATES/s1200/0_GettyImages-2235011214-1.jpg",
+    "link_direct": "https://www.dailystar.co.uk/life-style/cancer-risk-increases-15-per-37531581",
+    "link_sumber": [
+      "https://www.dailystar.co.uk/life-style/cancer-risk-increases-15-per-37531581"
+    ],
+    "updated_at": "2026-08-10 17:44:43"
+  },
+  {
+    "id": "4077f47bb9c3",
+    "sumber": "gnews.io",
+    "judul": "Inovasi Apple Watch: Tampilan Bulat dan Perangkat Kebugaran Baru",
+    "ringkasan": "Apple sedang mempertimbangkan perombakan besar pada Apple Watch, yang mungkin mencakup layar bulat dan casing keramik. Perusahaan juga sedang menjajaki pengembangan jenis perangkat kebugaran baru. Inovasi ini diharapkan dapat meningkatkan pengalaman pengguna dalam memantau kesehatan dan aktivitas fisik mereka.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.cultofmac.com/wp-content/uploads/2026/08/apple-watch-face-front-1440x810.jpg",
+    "link_direct": "https://www.cultofmac.com/news/apple-plans-major-apple-watch-shake-up",
+    "link_sumber": [
+      "https://www.cultofmac.com/news/apple-plans-major-apple-watch-shake-up"
+    ],
+    "updated_at": "2026-08-10 17:44:43"
   }
 ]
