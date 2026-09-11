@@ -1,147 +1,90 @@
 [
   {
-    "id": "ff2d3a855228",
+    "id": "5c907170bf9d",
     "sumber": "newsdata.io",
-    "judul": "Patrick Mahomes: Membangun Kerajaan Bisnis di Balik Lapangan Sepak Bola",
-    "ringkasan": "Patrick Mahomes membangun kerajaan bisnis yang mengesankan di luar lapangan sepak bola, termasuk investasi dalam waralaba olahraga dan perusahaan kebugaran. Penghasilannya di luar lapangan telah melampaui banyak rekan NFL-nya. Para ahli memprediksi investasinya akan berkembang signifikan, berpotensi membuatnya menjadi miliarder sebelum pensiun.",
+    "judul": "Radio DJ Papa Dudut Turunkan Berat Badan 42 Kilogram",
+    "ringkasan": "Radio DJ Papa Dudut berbagi pengalamannya menurunkan berat badan sebanyak 42 kilogram dalam 14 bulan. Ia termotivasi untuk menjadi lebih sehat demi anak-anaknya. Kisah ini menunjukkan pentingnya motivasi pribadi dalam mencapai tujuan kebugaran.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133998171/133998171.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/sports/nfl/news/how-patrick-mahomes-joined-a-200m-f1-team-a-10b-fitness-app-and-multiple-sports-franchises-and-might-become-the-nfls-first-billionaire/articleshow/133997752.cms",
+    "gambar": "https://od2-image-api.abs-cbn.com/prod/20260911080916/8c91b6aab17ed81052a56415a7e7dbca00c43b4d5d27028bd380b18a3d868906.png",
+    "link_direct": "https://www.abs-cbn.com/entertainment/showbiz/celebrities/2026/9/11/papa-dudut-addresses-weight-loss-speculations-says-he-is-on-a-healthy-diet-1516",
     "link_sumber": [
-      "https://timesofindia.indiatimes.com/sports/nfl/news/how-patrick-mahomes-joined-a-200m-f1-team-a-10b-fitness-app-and-multiple-sports-franchises-and-might-become-the-nfls-first-billionaire/articleshow/133997752.cms"
+      "https://www.abs-cbn.com/entertainment/showbiz/celebrities/2026/9/11/papa-dudut-addresses-weight-loss-speculations-says-he-is-on-a-healthy-diet-1516"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   },
   {
-    "id": "970b8fa36206",
+    "id": "6cbc8f0bb7d2",
     "sumber": "newsdata.io",
-    "judul": "Insiden Keselamatan Paddleboard: Dua Orang Jatuh dari Papan",
-    "ringkasan": "Penyelamat inshore lifeboat Llandudno RNLI dikerahkan setelah laporan dua paddle boarder jatuh dari papan mereka. Kejadian ini menyoroti pentingnya keselamatan dalam olahraga air. Selalu perhatikan kondisi perairan dan gunakan perlengkapan keselamatan yang memadai saat melakukan aktivitas seperti paddleboarding.",
-    "tips": [
-      "Selalu perhatikan kondisi perairan sebelum melakukan paddleboarding.",
-      "Gunakan pelampung atau alat apung pribadi lainnya saat berada di atas air.",
-      "Pastikan Anda tahu cara kembali ke papan dengan aman jika terjatuh.",
-      "Beritahu seseorang tentang rencana Anda dan perkiraan waktu kembali."
-    ],
-    "kategori": "umum",
-    "gambar": null,
-    "link_direct": "https://www.northwalespioneer.co.uk/news/26537488.paddle-boarders-difficulty-off-rhos-on-sea-coast/",
-    "link_sumber": [
-      "https://www.northwalespioneer.co.uk/news/26537488.paddle-boarders-difficulty-off-rhos-on-sea-coast/"
-    ],
-    "updated_at": "2026-09-10 19:23:32"
-  },
-  {
-    "id": "aa530be80e71",
-    "sumber": "newsdata.io",
-    "judul": "Dugaan Irregularitas dalam Pengisian Posisi Kuota Olahraga DSC Andhra Pradesh",
-    "ringkasan": "YS Jagan Mohan Reddy menuduh adanya penyimpangan dalam rekrutmen DSC Andhra Pradesh, mempertanyakan pengisian 372 posisi kuota olahraga tanpa ujian. Isu ini menyoroti pentingnya transparansi dan keadilan dalam seleksi berbasis olahraga. Proses rekrutmen harus memastikan integritas untuk atlet yang berprestasi.",
-    "tips": [
-      "Pastikan transparansi dalam setiap proses seleksi kuota olahraga.",
-      "Adakan ujian atau evaluasi yang objektif untuk mengisi posisi kuota olahraga.",
-      "Jamin keadilan dan akuntabilitas dalam rekrutmen berbasis prestasi olahraga."
-    ],
-    "kategori": "kardio",
-    "gambar": "https://thenewsmill.com/wp-content/uploads/2026/09/ys-jagan-mohan-reddy-questions-andhra-dsc-recruitment-irregularities.jpg",
-    "link_direct": "https://thenewsmill.com/2026/09/ys-jagan-mohan-reddy-questions-andhra-dsc-recruitment-irregularities/",
-    "link_sumber": [
-      "https://thenewsmill.com/2026/09/ys-jagan-mohan-reddy-questions-andhra-dsc-recruitment-irregularities/"
-    ],
-    "updated_at": "2026-09-10 19:23:32"
-  },
-  {
-    "id": "44465f3b8f6d",
-    "sumber": "newsdata.io",
-    "judul": "Tantangan Kebugaran Penggalangan Dana untuk NHS di Northamptonshire",
-    "ringkasan": "Masyarakat Northamptonshire diundang untuk berpartisipasi dalam tantangan penggalangan dana baru sepanjang bulan Oktober. Mereka bisa memilih berjalan kaki, berlari, bersepeda, atau berenang. Tantangan ini bertujuan untuk mendukung pasien, keluarga, dan staf NHS setempat melalui kegiatan yang meningkatkan kebugaran.",
-    "tips": [
-      "Berjalan kaki adalah cara sederhana untuk meningkatkan kesehatan jantung.",
-      "Lari efektif membakar kalori dan meningkatkan daya tahan.",
-      "Bersepeda adalah latihan kardiovaskular yang menyenangkan dan ramah sendi.",
-      "Berenang melatih seluruh otot tubuh dan mengurangi risiko cedera.",
-      "Pilih aktivitas yang paling sesuai dengan tingkat kebugaran Anda."
-    ],
-    "kategori": "umum",
-    "gambar": "https://www.northamptonchron.co.uk/webimg/b25lY21zOjMzYzdkMjRhLTM1YWUtNDk4YS04Mjc0LTg4YWY5ZThhZGQwMDoyYjcyMTkzYy1iYTIyLTRiOTItYTkzYi03NmY2YzcyMjM2NzM=.jpg?width=1200&auto=webp&crop=3%3A2",
-    "link_direct": "https://www.northamptonchron.co.uk/health/walk-run-cycle-or-swim-to-support-northamptonshire-hospitals-in-new-charity-challenge-9007904",
-    "link_sumber": [
-      "https://www.northamptonchron.co.uk/health/walk-run-cycle-or-swim-to-support-northamptonshire-hospitals-in-new-charity-challenge-9007904"
-    ],
-    "updated_at": "2026-09-10 19:23:32"
-  },
-  {
-    "id": "0df24fce5a59",
-    "sumber": "gnews.io",
-    "judul": "Transformasi Ranbir Kapoor: Postur, Pernapasan, dan Yoga untuk Peran",
-    "ringkasan": "Trainer Shivohaam mengungkapkan transformasi Ranbir Kapoor tidak hanya fokus pada fisik, tetapi juga postur, pernapasan, dan yoga. Pendekatan holistik ini membantu aktor tersebut memahami karakternya, Lord Ram, dengan kepribadian yang tenang dan terkendali.",
+    "judul": "Atletik India: Annu Rani Gagal Penuhi Standar Kualifikasi Asian Games",
+    "ringkasan": "Annu Rani, peraih medali emas Asian Games 2022, gagal memenuhi standar kualifikasi 57.62m meskipun memenangkan emas di Indian Athletics Final Series. Federasi Atletik India (AFI) menyatakan atlet yang tidak memenuhi standar tidak akan dikirim ke Asian Games. Ini menyoroti pentingnya mencapai standar minimum dalam olahraga kompetitif.",
     "tips": [],
-    "kategori": "postur",
-    "gambar": "https://media.assettype.com/freepressjournal/2026-09-10/fs6wjmt3/Ranbir-Kapoor’s-Ramayana-Transformation.png",
-    "link_direct": "https://www.freepressjournal.in/lifestyle/ranbir-kapoors-ramayana-transformation-was-more-than-physical-celebrity-trainer-reveals-how-actor-prepared-to-play-lord-ram",
+    "kategori": "kekuatan",
+    "gambar": "https://cf-images.assettype.com/outlookindia/2026-09-11/0yhqvu0w/IMAGE_1658518361.webp",
+    "link_direct": "https://www.outlookindia.com/sports/others/annu-rani-dropped-asian-games-2026-india-squad-qualifying-mark",
     "link_sumber": [
-      "https://www.freepressjournal.in/lifestyle/ranbir-kapoors-ramayana-transformation-was-more-than-physical-celebrity-trainer-reveals-how-actor-prepared-to-play-lord-ram"
+      "https://www.outlookindia.com/sports/others/annu-rani-dropped-asian-games-2026-india-squad-qualifying-mark"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   },
   {
-    "id": "a0df4b70ab2b",
-    "sumber": "gnews.io",
-    "judul": "Cedera Pemain Tim India Jelang Seri T20I dan Asian Games",
-    "ringkasan": "Tim India menghadapi kemunduran cedera menjelang seri T20I melawan Afghanistan. Seorang pelempar kunci kemungkinan tidak akan pulih tepat waktu dari cedera hamstring, yang juga bisa membuatnya absen di Asian Games 2026.",
+    "id": "14cfa680de6c",
+    "sumber": "newsdata.io",
+    "judul": "Daftar Pemain Tenis Legendaris: Venus dan Serena Williams, Martina Hingis, Billie Jean King",
+    "ringkasan": "Daftar ini mencakup nama-nama besar dalam dunia tenis seperti Venus Williams, Martina Hingis, Billie Jean King, dan Serena Williams. Mereka adalah beberapa pemain paling ikonik yang telah memberikan kontribusi besar pada olahraga tenis. Artikel ini kemungkinan merayakan prestasi dan warisan mereka di lapangan.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.newsx.com/wp-content/uploads/2026/09/harshit-rana-and-jasprit-bumrah-image-credit-ani.png",
-    "link_direct": "https://www.newsx.com/sports/ind-vs-afg-big-injury-blow-for-team-india-star-pacer-set-to-miss-afghanistan-t20is-asian-games-participation-also-in-doubt-270244/",
+    "gambar": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/09/tennis.jpg",
+    "link_direct": "https://www.givemesport.com/greatest-female-tennis-players-history-ranked/",
     "link_sumber": [
-      "https://www.newsx.com/sports/ind-vs-afg-big-injury-blow-for-team-india-star-pacer-set-to-miss-afghanistan-t20is-asian-games-participation-also-in-doubt-270244/"
+      "https://www.givemesport.com/greatest-female-tennis-players-history-ranked/"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   },
   {
-    "id": "91720b91dd53",
-    "sumber": "gnews.io",
-    "judul": "Kemenangan Liverpool di Liga Champions",
-    "ringkasan": "",
+    "id": "f9f73057dced",
+    "sumber": "newsdata.io",
+    "judul": "Cristiano Ronaldo dan Al-Nassr Bersiap untuk Liga Champions Asia",
+    "ringkasan": "Cristiano Ronaldo bersiap untuk kesempatan terakhirnya meraih kejayaan di Asia bersama Al-Nassr dalam AFC Champions League Elite. Manajer Ange Postecoglou akan mengatur beban kerja superstar Portugal tersebut. Winger Kingsley Coman juga diharapkan bisa kembali dari cedera tepat waktu.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.yardbarker.com/media/9/1/919eb807c9ed4ffe09520ae81c6e687404ba6cc5/thumb_16x9/GettyImages-2294381857.jpg",
-    "link_direct": "https://www.yardbarker.com/soccer/articles/liverpool_injury_nightmare_andoni_iraola_provides_bradley_barcola_fitness_update_as_123m_winger_limps_off_on_anfield_debut_against_atletico_madrid/s1_17790_44284977",
+    "gambar": "https://s.yimg.com/lo/mysterio/api/92f087ac2d29774b1266bc3f8ed48852034a4b0342a4d708889ecb4ba52cd7e6/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_uk_815%2F39353f9f4f1a50711333a12a14242721.jpg",
+    "link_direct": "https://uk.sports.yahoo.com/news/al-nassr-handed-massive-tactical-071329145.html",
     "link_sumber": [
-      "https://www.yardbarker.com/soccer/articles/liverpool_injury_nightmare_andoni_iraola_provides_bradley_barcola_fitness_update_as_123m_winger_limps_off_on_anfield_debut_against_atletico_madrid/s1_17790_44284977"
+      "https://uk.sports.yahoo.com/news/al-nassr-handed-massive-tactical-071329145.html"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   },
   {
-    "id": "08e92acf8022",
+    "id": "182cf0bf9e59",
     "sumber": "gnews.io",
-    "judul": "Perjalanan Penurunan Berat Badan Dwayne Johnson: Diet dan Latihan Strategis",
-    "ringkasan": "Dwayne Johnson berbagi perjalanannya selama setahun untuk menurunkan 22 kilogram berat badan. Ia fokus pada diet strategis dan regimen latihan alih-alih metode ekstrem, memberikan wawasan tentang pelatihan dan nutrisi.",
+    "judul": "Kebugaran dan Diet Akshay Kumar",
+    "ringkasan": "Akshay Kumar, di usia 59 tahun, menjaga rutinitas kebugaran yang aktif dengan jalan kaki di luar ruangan dan berbagai jenis latihan. Dia menekankan pentingnya pola makan sehat, memilih makanan rumahan dan makan malam sebelum pukul 18:30. Ini menunjukkan dedikasinya pada kebugaran dan nutrisi yang dapat menginspirasi banyak orang.",
     "tips": [
-      "Pilih diet strategis yang berkelanjutan.",
-      "Terapkan regimen latihan yang sesuai untuk hasil optimal.",
-      "Prioritaskan metode penurunan berat badan yang sehat dan tidak ekstrem."
+      "Lakukan jalan kaki di luar ruangan dan berbagai jenis latihan di pagi hari.",
+      "Tekankan pola makan sehat dengan memilih makanan rumahan.",
+      "Makan malam sebelum pukul 18:30."
     ],
     "kategori": "nutrisi",
-    "gambar": "https://static.toiimg.com/thumb/msid-133997194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dwayne-johnson-reveals-strategic-22-kilos-weight-loss-for-lizard-music/articleshow/133997195.cms",
+    "gambar": "https://img.etimg.com/thumb/msid-134049251,width-1200,height-630,imgsize-154349,overlay-etpanache/articleshow.jpg",
+    "link_direct": "https://economictimes.indiatimes.com/magazines/panache/at-59-akshay-kumar-looks-fitter-than-most-25-year-olds-actor-swears-by-this-15-minute-dish-to-stay-lean-and-fit-what-is-it/articleshow/134047337.cms",
     "link_sumber": [
-      "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dwayne-johnson-reveals-strategic-22-kilos-weight-loss-for-lizard-music/articleshow/133997195.cms"
+      "https://economictimes.indiatimes.com/magazines/panache/at-59-akshay-kumar-looks-fitter-than-most-25-year-olds-actor-swears-by-this-15-minute-dish-to-stay-lean-and-fit-what-is-it/articleshow/134047337.cms"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   },
   {
-    "id": "84207c104f46",
+    "id": "e21d4f1b660c",
     "sumber": "gnews.io",
-    "judul": "Perjalanan Kebugaran Dr. Anthony M. Villafranca dan Kemenangan di Asian Grand Prix",
-    "ringkasan": "Dr. Anthony M. Villafranca, di usia 53 tahun, berhasil menyelesaikan perjalanan kebugaran tiga tahunnya. Ia memenangkan Divisi Men’s Physique Masters di Asian Grand Prix Filipina 2026, menunjukkan dedikasi dan pencapaiannya dalam kebugaran.",
+    "judul": "Rencana Latihan 5 Hari untuk Penurunan Berat Badan",
+    "ringkasan": "Seorang pelatih kebugaran membagikan rencana latihan 5 hari yang sederhana. Rencana ini menggabungkan latihan kekuatan, HIIT, dan latihan berdampak rendah. Tujuannya adalah untuk membantu penurunan lemak secara efektif.",
     "tips": [],
-    "kategori": "umum",
-    "gambar": "https://cdn.tiebreakertimes.com.ph/wp-content/uploads/2026/09/AGP-Anthony-M.-Villafranca.jpg",
-    "link_direct": "https://tiebreakertimes.com.ph/tbt/dr-villafrancas-three-year-grind-pays-off-with-agp-masters-crown/383449",
+    "kategori": "kardio",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/09/11/1600x900/logo/photo-1571019613454-1cb2f99b2d8b_1787729352931_1789103271610_d7fa5da3-3f4d-4b4f-971a-7d4af3d96eb3_cc990de7-b1e8-479b-a7b5-21b42ebb46bd_4b700378-f9ac-4652-862b-8d5be015e651.jpg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/want-to-lose-weight-before-2026-ends-fitness-coach-shares-a-simple-5-day-workout-plan-101789102840317.html",
     "link_sumber": [
-      "https://tiebreakertimes.com.ph/tbt/dr-villafrancas-three-year-grind-pays-off-with-agp-masters-crown/383449"
+      "https://www.hindustantimes.com/lifestyle/health/want-to-lose-weight-before-2026-ends-fitness-coach-shares-a-simple-5-day-workout-plan-101789102840317.html"
     ],
-    "updated_at": "2026-09-10 19:23:32"
+    "updated_at": "2026-09-11 19:25:11"
   }
 ]
