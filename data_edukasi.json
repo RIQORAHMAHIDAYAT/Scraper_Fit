@@ -1,88 +1,44 @@
 [
   {
-    "id": "c5142a2b2b75",
+    "id": "0eb7e50de081",
     "sumber": "gnews.io",
-    "judul": "Manfaat Latihan Tingkat Rendah",
-    "ringkasan": "Latihan fisik, bahkan pada tingkat intensitas rendah, dapat memberikan berbagai manfaat kesehatan yang signifikan. Ini menunjukkan bahwa masyarakat umum bisa mendapatkan dampak positif pada kebugaran tanpa perlu latihan berat.",
+    "judul": "Face Pull Exercises untuk Kekuatan Otot Punggung dan Bahu",
+    "ringkasan": "Latihan face pull sangat efektif untuk membangun kekuatan dan mengencangkan otot-otot di punggung atas dan bahu Anda. Jenis latihan ini menargetkan area penting, meningkatkan postur tubuh yang lebih baik dan stabilitas tubuh bagian atas secara keseluruhan.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l55320261001144208.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/face-pull-exercises-a-beginner-s-guide/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/face-pull-exercises-a-beginner-s-guide/story"
+    ],
+    "updated_at": "2026-10-01 21:31:13"
+  },
+  {
+    "id": "dcec230e4437",
+    "sumber": "gnews.io",
+    "judul": "Penelitian: Diabetes Tipe 2 Dini Dapat Dibalik dengan Diet dan Olahraga",
+    "ringkasan": "Penelitian baru menunjukkan bahwa penderita diabetes tipe 2 onset dini (di bawah 45 tahun) dapat membalikkan kondisi mereka. Hal ini dimungkinkan melalui kombinasi diet rendah energi dan program olahraga terstruktur, menurut temuan yang akan dipresentasikan di EASD.",
+    "tips": [],
+    "kategori": "nutrisi",
+    "gambar": "https://www.news-medical.net/images/tags/TagImage-777-458400661348495343015-620x480.jpg",
+    "link_direct": "https://www.news-medical.net/news/20261001/Early-onset-type-2-diabetes-trial-demonstrates-significant-24-week-fat-loss.aspx",
+    "link_sumber": [
+      "https://www.news-medical.net/news/20261001/Early-onset-type-2-diabetes-trial-demonstrates-significant-24-week-fat-loss.aspx"
+    ],
+    "updated_at": "2026-10-01 21:31:13"
+  },
+  {
+    "id": "37ee19d0cfa9",
+    "sumber": "gnews.io",
+    "judul": "Google Luncurkan Fitbit Air: Pelacak Kebugaran Tanpa Layar",
+    "ringkasan": "Google telah meluncurkan Fitbit Air di India, sebuah pelacak kebugaran inovatif tanpa layar. Perangkat ini berfokus pada pemantauan kesehatan di latar belakang dan menawarkan wawasan melalui aplikasi Google Health.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://i2-prod.manchestereveningnews.co.uk/article33223771.ece/ALTERNATES/s1200d/0_GettyImages-2185944795jpgHow-the-rise-of-weight-loss-jabs-has-boosted-gym-revenues.jpg",
-    "link_direct": "https://www.manchestereveningnews.co.uk/news/uk-news/people-could-reduce-blood-pressure-34693200",
+    "gambar": "https://images.cnbctv18.com/uploads/2026/10/google-fitbit-2026-10-02bc25220cb62f5ce3ac2f002f9dd444.jpg?im=FitAndFill,width=1200,height=675",
+    "link_direct": "https://www.cnbctv18.com/technology/google-fitbit-air-in-india-from-october-2-would-you-ditch-your-smartwatch-for-this-price-20002958.htm",
     "link_sumber": [
-      "https://www.manchestereveningnews.co.uk/news/uk-news/people-could-reduce-blood-pressure-34693200"
+      "https://www.cnbctv18.com/technology/google-fitbit-air-in-india-from-october-2-would-you-ditch-your-smartwatch-for-this-price-20002958.htm"
     ],
-    "updated_at": "2026-09-30 21:07:37"
-  },
-  {
-    "id": "bdc126bba1aa",
-    "sumber": "gnews.io",
-    "judul": "Peran Kreatin untuk Kekuatan dan Pemulihan Otot",
-    "ringkasan": "Kreatin dikenal sebagai suplemen yang sering diandalkan oleh para pegiat gym dan pengangkat beban serius. Suplemen ini digunakan untuk membantu meningkatkan kekuatan dan mempercepat pemulihan otot setelah berolahraga, menjadikannya pilihan populer di kalangan atlet.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://static.toiimg.com/thumb/msid-134588433,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/etimes/wellness/a-study-finds-that-creatine-may-help-build-muscle-without-exercise/articleshow/134588137.cms",
-    "link_sumber": [
-      "https://timesofindia.indiatimes.com/etimes/wellness/a-study-finds-that-creatine-may-help-build-muscle-without-exercise/articleshow/134588137.cms"
-    ],
-    "updated_at": "2026-09-30 21:07:37"
-  },
-  {
-    "id": "b3203ce2df58",
-    "sumber": "gnews.io",
-    "judul": "Meningkatkan Kebugaran dengan Cross-Training",
-    "ringkasan": "Cross-training adalah metode latihan yang sangat efektif untuk meningkatkan tingkat kebugaran Anda. Ini dicapai dengan menggabungkan dan mencampur berbagai rutinitas latihan yang berbeda.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://i.cdn.newsbytesapp.com/images/l3220260930141440.jpeg",
-    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/cross-training-101-5-tips-to-get-started/story",
-    "link_sumber": [
-      "https://www.newsbytesapp.com/news/lifestyle/cross-training-101-5-tips-to-get-started/story"
-    ],
-    "updated_at": "2026-09-30 21:07:37"
-  },
-  {
-    "id": "f2e2df865004",
-    "sumber": "gnews.io",
-    "judul": "Menggunakan Pelacak Kebugaran dengan Bijak",
-    "ringkasan": "Pelacak kebugaran berpotensi memicu perilaku tidak sehat yang justru ingin dihindari jika penggunaannya tidak tepat. Namun, manfaat atau kerugian alat ini sangat bergantung pada cara individu menggunakannya untuk mencapai tujuan kesehatan mereka.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://static.independent.co.uk/2026/05/28/9/39/Oura.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-    "link_direct": "https://www.independent.co.uk/tech/oura-tech-apple-whoop-wearable-health-b3058303.html",
-    "link_sumber": [
-      "https://www.independent.co.uk/tech/oura-tech-apple-whoop-wearable-health-b3058303.html"
-    ],
-    "updated_at": "2026-09-30 21:07:37"
-  },
-  {
-    "id": "22c79439b22c",
-    "sumber": "gnews.io",
-    "judul": "Pentingnya Peregangan Dinamis dalam Rutinitas Olahraga",
-    "ringkasan": "Peregangan dinamis merupakan bagian yang sangat penting dari setiap rutinitas latihan. Ini sangat krusial, terutama bagi para pemula, untuk mempersiapkan tubuh sebelum memulai aktivitas fisik.",
-    "tips": [
-      "Pastikan untuk memasukkan peregangan dinamis sebagai bagian penting dari pemanasan Anda."
-    ],
-    "kategori": "fleksibilitas",
-    "gambar": "https://i.cdn.newsbytesapp.com/images/l8220260930133734.jpeg",
-    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/new-to-exercise-try-these-simple-dynamic-stretches/story",
-    "link_sumber": [
-      "https://www.newsbytesapp.com/news/lifestyle/new-to-exercise-try-these-simple-dynamic-stretches/story"
-    ],
-    "updated_at": "2026-09-30 21:07:37"
-  },
-  {
-    "id": "863298af2ef8",
-    "sumber": "gnews.io",
-    "judul": "Manfaat Yoga untuk Keseimbangan Pikiran dan Tubuh",
-    "ringkasan": "Yoga adalah bentuk latihan yang sangat baik yang memberikan manfaat signifikan bagi pikiran dan tubuh. Latihan ini menggabungkan gerakan fisik, kontrol pernapasan, dan kesadaran, menawarkan pendekatan holistik untuk kesejahteraan.",
-    "tips": [],
-    "kategori": "fleksibilitas",
-    "gambar": "https://c.ndtvimg.com/2026-09/pc1bgit8_yoga_625x300_30_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-    "link_direct": "https://www.ndtv.com/health/fitness/yoga-expert-shares-complete-asana-routine-for-women-to-balance-hormones-tone-overall-body-12118864",
-    "link_sumber": [
-      "https://www.ndtv.com/health/fitness/yoga-expert-shares-complete-asana-routine-for-women-to-balance-hormones-tone-overall-body-12118864"
-    ],
-    "updated_at": "2026-09-30 21:07:37"
+    "updated_at": "2026-10-01 21:31:13"
   }
 ]
