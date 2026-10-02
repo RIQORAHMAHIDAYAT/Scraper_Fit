@@ -1,44 +1,86 @@
 [
   {
-    "id": "0eb7e50de081",
-    "sumber": "gnews.io",
-    "judul": "Face Pull Exercises untuk Kekuatan Otot Punggung dan Bahu",
-    "ringkasan": "Latihan face pull sangat efektif untuk membangun kekuatan dan mengencangkan otot-otot di punggung atas dan bahu Anda. Jenis latihan ini menargetkan area penting, meningkatkan postur tubuh yang lebih baik dan stabilitas tubuh bagian atas secara keseluruhan.",
-    "tips": [],
-    "kategori": "kekuatan",
-    "gambar": "https://i.cdn.newsbytesapp.com/images/l55320261001144208.jpeg",
-    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/face-pull-exercises-a-beginner-s-guide/story",
-    "link_sumber": [
-      "https://www.newsbytesapp.com/news/lifestyle/face-pull-exercises-a-beginner-s-guide/story"
-    ],
-    "updated_at": "2026-10-01 21:31:13"
-  },
-  {
-    "id": "dcec230e4437",
-    "sumber": "gnews.io",
-    "judul": "Penelitian: Diabetes Tipe 2 Dini Dapat Dibalik dengan Diet dan Olahraga",
-    "ringkasan": "Penelitian baru menunjukkan bahwa penderita diabetes tipe 2 onset dini (di bawah 45 tahun) dapat membalikkan kondisi mereka. Hal ini dimungkinkan melalui kombinasi diet rendah energi dan program olahraga terstruktur, menurut temuan yang akan dipresentasikan di EASD.",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://www.news-medical.net/images/tags/TagImage-777-458400661348495343015-620x480.jpg",
-    "link_direct": "https://www.news-medical.net/news/20261001/Early-onset-type-2-diabetes-trial-demonstrates-significant-24-week-fat-loss.aspx",
-    "link_sumber": [
-      "https://www.news-medical.net/news/20261001/Early-onset-type-2-diabetes-trial-demonstrates-significant-24-week-fat-loss.aspx"
-    ],
-    "updated_at": "2026-10-01 21:31:13"
-  },
-  {
-    "id": "37ee19d0cfa9",
-    "sumber": "gnews.io",
-    "judul": "Google Luncurkan Fitbit Air: Pelacak Kebugaran Tanpa Layar",
-    "ringkasan": "Google telah meluncurkan Fitbit Air di India, sebuah pelacak kebugaran inovatif tanpa layar. Perangkat ini berfokus pada pemantauan kesehatan di latar belakang dan menawarkan wawasan melalui aplikasi Google Health.",
+    "id": "30544f75f868",
+    "sumber": "newsdata.io",
+    "judul": "Memilih Sushi yang Sehat",
+    "ringkasan": "Sushi dapat menjadi sumber nutrisi yang baik karena kandungan ikan, rumput laut, dan sayuran di dalamnya. Namun, penting untuk selektif karena tidak semua varian sushi memiliki tingkat kesehatan yang sama. Pahami pilihan Anda untuk mendapatkan manfaat kebugaran yang optimal.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://images.cnbctv18.com/uploads/2026/10/google-fitbit-2026-10-02bc25220cb62f5ce3ac2f002f9dd444.jpg?im=FitAndFill,width=1200,height=675",
-    "link_direct": "https://www.cnbctv18.com/technology/google-fitbit-air-in-india-from-october-2-would-you-ditch-your-smartwatch-for-this-price-20002958.htm",
+    "gambar": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/14/USAT/91754603007-getty-images-1223049040.jpg?crop=2120,1193,x0,y110&width=1600&height=800&format=pjpg&auto=webp",
+    "link_direct": "https://www.usatoday.com/story/life/health-wellness/2026/10/02/is-sushi-healthy/91754597007/",
     "link_sumber": [
-      "https://www.cnbctv18.com/technology/google-fitbit-air-in-india-from-october-2-would-you-ditch-your-smartwatch-for-this-price-20002958.htm"
+      "https://www.usatoday.com/story/life/health-wellness/2026/10/02/is-sushi-healthy/91754597007/"
     ],
-    "updated_at": "2026-10-01 21:31:13"
+    "updated_at": "2026-10-02 21:07:57"
+  },
+  {
+    "id": "5fa1aa7d6257",
+    "sumber": "gnews.io",
+    "judul": "Pelacakan Kebugaran Cerdas dan Pelatihan Bertenaga AI dengan Galaxy Watch",
+    "ringkasan": "Samsung Galaxy Watch9 dan Watch Ultra2 dirancang untuk mengubah data kesehatan menjadi panduan yang berguna. Perangkat ini menawarkan fitur pelacakan kebugaran yang lebih cerdas serta sistem pelatihan yang didukung kecerdasan buatan.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/image1_1790927893571_d6Su_1790927904314_KNbA_397fbbd4-9e3e-4069-ab7a-4f7256f2b276_4Yxv.jpg",
+    "link_direct": "https://www.hindustantimes.com/technology/samsung-galaxy-watch9-and-watch-ultra2-health-tracking-test-accuracy-ai-features-and-fitness-insights-101790927179085.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/technology/samsung-galaxy-watch9-and-watch-ultra2-health-tracking-test-accuracy-ai-features-and-fitness-insights-101790927179085.html"
+    ],
+    "updated_at": "2026-10-02 21:07:57"
+  },
+  {
+    "id": "bcca1b24da7b",
+    "sumber": "gnews.io",
+    "judul": "Mengubah Data Tidur Menjadi Wawasan Pemulihan dengan Galaxy Watch9",
+    "ringkasan": "Galaxy Watch9 memanfaatkan AI untuk menganalisis data tidur Anda secara mendalam. Hasil analisis ini diubah menjadi wawasan pemulihan yang dapat ditindaklanjuti, membantu Anda mengoptimalkan istirahat dan persiapan tubuh.",
+    "tips": [],
+    "kategori": "pemulihan",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/1_1790926349304_ODCt_1790926367153_RHsj_eac13023-bcf1-43a8-a98b-a5b92113738b_J4R3.jpg",
+    "link_direct": "https://www.hindustantimes.com/technology/stop-guessing-why-you-re-tired-how-galaxy-watch9-uses-ai-to-connect-sleep-fitness-and-recovery-101790926112489.html",
+    "link_sumber": [
+      "https://www.hindustantimes.com/technology/stop-guessing-why-you-re-tired-how-galaxy-watch9-uses-ai-to-connect-sleep-fitness-and-recovery-101790926112489.html"
+    ],
+    "updated_at": "2026-10-02 21:07:57"
+  },
+  {
+    "id": "2b0d236a9a74",
+    "sumber": "gnews.io",
+    "judul": "Manfaat Olahraga Teratur untuk Efisiensi Oksigen Tubuh dan Fungsi Organ",
+    "ringkasan": "Olahraga teratur sangat efektif dalam meningkatkan efisiensi pemanfaatan oksigen oleh tubuh. Selain itu, aktivitas fisik rutin juga memperkuat dan menyelaraskan fungsi jantung, paru-paru, serta otot.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://img.theweek.in/content/dam/week/week/news/health/images/2026/3/24/world-tb-day-lungs.jpg",
+    "link_direct": "https://www.theweek.in/news/health/2026/10/02/can-exercise-improve-lung-health-what-pulmonologists-want-people-to-know.html",
+    "link_sumber": [
+      "https://www.theweek.in/news/health/2026/10/02/can-exercise-improve-lung-health-what-pulmonologists-want-people-to-know.html"
+    ],
+    "updated_at": "2026-10-02 21:07:57"
+  },
+  {
+    "id": "86eae4e0fba8",
+    "sumber": "gnews.io",
+    "judul": "Klaim Pil Pembentuk Otot Seefektif Gym dalam Uji Coba Pertama",
+    "ringkasan": "Sebuah pil pembentuk otot diklaim memberikan hasil seefektif olahraga di gym, berdasarkan hasil eksperimen pertama pada manusia. Para pria yang berpartisipasi dalam penelitian ini dilaporkan mendapatkan jumlah otot yang hampir sama.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://www.thesun.co.uk/wp-content/uploads/2026/10/t7mkpa-close-image-woman-holding-714147120.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "link_direct": "https://www.thesun.co.uk/health/40555948/muscle-building-pill-beats-gym-patients-lose-weight/",
+    "link_sumber": [
+      "https://www.thesun.co.uk/health/40555948/muscle-building-pill-beats-gym-patients-lose-weight/"
+    ],
+    "updated_at": "2026-10-02 21:07:57"
+  },
+  {
+    "id": "42dff87103b0",
+    "sumber": "gnews.io",
+    "judul": "Fitbit Air: Pelacak Kebugaran Tanpa Layar dengan Fitur Kesehatan Lengkap",
+    "ringkasan": "Google telah meluncurkan Fitbit Air di India, sebuah pelacak kebugaran tanpa layar yang inovatif. Perangkat ini dilengkapi fitur pemantauan detak jantung, tidur, dan SpO2, serta menawarkan wawasan kesehatan bertenaga AI dengan daya tahan baterai hingga tujuh hari.",
+    "tips": [],
+    "kategori": "pemulihan",
+    "gambar": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/02/thumb/fitandfill/1200X628/1790920884-1713.jpg",
+    "link_direct": "https://www.business-standard.com/technology/gadgets/google-launches-screenless-fitbit-air-in-india-at-rs-13-999-check-features-126100200275_1.html",
+    "link_sumber": [
+      "https://www.business-standard.com/technology/gadgets/google-launches-screenless-fitbit-air-in-india-at-rs-13-999-check-features-126100200275_1.html"
+    ],
+    "updated_at": "2026-10-02 21:07:57"
   }
 ]
