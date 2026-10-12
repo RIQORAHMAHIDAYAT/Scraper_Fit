@@ -1,134 +1,103 @@
 [
   {
-    "id": "a19a7f1a37ee",
-    "sumber": "newsdata.io",
-    "judul": "Puma Philippine Half Marathon Series 2026: Richard Salaño dan Edna Magtubo Raih Kemenangan di Manila",
-    "ringkasan": "Richard Salaño dan Edna Magtubo berhasil meraih kemenangan dalam ajang Puma Philippine Half Marathon Series 2026 di Manila. Kompetisi lari ini diselenggarakan pada hari Minggu di SM Mall of Asia Complex, menampilkan performa luar biasa dari para atlet.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://media.philstar.com/photos/2026/10/11/puma-philippine-half-marathon-series-manila-winners_2026-10-11_16-38-37.jpg",
-    "link_direct": "https://www.philstar.com/sports/2026/10/11/2562473/salao-magtubo-rule-manila-leg-puma-philippine-half-marathon-series",
-    "link_sumber": [
-      "https://www.philstar.com/sports/2026/10/11/2562473/salao-magtubo-rule-manila-leg-puma-philippine-half-marathon-series"
-    ],
-    "updated_at": "2026-10-11 20:43:14"
-  },
-  {
-    "id": "c7622d1486d6",
-    "sumber": "newsdata.io",
-    "judul": "Analisis Jeda Internasional Sepak Bola dan Pengaruhnya",
-    "ringkasan": "Artikel ini menyoroti jeda internasional yang terasa sangat panjang, membandingkannya dengan penantian yang tak berujung. Penulis mendukung format jeda musim ini meskipun ada kritik, melihatnya sebagai istirahat penting di tengah jadwal padat. Ini memberikan perspektif tentang jeda dalam kompetisi olahraga.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://s.yimg.com/lo/mysterio/api/e20ab1c9bd1ceceea682f07aeb883f026d6666ab8abf9a0ae5bf83be728c6429/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F325f739ccc3855fc82b0fe33d4caccf3.jpg",
-    "link_direct": "https://sports.yahoo.com/articles/hull-city-vs-everton-match-083518165.html",
-    "link_sumber": [
-      "https://sports.yahoo.com/articles/hull-city-vs-everton-match-083518165.html"
-    ],
-    "updated_at": "2026-10-11 20:43:14"
-  },
-  {
-    "id": "d3aa9a7e393f",
-    "sumber": "newsdata.io",
-    "judul": "Rahasia Tubuh Bugar Pasca Melahirkan: Biologi, Diet, dan Gaya Hidup",
-    "ringkasan": "Konten ini menganalisis faktor biologi, diet, dan gaya hidup yang berkontribusi pada tubuh bugar ibu setelah melahirkan. Ini juga secara tegas membantah mitos tentang solusi cepat untuk mendapatkan perut rata pasca persalinan. Fokusnya adalah pada pendekatan holistik dan berkelanjutan untuk kebugaran ibu.",
-    "tips": [],
-    "kategori": "nutrisi",
-    "gambar": "https://i.headtopics.com/images/2026/10/11/dailymail/celeb-post-partum-physiques-science-or-shimmer-celeb-post-partum-physiques-science-or-shimmer-E8069B15A3BF41F4EA012FC00C079C9A-16x9.webp",
-    "link_direct": "https://us.headtopics.com/news/celeb-post-partum-physiques-science-or-shimmer-88684574",
-    "link_sumber": [
-      "https://us.headtopics.com/news/celeb-post-partum-physiques-science-or-shimmer-88684574"
-    ],
-    "updated_at": "2026-10-11 20:43:14"
-  },
-  {
-    "id": "965a362b0fb3",
-    "sumber": "newsdata.io",
-    "judul": "Misteri di Balik Rasa Segar Air Dingin Saat Haus",
-    "ringkasan": "Konten ini mencoba menguak alasan mengapa air dingin terasa lebih nikmat dan menyegarkan dibandingkan air biasa ketika kita haus. Fenomena ini dijelaskan melalui respons tubuh terhadap suhu cairan. Pembahasan ini mengajak pembaca untuk memahami lebih dalam tentang proses hidrasi.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/11/1600x900/logo/photo-1624948465121-96e87ae34a87_1791704101246_rCRy_1791704109949_3xC6_46fac72d-0da8-4d72-afae-9a64ee29b83d_kOZf.jpg",
-    "link_direct": "https://www.hindustantimes.com/lifestyle/health/everyday-explained-why-does-cold-water-seem-to-taste-better-than-room-temperature-water-when-you-re-thirsty-understanding-the-science-of-thirst-101791703984386.html",
-    "link_sumber": [
-      "https://www.hindustantimes.com/lifestyle/health/everyday-explained-why-does-cold-water-seem-to-taste-better-than-room-temperature-water-when-you-re-thirsty-understanding-the-science-of-thirst-101791703984386.html"
-    ],
-    "updated_at": "2026-10-11 20:43:14"
-  },
-  {
-    "id": "750054e0c95b",
+    "id": "e958b39cf2f5",
     "sumber": "gnews.io",
-    "judul": "Potensi Kembalinya Mohammed Shami ke Tim Kriket India",
-    "ringkasan": "Suresh Raina membahas kemungkinan kembalinya Mohammed Shami ke tim kriket India, membandingkannya dengan kembalinya Bhuvneshwar Kumar. Raina menekankan disiplin dan kebugaran sebagai kunci keberhasilan. Artikel ini menyoroti pentingnya performa domestik yang kuat untuk kembali ke skuad nasional.",
+    "judul": "Wearable Devices untuk Memantau Kesehatan dan Kebugaran",
+    "ringkasan": "Wearable devices are increasingly offering advanced features to monitor various health metrics. From recovery insights and AI-powered coaching to blood glucose tracking, these gadgets provide comprehensive health monitoring. They offer different ways to keep track of your health, making them useful tools for fitness enthusiasts.",
     "tips": [],
-    "kategori": "umum",
-    "gambar": "https://img.etimg.com/thumb/msid-134867526,width-1200,height-900,imgsize-77696,overlay-economictimes/articleshow.jpg",
-    "link_direct": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-next-suresh-raina-drops-big-hint-after-bhuvneshwar-kumars-india-comeback/articleshow/134867511.cms",
+    "kategori": "pemulihan",
+    "gambar": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6accb08b86e83-google-fitbit-air--whoop-50-and-other-screenless-fitness-wearables-on-amazon-gif-sale-120354164-16x9.png",
+    "link_direct": "https://www.businesstoday.in/technology/news/story/google-fitbit-air-to-whoop-5-0-top-screenless-fitness-bands-to-buy-during-amazons-2026-gif-sale-561038-2026-10-12",
     "link_sumber": [
-      "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-next-suresh-raina-drops-big-hint-after-bhuvneshwar-kumars-india-comeback/articleshow/134867511.cms"
+      "https://www.businesstoday.in/technology/news/story/google-fitbit-air-to-whoop-5-0-top-screenless-fitness-bands-to-buy-during-amazons-2026-gif-sale-561038-2026-10-12"
     ],
-    "updated_at": "2026-10-11 20:43:14"
+    "updated_at": "2026-10-12 23:21:29"
   },
   {
-    "id": "c0537e02cf4d",
+    "id": "23b6be65c3e9",
     "sumber": "gnews.io",
-    "judul": "Transformasi Fisik Aktor Nivin Pauly untuk Peran Film",
-    "ringkasan": "Aktor Malayalam Nivin Pauly telah melakukan adaptasi fisiknya untuk berbagai peran film. Ia diketahui menambah berat badan untuk film Moothon dan menurunkannya sebelum produksi Padavettu. Transformasi ini menunjukkan dedikasi dalam menyesuaikan penampilan demi tuntutan peran.",
+    "judul": "Pacer Bengal Tanggapi Keraguan Kebugaran dengan Performa Gemilang",
+    "ringkasan": "Pacer Bengal menunjukkan performa impresif dengan meraih empat wicket, merespons keraguan atas kebugarannya. Pencapaian ini menyoroti pentingnya kebugaran atletik dalam olahraga profesional. Artikel ini juga menyambut kembalinya Bhuvneshwar Kumar ke tim India.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://c.ndtvimg.com/2024-09/u2lshheg_nivin-pauly-rape-allegation-fb-image_625x300_04_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-    "link_direct": "https://www.ndtv.com/health/fitness/nivin-pauly-turns-42-how-the-malayalam-star-transforms-his-fitness-for-different-roles-12169167",
+    "gambar": "https://images.indianexpress.com/2026/10/Shami-Duleep_20261012105152.jpg",
+    "link_direct": "https://indianexpress.com/article/sports/cricket/shami-fitness-ranji-trophy-4-wicket-critics-bhuvneshwar-recall-10918078/",
     "link_sumber": [
-      "https://www.ndtv.com/health/fitness/nivin-pauly-turns-42-how-the-malayalam-star-transforms-his-fitness-for-different-roles-12169167"
+      "https://indianexpress.com/article/sports/cricket/shami-fitness-ranji-trophy-4-wicket-critics-bhuvneshwar-recall-10918078/"
     ],
-    "updated_at": "2026-10-11 20:43:14"
+    "updated_at": "2026-10-12 23:21:29"
   },
   {
-    "id": "ddb3300936df",
+    "id": "5859332d10e9",
     "sumber": "gnews.io",
-    "judul": "Rutinitas Ideal untuk Kesehatan Jantung dan Tanda Overtraining",
-    "ringkasan": "Artikel ini membahas kapan olahraga menjadi berlebihan dan bagaimana menemukan rutinitas yang ideal. Fokusnya adalah pada menjaga kesehatan jantung dan mengenali tanda-tanda overtraining. Memahami batasan tubuh penting untuk menghindari cedera dan memaksimalkan manfaat kebugaran.",
+    "judul": "Manfaat Aerobik dan Trampolin untuk Kesehatan Kardiovaskular",
+    "ringkasan": "Aerobik dan trampolin merupakan dua bentuk olahraga populer yang efektif. Keduanya berjanji untuk meningkatkan kesehatan kardiovaskular. Dengan berpartisipasi dalam aktivitas ini, Anda dapat memperkuat jantung dan meningkatkan stamina.",
+    "tips": [],
+    "kategori": "kardio",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l23820261012161400.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/aerobics-v-s-trampolining-which-is-better-for-your-heart/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/aerobics-v-s-trampolining-which-is-better-for-your-heart/story"
+    ],
+    "updated_at": "2026-10-12 23:21:29"
+  },
+  {
+    "id": "7e063c6e4431",
+    "sumber": "gnews.io",
+    "judul": "Latihan Bangkit dari Lantai Tanpa Tangan untuk Kekuatan dan Keseimbangan ala Shilpa Shetty",
+    "ringkasan": "Shilpa Shetty sering menginspirasi penggemar kebugaran dengan rutinitas latihan dan praktik yoganya. Minggu ini, ia memperkenalkan latihan menantang: bangkit dari lantai tanpa menggunakan tangan. Latihan ini membutuhkan kekuatan, keseimbangan, dan koordinasi yang baik, meskipun terlihat sederhana.",
     "tips": [
-      "Carilah rutinitas olahraga yang ideal untuk kesehatan jantung.",
-      "Pelajari tanda-tanda peringatan overtraining."
+      "Coba bangkit dari lantai tanpa menggunakan tangan untuk melatih kekuatan dan keseimbangan.",
+      "Fokus pada kekuatan inti, keseimbangan, dan koordinasi Anda selama latihan ini."
     ],
-    "kategori": "umum",
-    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/11/1600x900/logo/FaRXbp6XEAEwwpS_1661306749722_1791702755614_typp_5958c7a5-cabc-44e7-8bd7-0a3de7c3b53e_A2tm.jpg",
-    "link_direct": "https://www.hindustantimes.com/lifestyle/health/can-too-much-exercise-harm-your-heart-cardiologist-shares-warning-signs-you-should-never-ignore-101791696130994.html",
+    "kategori": "kekuatan",
+    "gambar": "https://media.assettype.com/freepressjournal/2026-10-12/7ckw6haj/Shilpa-Shetty-Workout.png",
+    "link_direct": "https://www.freepressjournal.in/lifestyle/can-you-get-up-from-the-floor-without-using-your-hands-shilpa-shetty-shares-fitness-lesson",
     "link_sumber": [
-      "https://www.hindustantimes.com/lifestyle/health/can-too-much-exercise-harm-your-heart-cardiologist-shares-warning-signs-you-should-never-ignore-101791696130994.html"
+      "https://www.freepressjournal.in/lifestyle/can-you-get-up-from-the-floor-without-using-your-hands-shilpa-shetty-shares-fitness-lesson"
     ],
-    "updated_at": "2026-10-11 20:43:14"
+    "updated_at": "2026-10-12 23:21:29"
   },
   {
-    "id": "49924af44d5c",
+    "id": "ee274a814b68",
     "sumber": "gnews.io",
-    "judul": "Risiko Cedera Punggung Akibat Memutar Berlebihan dan Postur Buruk Saat Menari",
-    "ringkasan": "Gerakan memutar yang berlebihan dan postur tubuh yang buruk saat menari, seperti pada tari Navratri, dapat menyebabkan ketegangan serius pada tulang belakang. Hal ini berisiko tinggi memicu nyeri punggung kronis atau cedera. Penting untuk selalu memperhatikan teknik dan posisi tubuh agar terhindar dari masalah kesehatan.",
-    "tips": [
-      "Hindari gerakan memutar tubuh secara berlebihan saat menari.",
-      "Perhatikan dan jaga postur tubuh yang benar selama aktivitas menari."
-    ],
-    "kategori": "postur",
-    "gambar": "https://c.ndtvimg.com/2026-10/r40r3mus_the-spine-provides-structural-support-to-the-body_625x300_11_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-    "link_direct": "https://www.ndtv.com/health/living-healthy/from-garba-spins-to-slipped-discs-7-spine-warning-signs-you-should-not-ignore-while-dancing-12168918",
-    "link_sumber": [
-      "https://www.ndtv.com/health/living-healthy/from-garba-spins-to-slipped-discs-7-spine-warning-signs-you-should-not-ignore-while-dancing-12168918"
-    ],
-    "updated_at": "2026-10-11 20:43:14"
-  },
-  {
-    "id": "04e074d2e6dd",
-    "sumber": "gnews.io",
-    "judul": "Manfaat Bersepeda untuk Kebugaran Fisik, Lingkungan, dan Hemat Bahan Bakar",
-    "ringkasan": "Menteri Olahraga Mansukh Mandaviya menyoroti berbagai manfaat bersepeda bagi kebugaran fisik, kontrol polusi, dan penghematan bahan bakar. Beliau berpartisipasi dalam program Fit India Sundays on Cycle di Varanasi. Program ini mendorong masyarakat untuk aktif bersepeda demi kesehatan dan lingkungan yang lebih baik.",
+    "judul": "Kebugaran Pemain Manchester United Jelang Laga Liga Champions",
+    "ringkasan": "Pelatih kepala Manchester United, Michael Carrick, tengah mengkhawatirkan kondisi kebugaran Kobbie Mainoo dan Luke Shaw. Kebugaran kedua pemain ini krusial menjelang pertandingan Liga Champions melawan Atletico Madrid. Situasi ini menyoroti pentingnya manajemen kebugaran atlet dalam jadwal pertandingan padat.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_10_2026_12_07_09_1257501.jpg&width=920&format=jpeg",
-    "link_direct": "https://www.devdiscourse.com/article/sports-games/3990306-mansukh-mandaviya-joins-94th-fit-india-sundays-on-cycle-in-varanasi",
+    "gambar": "https://www.sportsmole.co.uk/thumbor/XSm31rqvM2XIis0bXwOw9hKZsho=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F09%2Ficonsport-374441-0081-6aab29a81f773465602037.jpg",
+    "link_direct": "https://www.sportsmole.co.uk/football/man-utd/champions-league/news/man-united-hit-with-fresh-double-injury-blow-ahead-of-atletico-clash_606731.html",
     "link_sumber": [
-      "https://www.devdiscourse.com/article/sports-games/3990306-mansukh-mandaviya-joins-94th-fit-india-sundays-on-cycle-in-varanasi"
+      "https://www.sportsmole.co.uk/football/man-utd/champions-league/news/man-united-hit-with-fresh-double-injury-blow-ahead-of-atletico-clash_606731.html"
     ],
-    "updated_at": "2026-10-11 20:43:14"
+    "updated_at": "2026-10-12 23:21:29"
+  },
+  {
+    "id": "f65eb6f26a0e",
+    "sumber": "gnews.io",
+    "judul": "Kebugaran Lebih dari Sekadar Kekuatan Fisik: Perspektif Stephen Mondelli",
+    "ringkasan": "Bagi Stephen Mondelli, kebugaran selalu lebih dari sekadar kekuatan fisik. Ini menunjukkan bahwa kebugaran melibatkan aspek-aspek holistik lainnya seperti mental, fleksibilitas, atau kesehatan secara keseluruhan. Penting untuk melihat kebugaran dari berbagai dimensi untuk mencapai kondisi tubuh yang optimal.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://www.silive.com/resizer/v2/JQHQIHMEBZBWPMFTWM2MDIPIUU.jpg?auth=c482f4ec65c78d57dc39077ce49d3e9c3b04c0189afc79edf50606783b8e32c4&width=1280&smart=true&quality=90",
+    "link_direct": "https://www.silive.com/sports/2026/10/staten-island-native-blends-fitness-and-storytelling-in-debut-childrens-book.html",
+    "link_sumber": [
+      "https://www.silive.com/sports/2026/10/staten-island-native-blends-fitness-and-storytelling-in-debut-childrens-book.html"
+    ],
+    "updated_at": "2026-10-12 23:21:29"
+  },
+  {
+    "id": "f5df990a6c50",
+    "sumber": "gnews.io",
+    "judul": "Marsh Walking: Olahraga Unik di Tanah Rawa",
+    "ringkasan": "Marsh walking adalah bentuk olahraga unik yang melibatkan jalan kaki melintasi area rawa. Aktivitas ini sering dilakukan di tanah lunak dan berlumpur yang digenangi air. Olahraga ini menawarkan tantangan fisik yang berbeda dari jalan kaki biasa.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l21920261012155215.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/5-benefits-of-marsh-walking-exercises-you-didn-t-know/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/5-benefits-of-marsh-walking-exercises-you-didn-t-know/story"
+    ],
+    "updated_at": "2026-10-12 23:21:29"
   }
 ]
