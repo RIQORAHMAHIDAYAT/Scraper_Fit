@@ -1,16 +1,58 @@
 [
   {
-    "id": "29f98d0fc982",
-    "sumber": "gnews.io",
-    "judul": "Kondisi Kebugaran Luis Diaz Pasca Laga Liga Champions",
-    "ringkasan": "Luis Diaz mengalami kemunduran kebugaran saat pertandingan Liga Champions. Winger Kolombia ini terpaksa ditarik keluar lapangan beberapa saat sebelum peluit akhir dibunyikan.",
+    "id": "f545fbb89555",
+    "sumber": "newsdata.io",
+    "judul": "How Dave Watson cemented his place in City and England folklore",
+    "ringkasan": "Artikel ini mengulas tentang Dave Watson, mantan bek tengah untuk City dan timnas Inggris. Ia dikenang sebagai salah satu ikon penting dalam sejarah klub, terutama perannya di Liga Inggris 1976.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.yardbarker.com/media/f/d/fd713bd5260ff0993022a171994617d4674b2862/thumb_16x9/GettyImages-2300718714.jpg",
-    "link_direct": "https://www.yardbarker.com/soccer/articles/bayern_munich_star_luis_diaz_provides_injury_update_after_champions_league_scare_against_arsenal/s1_17790_44458571",
+    "gambar": "https://s.yimg.com/lo/mysterio/api/dab3ff350386b4bcc41328d54e19cb19c005b1b73a18760da2c89eedafc2403a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmancity.com%2Ffeatures%2Frock-solid-the-dave-watson-story%2Fassets%2FCejWpITtsx%2Fwide-social-cover.jpg",
+    "link_direct": "https://sports.yahoo.com/articles/dennis-tueart-city-man-seasons-080500962.html",
     "link_sumber": [
-      "https://www.yardbarker.com/soccer/articles/bayern_munich_star_luis_diaz_provides_injury_update_after_champions_league_scare_against_arsenal/s1_17790_44458571"
+      "https://sports.yahoo.com/articles/dennis-tueart-city-man-seasons-080500962.html"
     ],
-    "updated_at": "2026-10-22 20:24:48"
+    "updated_at": "2026-10-23 20:11:28"
+  },
+  {
+    "id": "6c34a098171b",
+    "sumber": "gnews.io",
+    "judul": "Manfaat Wide-Stance Squats",
+    "ringkasan": "Wide-stance squats merupakan latihan yang efektif untuk membangun kekuatan tubuh bagian bawah. Latihan ini secara khusus menargetkan otot-otot yang sering terabaikan dalam squat biasa.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l97420261023130206.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/try-wide-stance-squats-for-stronger-thighs-and-glutes/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/try-wide-stance-squats-for-stronger-thighs-and-glutes/story"
+    ],
+    "updated_at": "2026-10-23 20:11:28"
+  },
+  {
+    "id": "eb23e3c8496f",
+    "sumber": "gnews.io",
+    "judul": "Latihan Lat Pulldown untuk Kekuatan Punggung",
+    "ringkasan": "Lat pulldown adalah salah satu latihan dasar yang sangat penting untuk membangun kekuatan pada otot punggung. Latihan ini menjadi pilihan utama untuk melatih bagian tubuh tersebut.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l33420261023125325.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/lat-pulldown-tips-for-perfect-form/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/lat-pulldown-tips-for-perfect-form/story"
+    ],
+    "updated_at": "2026-10-23 20:11:28"
+  },
+  {
+    "id": "2a98900a38f5",
+    "sumber": "gnews.io",
+    "judul": "Kebugaran Pemain Aston Villa Johan Manzambi",
+    "ringkasan": "Aston Villa sedang menghadapi kekhawatiran terkait kebugaran Johan Manzambi. Hal ini menjelang pertandingan penting Liga Premier melawan Manchester City. Kondisi kebugaran pemain sangat krusial dalam persiapan tim.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.sportsmole.co.uk/thumbor/DGBlmchs3hO5BVofIxYfSVxBx-4=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F10%2Femery-injury-update-email-sportmole-6adb09e57c2b5351380453.png",
+    "link_direct": "https://www.sportsmole.co.uk/football/aston-villa/injury-news/news/unai-emery-facing-major-aston-villa-injury-concern-as-update-emerges-before-man-city_607519.html",
+    "link_sumber": [
+      "https://www.sportsmole.co.uk/football/aston-villa/injury-news/news/unai-emery-facing-major-aston-villa-injury-concern-as-update-emerges-before-man-city_607519.html"
+    ],
+    "updated_at": "2026-10-23 20:11:28"
   }
 ]
