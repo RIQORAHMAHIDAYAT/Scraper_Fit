@@ -1,44 +1,128 @@
 [
   {
-    "id": "c098f8b2fb46",
+    "id": "223816dc6be3",
     "sumber": "newsdata.io",
-    "judul": "Dampak Jadwal Formula 1 yang Padat",
-    "ringkasan": "Jadwal Formula 1 yang padat dengan sembilan balapan dalam sebelas minggu mendorong para pembalap hingga batas fisiologis mereka. Dampak dari jadwal yang tiada henti ini melampaui kelelahan sederhana dan memengaruhi performa keseluruhan.",
+    "judul": "Mengatasi Pusing Saat Berdiri Terlalu Cepat",
+    "ringkasan": "Seorang neurolog menjelaskan mengapa berdiri terlalu cepat dapat menyebabkan pusing dan penglihatan kabur. Artikel ini memberikan pemahaman tentang mekanisme di balik kondisi ini dan cara mencegahnya.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/10/28110110/mercedes-kimi-antonelli-2026-singapore-grand-prix.jpg",
-    "link_direct": "https://www.planetf1.com/news/f1-2026-calendar-hidden-toll-nine-races-11-weeks",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/30/1600x900/logo/pexels-photo-7298391_1793343774634_aLwX_1793343786149_BRIY_d65641ce-ea65-49a8-8066-ba1cf0728b4a_RMk7.jpeg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/everyday-explained-why-getting-up-too-quickly-from-a-sitting-or-lying-position-can-leave-you-feeling-dizzy-101793343608294.html",
     "link_sumber": [
-      "https://www.planetf1.com/news/f1-2026-calendar-hidden-toll-nine-races-11-weeks"
+      "https://www.hindustantimes.com/lifestyle/health/everyday-explained-why-getting-up-too-quickly-from-a-sitting-or-lying-position-can-leave-you-feeling-dizzy-101793343608294.html"
     ],
-    "updated_at": "2026-10-29 21:31:53"
+    "updated_at": "2026-10-30 21:13:31"
   },
   {
-    "id": "8c2843fdfdd9",
+    "id": "5f699eeaf5df",
     "sumber": "newsdata.io",
-    "judul": "Masalah Cedera Chelsea di Carabao Cup",
-    "ringkasan": "Chelsea menghadapi masalah cedera yang memburuk setelah Maxence Lacroix terpaksa ditarik keluar dari pertandingan Carabao Cup melawan Liverpool. Bek asal Prancis ini mengalami cedera hamstring, menambah beban pada skuad Xabi Alonso yang sudah kekurangan pemain.",
+    "judul": "Manfaat Skateboarding dan Pilates untuk Kesejahteraan Fisik dan Mental",
+    "ringkasan": "Skateboarding dan Pilates adalah dua aktivitas populer yang menawarkan manfaat unik untuk kesejahteraan fisik dan mental. Keduanya dapat berkontribusi pada peningkatan kebugaran dan kesehatan secara menyeluruh.",
+    "tips": [],
+    "kategori": "fleksibilitas",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l55720261030140721.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/skateboarding-v-s-pilates-which-is-better-for-you/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/skateboarding-v-s-pilates-which-is-better-for-you/story"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "ddda15f51707",
+    "sumber": "newsdata.io",
+    "judul": "Latihan Meditasi Tangga: Kombinasi Aktivitas Fisik dan Relaksasi Mental",
+    "ringkasan": "Latihan meditasi tangga menggabungkan aktivitas fisik dengan relaksasi mental. Metode ini menggunakan tangga sebagai alat untuk mencapai kebugaran tubuh dan ketenangan pikiran.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://s.yimg.com/lo/mysterio/api/c3c3e8ad05389dd0a9350559484164e7a2b90bcaf23cdb6686f876253a43ddec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_com_505%2Ff36cdda178ccc3cbd579fc9d555b69cd.jpg",
-    "link_direct": "https://sports.yahoo.com/articles/chelsea-injury-nightmare-deepens-xabi-092616919.html",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l51020261030141512.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/stairway-meditation-workouts-5-surprising-benefits/story",
     "link_sumber": [
-      "https://sports.yahoo.com/articles/chelsea-injury-nightmare-deepens-xabi-092616919.html"
+      "https://www.newsbytesapp.com/news/lifestyle/stairway-meditation-workouts-5-surprising-benefits/story"
     ],
-    "updated_at": "2026-10-29 21:31:53"
+    "updated_at": "2026-10-30 21:13:31"
   },
   {
-    "id": "91a0f87649c1",
+    "id": "292535cd4bfa",
+    "sumber": "newsdata.io",
+    "judul": "Badminton Tunggal untuk Kesehatan yang Lebih Baik",
+    "ringkasan": "Badminton tunggal bukan hanya olahraga yang seru untuk ditonton atau dimainkan. Olahraga ini juga merupakan cara luar biasa untuk meningkatkan kesehatan Anda secara keseluruhan.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l60920261030141705.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/5-amazing-health-benefits-of-badminton-singles/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/5-amazing-health-benefits-of-badminton-singles/story"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "8fca9cec51b9",
     "sumber": "gnews.io",
-    "judul": "Scott Wharton Siap Kembali ke Blackburn Rovers",
-    "ringkasan": "Pemain Scott Wharton dikabarkan telah siap untuk kembali bergabung dengan skuad Blackburn Rovers. Ini adalah berita positif bagi tim yang mungkin membutuhkan tambahan kekuatan.",
+    "judul": "Benefits of Exercise for Women",
+    "ringkasan": "Regular exercise is crucial for women's health. It helps in building strength and protecting bone density. Staying active through exercise ensures long-term well-being.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4188301.jpg",
+    "link_direct": "https://www.thestar.com.my/lifestyle/family/2026/10/30/it039s-never-too-late-to-start-exercising-and-strength-training",
+    "link_sumber": [
+      "https://www.thestar.com.my/lifestyle/family/2026/10/30/it039s-never-too-late-to-start-exercising-and-strength-training"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "ff786f492668",
+    "sumber": "gnews.io",
+    "judul": "Milind Soman's Fitness Journey and Lifestyle Changes",
+    "ringkasan": "Milind Soman shared his personal story of quitting smoking and drinking at a health summit. His fitness journey emphasizes the role of swimming discipline and consistent daily activity. These habits were key in shaping his approach to a healthy lifestyle.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.lancashiretelegraph.co.uk/resources/images/21644412.jpg?type=og-image&xType=0&yType=0",
-    "link_direct": "https://www.lancashiretelegraph.co.uk/sport/26679922.returning-blackburn-rovers-man-keen-prove-fitness/",
+    "gambar": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/milind-soman-and-family-303724823-16x9.jpeg?VersionId=muuhVcl0sHrNKCyuw6PklZ2nEOgh1bF3",
+    "link_direct": "https://www.indiatoday.in/movies/celebrities/story/milind-soman-addiction-journey-smoking-drinking-swimming-discipline-3028438-2026-10-30",
     "link_sumber": [
-      "https://www.lancashiretelegraph.co.uk/sport/26679922.returning-blackburn-rovers-man-keen-prove-fitness/"
+      "https://www.indiatoday.in/movies/celebrities/story/milind-soman-addiction-journey-smoking-drinking-swimming-discipline-3028438-2026-10-30"
     ],
-    "updated_at": "2026-10-29 21:31:53"
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "a12d28426313",
+    "sumber": "gnews.io",
+    "judul": "Skateboarding and Pilates: Benefits for Well-being",
+    "ringkasan": "Skateboarding and Pilates are popular activities known for their diverse advantages. Both offer unique benefits that contribute to improved physical health. They also positively impact mental well-being.",
+    "tips": [],
+    "kategori": "fleksibilitas",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l55720261030140721.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/skateboarding-v-s-pilates-which-is-better-for-you/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/skateboarding-v-s-pilates-which-is-better-for-you/story"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "db6b1abf4a75",
+    "sumber": "gnews.io",
+    "judul": "Seated Boat Pose for Core Strengthening",
+    "ringkasan": "The seated boat pose is a fundamental exercise in both yoga and general fitness programs. It is highly effective for targeting and strengthening the core muscles. Incorporating this pose can significantly improve core stability.",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l49420261030140142.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/seated-boat-pose-variations-a-must-try-for-core-strength/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/seated-boat-pose-variations-a-must-try-for-core-strength/story"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
+  },
+  {
+    "id": "f572ca2c4401",
+    "sumber": "gnews.io",
+    "judul": "Prison PE Instructor Fitness Test",
+    "ringkasan": "This content discusses a personal experience with a fitness test designed for prison PE instructors. It explores the challenges and requirements of such a physical examination. Readers are invited to consider if they could meet the demanding standards.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.independent.co.uk/2026/10/28/14/38/The-Independents-senior-fitness-writer-holding-a-riot-shield-as-part-of-the-prison-PE-instructor-fit.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "link_direct": "https://www.independent.co.uk/health-and-fitness/prison-workout-test-fitness-beep-test-b3074956.html",
+    "link_sumber": [
+      "https://www.independent.co.uk/health-and-fitness/prison-workout-test-fitness-beep-test-b3074956.html"
+    ],
+    "updated_at": "2026-10-30 21:13:31"
   }
 ]
