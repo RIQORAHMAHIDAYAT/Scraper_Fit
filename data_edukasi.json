@@ -1,72 +1,52 @@
 [
   {
-    "id": "085f4db3e666",
-    "sumber": "newsdata.io",
-    "judul": "Sam Goodchild Favorit Juara IMOCA di Route du Rhum",
-    "ringkasan": "Sam Goodchild, skipper dari MACIF Santé Prevoyance, diunggulkan untuk memenangkan kelas IMOCA dalam ajang balap layar Route du Rhum Destination Guadeloupe. Konten ini membahas mengenai atlet dan kompetisi balap layar yang ia ikuti.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "http://yandy.co.uk/photos/open60/350/yysw593791.jpg",
-    "link_direct": "https://www.sail-world.com/news/301175/",
-    "link_sumber": [
-      "https://www.sail-world.com/news/301175/"
-    ],
-    "updated_at": "2026-10-31 20:24:04"
-  },
-  {
-    "id": "ff8894164f64",
-    "sumber": "newsdata.io",
-    "judul": "Koneksi Antara Tidur dan Penuaan Sehat",
-    "ringkasan": "Artikel ini membahas pentingnya tidur berkualitas untuk penuaan yang sehat. Tidur yang cukup dan baik membantu menjaga perhatian, memori, dan suasana hati, yang penting untuk aktivitas harian seperti berjalan kaki atau belajar hal baru. Menjaga kualitas tidur sangat krusial untuk mempertahankan kesehatan fisik dan mental seiring bertambahnya usia.",
-    "tips": [],
-    "kategori": "pemulihan",
-    "gambar": "https://kvia.com/wp-content/uploads/2026/10/BetterSleep-phone.jpg",
-    "link_direct": "https://kvia.com/stacker-longevity/2026/10/31/the-connection-between-sleep-and-healthy-aging/",
-    "link_sumber": [
-      "https://kvia.com/stacker-longevity/2026/10/31/the-connection-between-sleep-and-healthy-aging/"
-    ],
-    "updated_at": "2026-10-31 20:24:04"
-  },
-  {
-    "id": "03ef124c3294",
-    "sumber": "newsdata.io",
-    "judul": "Panduan Mengelola Keringat di Area Selangkangan",
-    "ringkasan": "Artikel ini memberikan panduan untuk mengelola keringat di area selangkangan agar tetap segar dan kering. Keringat adalah cara alami tubuh untuk mendinginkan diri, tetapi area selangkangan memiliki tantangan tersendiri karena kelenjar keringat yang banyak dan pakaian yang membatasi sirkulasi udara. Panduan ini dapat membantu individu yang aktif menjaga kebersihan dan kenyamanan.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://kvia.com/wp-content/uploads/2026/10/AXE-sweat.jpg",
-    "link_direct": "https://kvia.com/stacker-beauty-grooming/2026/10/31/managing-the-sweat-down-there-a-guide-to-staying-fresh-and-dry/",
-    "link_sumber": [
-      "https://kvia.com/stacker-beauty-grooming/2026/10/31/managing-the-sweat-down-there-a-guide-to-staying-fresh-and-dry/"
-    ],
-    "updated_at": "2026-10-31 20:24:04"
-  },
-  {
-    "id": "14e6171b7b2f",
+    "id": "0e6370b1cb8b",
     "sumber": "gnews.io",
-    "judul": "MS Dhoni Ungkap Pentingnya Prioritaskan Kebugaran dan Olahraga bagi Generasi Muda",
-    "ringkasan": "MS Dhoni menyoroti pentingnya kebugaran dan olahraga. Ia menjelaskan bagaimana perubahan kebiasaan makan dan gaya hidup yang kurang gerak membuat generasi muda perlu memprioritaskan aktivitas fisik. Konten ini menekankan perlunya menjadikan kebugaran sebagai bagian tak terpisahkan dari kehidupan.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/Screenshot_2026-01-26_203440_1769439904487_1769439911671_1793429261815_DYIG_c1df12c7-9d2b-423e-bf7d-bff27e614dd6_hyVP.png",
-    "link_direct": "https://www.hindustantimes.com/lifestyle/health/ms-dhoni-explains-why-fitness-is-more-than-just-exercise-encourages-gen-z-and-gen-alpha-to-invest-in-their-long-term-health-101793428717273.html",
-    "link_sumber": [
-      "https://www.hindustantimes.com/lifestyle/health/ms-dhoni-explains-why-fitness-is-more-than-just-exercise-encourages-gen-z-and-gen-alpha-to-invest-in-their-long-term-health-101793428717273.html"
+    "judul": "Membangun Kekuatan Tubuh di Rumah",
+    "ringkasan": "Kekuatan tidak hanya terbatas di pusat kebugaran, melainkan dapat dibangun melalui aktivitas sehari-hari seperti membawa belanjaan atau bermain dengan anak. Anda bisa melatihnya di rumah hanya dalam 20 menit menggunakan berat badan sendiri. Latihan sederhana ini cocok untuk wanita dari segala usia dan tingkat kebugaran, dengan opsi yang lebih mudah bagi pemula.",
+    "tips": [
+      "Anda dapat membangun kekuatan di rumah menggunakan berat badan Anda sendiri dalam sekitar 20 menit.",
+      "Latihan ini cocok untuk wanita dari segala usia dan tingkat kebugaran.",
+      "Konsisten dalam setiap sesi kecil lebih penting daripada kesempurnaan."
     ],
-    "updated_at": "2026-10-31 20:24:04"
-  },
-  {
-    "id": "057c30c81a1f",
-    "sumber": "gnews.io",
-    "judul": "Tren Peptida dalam Dunia Kebugaran dan Kesehatan: Manfaat dan Regulasi Terbaru",
-    "ringkasan": "Peptida menjadi topik hangat di dunia kebugaran dan kesehatan, diklaim memiliki manfaat untuk pemulihan otot, penyembuhan, kulit sehat, dan metabolisme yang lebih baik. Meskipun belum banyak disetujui FDA, ada sinyal perubahan regulasi yang dapat mempermudah akses. Ini menunjukkan perkembangan menarik dalam penggunaan peptida untuk tujuan kesehatan dan kebugaran.",
-    "tips": [],
     "kategori": "kekuatan",
-    "gambar": "https://static.toiimg.com/thumb/msid-135390441,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "link_direct": "https://timesofindia.indiatimes.com/etimes/wellness/peptides-could-soon-be-easier-to-access-in-the-us-6-things-to-know-about-the-hhs-policy-shift-popular-treatments-and-safety-concerns/photostory/135390396.cms",
+    "gambar": "https://static.toiimg.com/thumb/msid-135419131,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/etimes/wellness/5-exercises-women-can-do-at-home-without-gym-equipment-easy-workouts-to-build-strength-and-stay-fit-for-women-of-all-age-group/photostory/135418970.cms",
     "link_sumber": [
-      "https://timesofindia.indiatimes.com/etimes/wellness/peptides-could-soon-be-easier-to-access-in-the-us-6-things-to-know-about-the-hhs-policy-shift-popular-treatments-and-safety-concerns/photostory/135390396.cms"
+      "https://timesofindia.indiatimes.com/etimes/wellness/5-exercises-women-can-do-at-home-without-gym-equipment-easy-workouts-to-build-strength-and-stay-fit-for-women-of-all-age-group/photostory/135418970.cms"
     ],
-    "updated_at": "2026-10-31 20:24:04"
+    "updated_at": "2026-11-01 20:56:38"
+  },
+  {
+    "id": "1d3e1d6d6e4a",
+    "sumber": "gnews.io",
+    "judul": "Kampanye Bersepeda Nasional Fit India",
+    "ringkasan": "Sekitar 1.000 penggemar kebugaran berkumpul di ibu kota pada pagi pertama bulan November untuk kampanye bersepeda. Acara ini merupakan bagian dari kampanye nasional 'Sundays on Cycle' yang diselenggarakan oleh Fit India, dengan partisipasi serentak di seluruh negeri.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZiNWQyOTIwLWQ1Y2ItMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+    "link_direct": "https://www.tribuneindia.com/news/sports/97th-fit-india-sundays-on-cycle-honours-rashtriya-ekta-diwas-brics-sustainable-lifestyle-week/",
+    "link_sumber": [
+      "https://www.tribuneindia.com/news/sports/97th-fit-india-sundays-on-cycle-honours-rashtriya-ekta-diwas-brics-sustainable-lifestyle-week/"
+    ],
+    "updated_at": "2026-11-01 20:56:38"
+  },
+  {
+    "id": "87b7b5225802",
+    "sumber": "gnews.io",
+    "judul": "Manfaat Latihan Singkat untuk Diabetes Tipe 2",
+    "ringkasan": "Sebuah studi baru menunjukkan bahwa hanya empat menit olahraga harian, yang dibagi dalam durasi singkat, dapat membantu penderita diabetes Tipe 2 mengelola lonjakan gula darah. Latihan ini juga berpotensi meningkatkan regulasi glukosa dalam tubuh. Hasil ini memberikan panduan berguna bagi individu yang ingin meningkatkan kesehatan.",
+    "tips": [
+      "Lakukan hanya empat menit olahraga harian, dibagi dalam durasi singkat.",
+      "Latihan ini dapat membantu penderita diabetes Tipe 2 mengelola lonjakan gula darah.",
+      "Olahraga singkat dapat meningkatkan regulasi glukosa."
+    ],
+    "kategori": "umum",
+    "gambar": "https://images.timesnownews.com/thumb/msid-156445422,thumbsize-1286991,width-1280,height-720,resizemode-75/156445422.jpg",
+    "link_direct": "https://www.timesnownews.com/health/can-4-minutes-of-exercise-a-day-keep-diabetes-away-article-156445245",
+    "link_sumber": [
+      "https://www.timesnownews.com/health/can-4-minutes-of-exercise-a-day-keep-diabetes-away-article-156445245"
+    ],
+    "updated_at": "2026-11-01 20:56:38"
   }
 ]
