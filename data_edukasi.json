@@ -1,137 +1,100 @@
 [
   {
-    "id": "31d3f86c0afa",
+    "id": "f2440adfea57",
     "sumber": "newsdata.io",
-    "judul": "Kembalinya Inggris ke Perth untuk Cricket Setelah Kegagalan Ashes",
-    "ringkasan": "",
+    "judul": "Peluncuran Klub Gerakan Baru untuk Aktivitas Fisik di Sekolah",
+    "ringkasan": "Inisiatif 'Let's Move!' meluncurkan Klub Gerakan Baru untuk sekolah, bertujuan mendorong aktivitas fisik di kalangan siswa dan keluarga. Program ini dirancang untuk meningkatkan kebugaran dan kesehatan secara menyeluruh.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://images.thewest.com.au/publication/C-23102516/8508c2d7d189ce5604da6186fc1e80c34358ab60-16x9-x755y0w2733h1538.jpg",
-    "link_direct": "https://thewest.com.au/sport/cricket/england-arrive-back-in-perth-with-fresh-mentality-after-ashes-disaster-c-23102516",
+    "gambar": "https://bradfordian.co.uk/wp-content/uploads/2024/03/cropped-Bradfordian-Favicon.webp",
+    "link_direct": "https://bradfordian.co.uk/news/lets-move-launches-new-moves-club-for-schools/",
     "link_sumber": [
-      "https://thewest.com.au/sport/cricket/england-arrive-back-in-perth-with-fresh-mentality-after-ashes-disaster-c-23102516"
+      "https://bradfordian.co.uk/news/lets-move-launches-new-moves-club-for-schools/"
     ],
-    "updated_at": "2026-11-02 23:47:17"
+    "updated_at": "2026-11-03 22:09:52"
   },
   {
-    "id": "91a7230ce3ea",
-    "sumber": "newsdata.io",
-    "judul": "Pengembangan Fasilitas Rekreasi dan Olahraga Komunitas",
-    "ringkasan": "Investasi ini akan memperluas kesempatan rekreasi bagi anak-anak dan dewasa. Ini juga menciptakan ruang berkumpul untuk berolahraga dan aktivitas luar ruangan, serta acara komunitas.",
-    "tips": [],
-    "kategori": "umum",
-    "gambar": "https://chicagocrusader.com/wp-content/uploads/2026/11/map123.jpg",
-    "link_direct": "https://chicagocrusader.com/legacy-foundation-awards-4-million-for-lake-county-improvements/",
-    "link_sumber": [
-      "https://chicagocrusader.com/legacy-foundation-awards-4-million-for-lake-county-improvements/"
-    ],
-    "updated_at": "2026-11-02 23:47:17"
-  },
-  {
-    "id": "944d4f9d717c",
-    "sumber": "newsdata.io",
-    "judul": "Pelatih Gautam Gambhir Dorong Pemain Kriket India Jaga Kebugaran",
-    "ringkasan": "Pelatih kepala kriket India, Gautam Gambhir, meminta pemainnya untuk menjaga kebugaran. Ia juga mendorong mereka untuk terus meningkatkan permainan selama libur T20 Internasional.",
-    "tips": [
-      "Pemain harus menjaga kebugaran mereka.",
-      "Terus tingkatkan permainan Anda selama libur."
-    ],
-    "kategori": "umum",
-    "gambar": "http://daijiworld.com/images/daijiSquareLogo.png",
-    "link_direct": "https://daijiworld.com/news/newsDisplay?newsID=1334191",
-    "link_sumber": [
-      "https://daijiworld.com/news/newsDisplay?newsID=1334191"
-    ],
-    "updated_at": "2026-11-02 23:47:17"
-  },
-  {
-    "id": "baf130360083",
+    "id": "4c8153cc0076",
     "sumber": "gnews.io",
-    "judul": "James Milner: Profesional Premier League dengan Stamina Legendaris",
-    "ringkasan": "",
+    "judul": "Perjalanan Kembali Kebugaran Atlet Bulutangkis Lakshya Sen",
+    "ringkasan": "Atlet bulutangkis India Lakshya Sen berbagi tentang persiapannya dan perjalanannya untuk kembali ke performa terbaik. Ia menjelaskan bagaimana jadwal turnamen yang padat dan masalah cedera memengaruhi latihan serta kebugaran pertandingannya. Ini memberikan wawasan tentang tantangan atlet dalam menjaga kondisi fisik puncak.",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0YjI0NmUwLWQ3NjgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+    "link_direct": "https://www.tribuneindia.com/news/sports/matches-helped-me-regain-fitness-lakshya-sen-on-road-back-to-form-after-hylo-open-triumph/",
+    "link_sumber": [
+      "https://www.tribuneindia.com/news/sports/matches-helped-me-regain-fitness-lakshya-sen-on-road-back-to-form-after-hylo-open-triumph/"
+    ],
+    "updated_at": "2026-11-03 22:09:52"
+  },
+  {
+    "id": "7ad117986481",
+    "sumber": "gnews.io",
+    "judul": "Fokus Cerita Penurunan Berat Badan Umum",
+    "ringkasan": "Cerita penurunan berat badan seringkali menyoroti transformasi dramatis, diet ketat, atau rutinitas latihan intens. Ini mencerminkan narasi populer yang seringkali menuntut upaya ekstrem. Pemahaman ini penting untuk mendapatkan perspektif yang realistis tentang penurunan berat badan.",
+    "tips": [],
+    "kategori": "nutrisi",
+    "gambar": "https://static.toiimg.com/thumb/msid-135488428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "link_direct": "https://timesofindia.indiatimes.com/life-style/people/in-january-pune-content-creator-meenal-patil-says-she-weighed-125-kg-and-struggled-with-breathlessness-by-november-she-reports-reaching-97-kg-describing-the-ordinary-routines-behind-her-28-kg-change/articleshow/135488388.cms",
+    "link_sumber": [
+      "https://timesofindia.indiatimes.com/life-style/people/in-january-pune-content-creator-meenal-patil-says-she-weighed-125-kg-and-struggled-with-breathlessness-by-november-she-reports-reaching-97-kg-describing-the-ordinary-routines-behind-her-28-kg-change/articleshow/135488388.cms"
+    ],
+    "updated_at": "2026-11-03 22:09:52"
+  },
+  {
+    "id": "c76d53cb1a79",
+    "sumber": "gnews.io",
+    "judul": "Kebugaran Fisik dan Kesehatan Jantung: Pelajaran dari Kematian Maraton",
+    "ringkasan": "Seorang insinyur meninggal setelah maraton, mendorong kardiolog untuk menjelaskan bahwa kebugaran fisik tidak selalu menjamin kesehatan jantung. Kasus ini menyoroti pentingnya memahami risiko kesehatan tersembunyi meskipun aktif secara fisik. Pemeriksaan kesehatan preventif sangat direkomendasikan.",
     "tips": [],
     "kategori": "kardio",
-    "gambar": "https://www.yardbarker.com/media/f/9/f976ded3da90f60e6d4caf85dd82e79d2f1355eb/thumb_16x9/GettyImages-2297868351.jpg",
-    "link_direct": "https://www.yardbarker.com/soccer/articles/james_milner_stuns_fans_with_incredible_new_york_marathon_time_as_liverpool_man_city_icon_proves_he_is_still_a_fitness_machine_at_40/s1_17790_44505000",
+    "gambar": "https://images.news18.com/ibnlive/uploads/2026/10/Image-2-2026-10-a5a66a3681b81b6f3c58de3e998ee54a-1200x675.png",
+    "link_direct": "https://www.news18.com/lifestyle/health-and-fitness/36-year-old-engineer-dies-after-running-marathon-in-hyderabad-10410014.html",
     "link_sumber": [
-      "https://www.yardbarker.com/soccer/articles/james_milner_stuns_fans_with_incredible_new_york_marathon_time_as_liverpool_man_city_icon_proves_he_is_still_a_fitness_machine_at_40/s1_17790_44505000"
+      "https://www.news18.com/lifestyle/health-and-fitness/36-year-old-engineer-dies-after-running-marathon-in-hyderabad-10410014.html"
     ],
-    "updated_at": "2026-11-02 23:47:17"
+    "updated_at": "2026-11-03 22:09:52"
   },
   {
-    "id": "f20026c07255",
+    "id": "5a8ce02bf720",
     "sumber": "gnews.io",
-    "judul": "Cedera Rishabh Pant: Wicketkeeper India Alami Ketegangan Samping",
-    "ringkasan": "",
+    "judul": "Progres Pemulihan Kebugaran Gelandang Tigers",
+    "ringkasan": "Gelandang tim Tigers menunjukkan kemajuan dalam perjalanan panjang menuju kebugaran penuh. Kisah ini menggambarkan dedikasi yang diperlukan atlet untuk kembali ke performa optimal setelah cedera. Ini adalah inspirasi bagi siapa saja yang sedang dalam proses rehabilitasi.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://static.india.com/wp-content/uploads/2026/11/Rishabh_Fitness.jpg",
-    "link_direct": "https://www.india.com/sports/cricket/bad-news-for-shubman-gill-team-india-before-nz-tests-rishabh-pant-has-failed-fitness-test-8541593/",
+    "gambar": "https://i2-prod.hulldailymail.co.uk/article11221246.ece/ALTERNATES/s1200d/0_JS404192130.jpg",
+    "link_direct": "https://www.hulldailymail.co.uk/sport/football/football-news/eliot-matazo-update-hull-city-11221225",
     "link_sumber": [
-      "https://www.india.com/sports/cricket/bad-news-for-shubman-gill-team-india-before-nz-tests-rishabh-pant-has-failed-fitness-test-8541593/"
+      "https://www.hulldailymail.co.uk/sport/football/football-news/eliot-matazo-update-hull-city-11221225"
     ],
-    "updated_at": "2026-11-02 23:47:17"
+    "updated_at": "2026-11-03 22:09:52"
   },
   {
-    "id": "d3cc214c9d79",
+    "id": "37e91402ebe3",
     "sumber": "gnews.io",
-    "judul": "Rishabh Pant Akan Jalani Tes Kebugaran Kedua",
-    "ringkasan": "",
+    "judul": "Tantangan Kebugaran dan Penuaan: Refleksi Amitabh Bachchan",
+    "ringkasan": "Amitabh Bachchan merenungkan penuaan dan tuntutan fisik pekerjaannya, mengakui bahwa rutinitas gym-nya tidak konsisten. Ia menekankan perlunya perhatian lebih pada tubuh dan pikiran. Terlepas dari tantangan, sang aktor bertekad untuk kembali ke jalur kebugaran.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://i.cdn.newsbytesapp.com/images/l69620261102164233.jpeg",
-    "link_direct": "https://www.newsbytesapp.com/news/sports/rishabh-pant-to-undergo-second-fitness-test/story",
+    "gambar": "https://media.assettype.com/freepressjournal/2026-11-03/08t2melj/amitabh-bachchan-.jpg",
+    "link_direct": "https://www.freepressjournal.in/entertainment/amitabh-bachchan-opens-up-about-sleep-troubles-and-fitness-routine-at-84-dont-let-the-old-man",
     "link_sumber": [
-      "https://www.newsbytesapp.com/news/sports/rishabh-pant-to-undergo-second-fitness-test/story"
+      "https://www.freepressjournal.in/entertainment/amitabh-bachchan-opens-up-about-sleep-troubles-and-fitness-routine-at-84-dont-let-the-old-man"
     ],
-    "updated_at": "2026-11-02 23:47:17"
+    "updated_at": "2026-11-03 22:09:52"
   },
   {
-    "id": "5d737b891f27",
+    "id": "dac7318213e0",
     "sumber": "gnews.io",
-    "judul": "Rishabh Pant Akan Menjalani Tes Kebugaran BCCI Lagi",
-    "ringkasan": "",
+    "judul": "Mengenal Latihan Tradisional African Wrist Rolling",
+    "ringkasan": "African wrist rolling adalah sebuah latihan tradisional yang telah dipraktikkan selama berabad-abad. Latihan ini memiliki nilai historis dan potensial manfaat untuk kekuatan pergelangan tangan. Ini menunjukkan bahwa ada berbagai metode latihan kuno yang masih relevan.",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://media.assettype.com/freepressjournal/2026-11-02/c181sfo1/HKDHjGjbEAAk7NI.jpeg",
-    "link_direct": "https://www.freepressjournal.in/sports/rishabh-pant-fails-bcci-fitness-test-in-bengaluru-gets-another-chance-ahead-of-indias-new-zealand-test-series",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l88620261103141927.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/strengthen-your-wrists-with-this-unique-exercise/story",
     "link_sumber": [
-      "https://www.freepressjournal.in/sports/rishabh-pant-fails-bcci-fitness-test-in-bengaluru-gets-another-chance-ahead-of-indias-new-zealand-test-series"
+      "https://www.newsbytesapp.com/news/lifestyle/strengthen-your-wrists-with-this-unique-exercise/story"
     ],
-    "updated_at": "2026-11-02 23:47:17"
-  },
-  {
-    "id": "df8a0ba903bc",
-    "sumber": "gnews.io",
-    "judul": "Saran Diet, Olahraga, Tidur & Suplemen Hadapi Musim Polusi",
-    "ringkasan": "Luke Coutinho memberikan saran mengenai diet, olahraga, tidur, dan penggunaan suplemen untuk menghadapi musim polusi. Namun, ia menekankan bahwa kebiasaan pendukung ini tidak dapat sepenuhnya menggantikan upaya mengurangi paparan udara yang tercemar.",
-    "tips": [
-      "Ikuti panduan diet yang disarankan untuk musim polusi.",
-      "Lakukan olahraga secara teratur sesuai anjuran.",
-      "Pastikan Anda mendapatkan waktu tidur yang cukup.",
-      "Pertimbangkan penggunaan suplemen yang direkomendasikan.",
-      "Selalu usahakan mengurangi paparan langsung terhadap udara yang tercemar."
-    ],
-    "kategori": "nutrisi",
-    "gambar": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/lifestyle-coach-suggests-measures-to-mainatin-your-health-amidts-air-pollution-022235632-16x9_0.jpg?VersionId=e.mLCuBEw6STAf58OTTYGArcI8VUHaHC",
-    "link_direct": "https://www.indiatoday.in/lifestyle/wellness/story/delhis-aqi-is-above-300-luke-coutinho-explains-how-to-pollution-proof-your-body-3030541-2026-11-02",
-    "link_sumber": [
-      "https://www.indiatoday.in/lifestyle/wellness/story/delhis-aqi-is-above-300-luke-coutinho-explains-how-to-pollution-proof-your-body-3030541-2026-11-02"
-    ],
-    "updated_at": "2026-11-02 23:47:17"
-  },
-  {
-    "id": "5a7859463cb2",
-    "sumber": "BBC Sport",
-    "judul": "American Football Lions say signs are positive for injured Campbell",
-    "ringkasan": "",
-    "tips": [],
-    "kategori": "pemulihan",
-    "gambar": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-    "link_direct": "https://www.bbc.com/sport/american-football",
-    "link_sumber": [
-      "https://www.bbc.com/sport/american-football"
-    ],
-    "updated_at": "2026-11-02 23:47:17"
+    "updated_at": "2026-11-03 22:09:52"
   }
 ]
