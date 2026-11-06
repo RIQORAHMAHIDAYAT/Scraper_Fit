@@ -1,72 +1,282 @@
 [
   {
-    "id": "c2fae02465d9",
-    "sumber": "gnews.io",
-    "judul": "Pentingnya Olahraga untuk Keseimbangan",
-    "ringkasan": "Aktris Shweta Tripathi menekankan pentingnya olahraga untuk menjaga keseimbangan, terutama saat musim perayaan seperti Diwali dengan hidangan manis yang menggiurkan. Pendekatan ini membantu mengelola pola makan dan kesejahteraan secara keseluruhan.",
+    "id": "59bb9cecf69f",
+    "sumber": "newsdata.io",
+    "judul": "Scottish Field’s Christmas Gift Guide: Gifts for Him",
+    "ringkasan": "",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260924102F_202611.jpg",
-    "link_direct": "https://www.lokmattimes.com/entertainment/shweta-tripathi-diwali-sweets-are-tempting-but-workout-is-key-for-balance-a001-w02/",
+    "gambar": "https://www.scottishfield.co.uk/wp-content/uploads/2026/11/260721_Really_Wild_Castle_S10_023_copy_low-res.jpg",
+    "link_direct": "https://www.scottishfield.co.uk/fashion/scottish-fields-christmas-gift-guide-gifts-for-him/",
     "link_sumber": [
-      "https://www.lokmattimes.com/entertainment/shweta-tripathi-diwali-sweets-are-tempting-but-workout-is-key-for-balance-a001-w02/"
+      "https://www.scottishfield.co.uk/fashion/scottish-fields-christmas-gift-guide-gifts-for-him/"
     ],
-    "updated_at": "2026-11-05 22:28:33"
+    "updated_at": "2026-11-06 21:52:07"
   },
   {
-    "id": "d98c5e6a526b",
+    "id": "b9ee1930e7fb",
+    "sumber": "newsdata.io",
+    "judul": "'Honor of a lifetime.' Randolph Police Chief Anthony Marag to retire",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.gannett-cdn.com/authoring/authoring-images/2026/11/05/NWKL/92626934007-chief-anthony-t-marag.jpg",
+    "link_direct": "https://www.enterprisenews.com/story/news/local/2026/11/06/randolph-police-chief-anthony-marag-retirement-january-2027-massachusetts/92626693007/",
+    "link_sumber": [
+      "https://www.enterprisenews.com/story/news/local/2026/11/06/randolph-police-chief-anthony-marag-retirement-january-2027-massachusetts/92626693007/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "8b267e8e1dfa",
+    "sumber": "newsdata.io",
+    "judul": "M1 hit by data breach",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": null,
+    "link_direct": "https://www.straitstimes.com/singapore/m1-hit-by-data-breach",
+    "link_sumber": [
+      "https://www.straitstimes.com/singapore/m1-hit-by-data-breach"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "2b9d56f52036",
+    "sumber": "newsdata.io",
+    "judul": "U.S. and Mozambique discuss security, defence and economic cooperation — AFRICOM",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://clubofmozambique.com/wp-content/uploads/2026/11/us_and_mozambique_strengthen_security_cooperation_through_high_level_talks.jpg",
+    "link_direct": "https://clubofmozambique.com/news/u-s-and-mozambique-discuss-security-defence-and-economic-cooperation-africom/",
+    "link_sumber": [
+      "https://clubofmozambique.com/news/u-s-and-mozambique-discuss-security-defence-and-economic-cooperation-africom/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "2dc61751202c",
+    "sumber": "newsdata.io",
+    "judul": "“Protein nationalism”: How geopolitics is reshaping the global ingredients market",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "nutrisi",
+    "gambar": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639295559740139078US_European_Union_and_China_flags..jpg",
+    "link_direct": "https://www.foodingredientsfirst.com/news/protein-nationalism-global-ingredient-markets.html",
+    "link_sumber": [
+      "https://www.foodingredientsfirst.com/news/protein-nationalism-global-ingredient-markets.html"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "b2a7fff2e04a",
+    "sumber": "newsdata.io",
+    "judul": "Cross River commissioner links NDC convoy attack to mobilisation issues",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://cdn.thesun.ng/wp-content/uploads/2026/11/Ekpenyong-Cobhams.jpeg",
+    "link_direct": "https://thesun.ng/cross-river-commissioner-links-ndc-convoy-attack-to-mobilisation-issues/",
+    "link_sumber": [
+      "https://thesun.ng/cross-river-commissioner-links-ndc-convoy-attack-to-mobilisation-issues/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "f2de3241112a",
+    "sumber": "newsdata.io",
+    "judul": "What to do this weekend: Kayla Itsines brings fitness bootcamp energy to Midrand",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://media.citizen.co.za/wp-content/uploads/2026/11/kayla-.jpg",
+    "link_direct": "https://www.citizen.co.za/lifestyle/health/what-to-do-this-weekend-kayla-itsines-brings-fitness-bootcamp-energy-to-midrand/",
+    "link_sumber": [
+      "https://www.citizen.co.za/lifestyle/health/what-to-do-this-weekend-kayla-itsines-brings-fitness-bootcamp-energy-to-midrand/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "23b56105d335",
+    "sumber": "newsdata.io",
+    "judul": "Watchman program reaches 50 implants at McLaren Port Huron",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://www.gannett-cdn.com/authoring/authoring-images/2026/11/04/NTHM/92612038007-50-watchman-port-huron.jpeg",
+    "link_direct": "https://www.thetimesherald.com/story/news/local/2026/11/06/mclaren-port-huron-michigan-watchman-program-reaches-50-afib-patient-implants/92611961007/",
+    "link_sumber": [
+      "https://www.thetimesherald.com/story/news/local/2026/11/06/mclaren-port-huron-michigan-watchman-program-reaches-50-afib-patient-implants/92611961007/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "ade776007eba",
+    "sumber": "newsdata.io",
+    "judul": "Chelsea make big Jamie Gittens transfer decision as FOUR Premier League clubs plot moves",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://images.teamtalk.com/content/uploads/2026/11/06092113/Two-Images-Collage-Jamie-Gittens-Xabi-Alonso-1-1.jpg",
+    "link_direct": "https://www.teamtalk.com/chelsea/jamie-gittens-transfer-decision-four-premier-league-clubs-plot-moves",
+    "link_sumber": [
+      "https://www.teamtalk.com/chelsea/jamie-gittens-transfer-decision-four-premier-league-clubs-plot-moves"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "8b89b567669c",
+    "sumber": "newsdata.io",
+    "judul": "Pharma stocks rally: Aurobindo, Divi's, Glenmark, Symbiotec hit new highs",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601011.jpg",
+    "link_direct": "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html",
+    "link_sumber": [
+      "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "dfe354abddd9",
     "sumber": "gnews.io",
-    "judul": "Gerakan Dasar Kaki: Squats, Hip Hinges, dan Lunges",
-    "ringkasan": "Gerakan dasar tubuh bagian bawah seperti squats, hip hinges (deadlifts), dan lunges harus menjadi mayoritas dari rutinitas latihan Anda. Gerakan ini esensial untuk membangun kekuatan dan stabilitas.",
+    "judul": "Trump says ‘big, beautiful agreement’ on Ukraine ‘might involve all of Europe’",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://static.standard.co.uk/2026/11/05/23/05-09d3b104a44243daae4709187d8072c4.jpg?crop=5:3,smart&auto=webp&quality=75&width=1200",
+    "link_direct": "https://www.standard.co.uk/news/politics/donald-trump-ukraine-europe-melania-trump-russia-b1303783.html",
+    "link_sumber": [
+      "https://www.standard.co.uk/news/politics/donald-trump-ukraine-europe-melania-trump-russia-b1303783.html"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "4a61b1410167",
+    "sumber": "gnews.io",
+    "judul": "Inside Kriti Sanon’s fitness routine: Actor sweats it out at gym with intense full-body workout featuring strength training and mobility exercises",
+    "ringkasan": "",
     "tips": [],
     "kategori": "kekuatan",
-    "gambar": "https://c.ndtvimg.com/2026-07/ccsi6tek_strength-training-_625x300_30_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-    "link_direct": "https://www.ndtv.com/health/fitness/6-leg-exercises-with-dumbbell-you-can-perform-at-home-12287063",
+    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/WhatsApp_Image__1793955694022_FvUm_1793955694198_fE33_b3a2fe04-f9b9-4198-95d0-b9cac98046aa_DcK7.jpeg",
+    "link_direct": "https://www.hindustantimes.com/lifestyle/health/inside-kriti-sanon-s-fitness-routine-actor-sweats-it-out-at-gym-with-intense-full-body-workout-featuring-strength-training-and-mobility-exercises-101793955419946.html",
     "link_sumber": [
-      "https://www.ndtv.com/health/fitness/6-leg-exercises-with-dumbbell-you-can-perform-at-home-12287063"
+      "https://www.hindustantimes.com/lifestyle/health/inside-kriti-sanon-s-fitness-routine-actor-sweats-it-out-at-gym-with-intense-full-body-workout-featuring-strength-training-and-mobility-exercises-101793955419946.html"
     ],
-    "updated_at": "2026-11-05 22:28:33"
+    "updated_at": "2026-11-06 21:52:07"
   },
   {
-    "id": "fcd1670ccdc1",
+    "id": "696e8a4a686e",
     "sumber": "gnews.io",
-    "judul": "Performa Manchester United dalam Statistik Lari di Premier League",
-    "ringkasan": "Manchester United menunjukkan peringkat yang buruk dalam semua statistik lari yang disajikan dibandingkan tim Premier League lainnya. Situasi ini menyoroti tantangan kebugaran dan performa tim yang perlu diperbaiki.",
+    "judul": "Maharashtra dairy row: CM Fadnavis responds to ex-CJI Gavai’s objection",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://images.indianexpress.com/2026/09/fadnavis-_20260909141507.jpg",
+    "link_direct": "https://indianexpress.com/article/cities/mumbai/maharashtra-cabinet-ex-cji-gavai-advice-act-amendment-gokul-fadnavis-10953269/",
+    "link_sumber": [
+      "https://indianexpress.com/article/cities/mumbai/maharashtra-cabinet-ex-cji-gavai-advice-act-amendment-gokul-fadnavis-10953269/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "8bc59dad9bc3",
+    "sumber": "gnews.io",
+    "judul": "Diwali Lung Protection: Doctors Warn Delhi Residents As Pollution Rises",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://c.ndtvimg.com/2026-11/vto5mftg_diwali-lung-protection_625x300_06_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "link_direct": "https://www.ndtv.com/health/living-healthy/diwali-lung-protection-doctors-warn-delhi-residents-as-pollution-rises-12292087",
+    "link_sumber": [
+      "https://www.ndtv.com/health/living-healthy/diwali-lung-protection-doctors-warn-delhi-residents-as-pollution-rises-12292087"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "547b6f012f56",
+    "sumber": "gnews.io",
+    "judul": "India Strengthens Defenses Against Foot",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "kekuatan",
+    "gambar": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611064004345_202611.jpg",
+    "link_direct": "https://www.lokmattimes.com/health/india-strengthens-defenses-against-foot-and-mouth-disease-sat-1-nationwide-drill-concludes-a001-w02/",
+    "link_sumber": [
+      "https://www.lokmattimes.com/health/india-strengthens-defenses-against-foot-and-mouth-disease-sat-1-nationwide-drill-concludes-a001-w02/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "cd58e6917533",
+    "sumber": "gnews.io",
+    "judul": "Cycling v/s skating: Which is better for building strength?",
+    "ringkasan": "",
     "tips": [],
     "kategori": "kardio",
-    "gambar": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739427_1296x729_16%2D9.jpg",
-    "link_direct": "https://www.espn.com/soccer/story/_/id/50347463/how-pre-season-fitness-hinder-premier-league-form",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l74420261031204709.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/cycling-or-skating-which-builds-strength-better/story",
     "link_sumber": [
-      "https://www.espn.com/soccer/story/_/id/50347463/how-pre-season-fitness-hinder-premier-league-form"
+      "https://www.newsbytesapp.com/news/lifestyle/cycling-or-skating-which-builds-strength-better/story"
     ],
-    "updated_at": "2026-11-05 22:28:33"
+    "updated_at": "2026-11-06 21:52:07"
   },
   {
-    "id": "f400cf4a3115",
+    "id": "66c71ae2e47a",
     "sumber": "gnews.io",
-    "judul": "Pentingnya Kekuatan Otot Inti Fungsional untuk Mencegah Cedera",
-    "ringkasan": "Kekuatan otot inti fungsional sangat penting untuk mengurangi risiko jatuh dan cedera, membantu Anda menua dengan lebih baik. Ini adalah aspek krusial untuk meningkatkan kebugaran dan kualitas hidup seiring bertambahnya usia.",
+    "judul": "Seated rows: A beginner-friendly exercise for a stronger upper body",
+    "ringkasan": "",
     "tips": [],
     "kategori": "kekuatan",
-    "gambar": "https://cdn.mos.cms.futurecdn.net/5MF4hLkCejuc5ccmGhP3U7-2560-80.jpg",
-    "link_direct": "https://www.tomsguide.com/wellness/workouts/ive-trained-my-72-year-old-dad-to-move-and-exercise-like-hes-30-years-younger-heres-3-exercises-we-swear-by",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l76820261106132743.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/seated-row-a-must-do-for-back-strength/story",
     "link_sumber": [
-      "https://www.tomsguide.com/wellness/workouts/ive-trained-my-72-year-old-dad-to-move-and-exercise-like-hes-30-years-younger-heres-3-exercises-we-swear-by"
+      "https://www.newsbytesapp.com/news/lifestyle/seated-row-a-must-do-for-back-strength/story"
     ],
-    "updated_at": "2026-11-05 22:28:33"
+    "updated_at": "2026-11-06 21:52:07"
   },
   {
-    "id": "776bf9dc19e5",
+    "id": "be8c10c50fcb",
     "sumber": "gnews.io",
-    "judul": "Acara Akhir Pekan: Film, Festival Makanan, dan Kebugaran di Delhi-NCR",
-    "ringkasan": "HT City menyajikan perencana akhir pekan untuk November 7-8, meliputi berbagai acara di Delhi-NCR. Anda dapat menemukan informasi mengenai film, festival makanan, serta acara kebugaran dan budaya dalam satu tempat.",
+    "judul": "Huge turnout marks inaugural Sun Life Bik & Run at Vermosa",
+    "ringkasan": "",
     "tips": [],
     "kategori": "umum",
-    "gambar": "https://www.hindustantimes.com/ht-img/img/2026/11/05/1600x900/logo/At-the-theatres-this-weekend--watch-Ramayana-featu_1793869152133_17OV.jpg",
-    "link_direct": "https://www.hindustantimes.com/htcity/htcity-delhi-junction/weekend-planner-november-7-and-8-delhi-ncr-residents-here-s-everything-you-must-check-out-101793869156404.html",
+    "gambar": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+    "link_direct": "https://www.manilatimes.net/2026/11/06/sports/huge-turnout-marks-inaugural-sun-life-bik-run-at-vermosa/2463848",
     "link_sumber": [
-      "https://www.hindustantimes.com/htcity/htcity-delhi-junction/weekend-planner-november-7-and-8-delhi-ncr-residents-here-s-everything-you-must-check-out-101793869156404.html"
+      "https://www.manilatimes.net/2026/11/06/sports/huge-turnout-marks-inaugural-sun-life-bik-run-at-vermosa/2463848"
     ],
-    "updated_at": "2026-11-05 22:28:33"
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "e7114a90b3e0",
+    "sumber": "gnews.io",
+    "judul": "Microsoft Abandons Major Extension of Its Contract With Nscale in Texas",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "umum",
+    "gambar": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-11-03T120845Z_1_LYNXMPELA20J0_RTROPTP_4_MICROSOFT-RESULTS.JPG",
+    "link_direct": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/news/Microsoft-Abandons-Major-Extension-of-Its-Contract-With-Nscale-in-Texas-54671010/",
+    "link_sumber": [
+      "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/news/Microsoft-Abandons-Major-Extension-of-Its-Contract-With-Nscale-in-Texas-54671010/"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
+  },
+  {
+    "id": "53d4801fd8e5",
+    "sumber": "gnews.io",
+    "judul": "Cable rows: A simple workout to build a stronger back",
+    "ringkasan": "",
+    "tips": [],
+    "kategori": "postur",
+    "gambar": "https://i.cdn.newsbytesapp.com/images/l93320261106125623.jpeg",
+    "link_direct": "https://www.newsbytesapp.com/news/lifestyle/cable-row-a-must-do-for-back-posture/story",
+    "link_sumber": [
+      "https://www.newsbytesapp.com/news/lifestyle/cable-row-a-must-do-for-back-posture/story"
+    ],
+    "updated_at": "2026-11-06 21:52:07"
   }
 ]
